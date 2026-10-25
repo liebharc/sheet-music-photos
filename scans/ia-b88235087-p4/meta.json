@@ -1,0 +1,30 @@
+{
+  "id": "ia-b88235087-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b88235087",
+    "url": "https://archive.org/details/b88235087",
+    "file": "b88235087.pdf",
+    "file_sha1": "68cf7eee414926fcee046d4defeaec2a1467a12c",
+    "page": 4,
+    "page_count": 6,
+    "title": "Memories of France = Souvenirs de France",
+    "creator": "Robinson, J. Russel.; Dubin, Al. Lyricist.; Beaudry, R. (Louis-Roméo), 1882-1932. Lyricist.; Barbelle, 1888-1957. Illustrator.; Canfield, Ray. Arranger.",
+    "date": "1928",
+    "publisher": "Waterson, Berlin & Snyder Co.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 4,
+  "files": {
+    "page.pdf": "8dbed23b2b1f0b15dbbd45780c1128437184e972b750f4bc889984dc29151327",
+    "print.pdf": "4eb5c5952951ca73d003180e3caf9e34cc19cc3845ae2e5fc969c92b6a102286"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 27.3
+  }
+}

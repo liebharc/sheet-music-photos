@@ -1,0 +1,30 @@
+{
+  "id": "ia-b1037274x-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b1037274x",
+    "url": "https://archive.org/details/b1037274x",
+    "file": "b1037274x.pdf",
+    "file_sha1": "14286c16065c3aca4c9ee3ab4d1e196f9e2cfabe",
+    "page": 4,
+    "page_count": 6,
+    "title": "Sympathetic Jasper : a drag rag / E. L. Catlin.",
+    "creator": "Catlin, E. L.",
+    "date": "1905",
+    "publisher": "St. Louis, Mo. : published by John Stark & Son",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "11b8790370b57def60563c65019bbddf54fa2e8249fa62b120d7ffa947a57122",
+    "print.pdf": "ad199cda18a81e9610bd8abf105d82cb5eab6aa472ad4ca8a600782021cf9f6e"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 32.1
+  }
+}

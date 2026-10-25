@@ -1,0 +1,30 @@
+{
+  "id": "ia-cbc4171never-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uoftsheetmusic",
+    "identifier": "cbc4171never",
+    "url": "https://archive.org/details/cbc4171never",
+    "file": "cbc4171never.pdf",
+    "file_sha1": "8dc6d28c9f0f518e5a15c61def8b62d0cf451b6f",
+    "page": 4,
+    "page_count": 6,
+    "title": "I never knew I could love anybody (like I'm loving you)",
+    "creator": "Pitts, Tom; Egan, Ray; Marsh, Roy K.; Whiteman, Paul",
+    "date": "1920",
+    "publisher": "Leo Feist, Inc.",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 7,
+  "files": {
+    "page.pdf": "804a78aa301c5ab210f657a81a5c1cf316d48a7fb8c19fee425fd136c338675b",
+    "print.pdf": "e240d150d6cffbbcb103e23672fe534f043231681094d2ecb046b473e8a4740e"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 31.2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ia-gml-us1850s-30-water-marth-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "gml-us1850s-30-water-marth",
+    "url": "https://archive.org/details/gml-us1850s-30-water-marth",
+    "file": "gml-us1850s-30-water-marth.pdf",
+    "file_sha1": "a35a8a6b3c489a2783dbb324630b125c21d8c8e6",
+    "page": 3,
+    "page_count": 4,
+    "title": "Martha polka / by Wm. Waterman.",
+    "creator": "Waterman, William.",
+    "date": "c.a. 1854",
+    "publisher": "Louisville (Main St.) ; St. Louis : Peters, Webb & Co. ; Balmer & Weber,",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 6,
+  "files": {
+    "page.pdf": "011fcfdf032ade177c38bb80b50641435e498664aa60ae98cee37571073a8672",
+    "print.pdf": "5bab750c4f40b0787af1727cb47807771551641f2876233bbd9a608ec534d0c6"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 18.0
+  }
+}

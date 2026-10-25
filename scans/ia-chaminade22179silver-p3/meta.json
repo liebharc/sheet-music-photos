@@ -1,0 +1,30 @@
+{
+  "id": "ia-chaminade22179silver-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uoftsheetmusic",
+    "identifier": "chaminade22179silver",
+    "url": "https://archive.org/details/chaminade22179silver",
+    "file": "chaminade22179silver.pdf",
+    "file_sha1": "8c334e8a40c76938e8f831a6c303c5831ee0da37",
+    "page": 3,
+    "page_count": 6,
+    "title": "The silver ring = L'anneau d'argent",
+    "creator": "Chaminade, Cécile, 1857-1944, composer; Gerard, Rosemonde, 1871-1953, lyricist; Oudin, Eugene, translator",
+    "date": "1893",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 4,
+  "files": {
+    "page.pdf": "28a90eb2bd7301936ce41000aea1606552b585c1e9f47f31a8ad4ac10b4042d3",
+    "print.pdf": "ffe58e874a4d6b28a652675f1518334a2ef5315547237c76df558142eeb409b6"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 27.5
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ia-b10408460-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b10408460",
+    "url": "https://archive.org/details/b10408460",
+    "file": "b10408460.pdf",
+    "file_sha1": "46735f950b973ed8928c536429b6cbfc3030a398",
+    "page": 4,
+    "page_count": 6,
+    "title": "St. Louis fair schottisch",
+    "creator": "Cardella, R. Frank; McLean, A. (Alexander), approximately 1823-",
+    "date": "1867",
+    "publisher": "St. Louis (205 Fourth Str.) : published Rich. J. Compton",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "9e5c3da4e37f99bef2c5f11f923d33fa65ca66b1c5cc22d637dc74ba123b8972",
+    "print.pdf": "666a080804497964a38fd08c254cf676fb888fc77003b7f4ce9572151182b139"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 19.8
+  }
+}

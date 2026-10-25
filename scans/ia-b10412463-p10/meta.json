@@ -1,0 +1,30 @@
+{
+  "id": "ia-b10412463-p10",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b10412463",
+    "url": "https://archive.org/details/b10412463",
+    "file": "b10412463.pdf",
+    "file_sha1": "118134ff57a874892feb39a23b89ca158b20d25f",
+    "page": 10,
+    "page_count": 14,
+    "title": "Tornado galop : (galop di bravoura)",
+    "creator": "Kunkel, Charles, 1840-1923; Valtsin, N. L. (Nicholas L.), 1841-1911",
+    "date": "1871",
+    "publisher": "Saint Louis : Kunkel Brothers",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "3c09a46238a9b93f6bddafd043f7835f6bd782b47f78c3f1fb715b394acd95c3",
+    "print.pdf": "75a2c2dfc8d0ad20ca7b3a8c961288ccb17ccd616d058b647c45fd86ebf399b3"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 25.5
+  }
+}

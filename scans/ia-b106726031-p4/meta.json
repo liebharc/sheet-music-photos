@@ -1,0 +1,30 @@
+{
+  "id": "ia-b106726031-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b106726031",
+    "url": "https://archive.org/details/b106726031",
+    "file": "b106726031.pdf",
+    "file_sha1": "a31b2d98b80541a58b66d4f4394a7442f5eddfb5",
+    "page": 4,
+    "page_count": 6,
+    "title": "Two eyes I idolize",
+    "creator": "Quivey, Mary; Dustin, Eddie. Lyricist.; Kajiwara, T. (Takuma), 1876-1960. Photographer.; Young, W. M. Illustrator.",
+    "date": "1907",
+    "publisher": "Thiebes-Stierlin Music Co.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "b62cd41f0e0161ed2a381c5414961955aae92f7f3c1067b0695c215500553953",
+    "print.pdf": "4867dc71de19a5011280b13135888a9a0ac00aaa965ae0232383f2268bb9a742"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 20.4
+  }
+}

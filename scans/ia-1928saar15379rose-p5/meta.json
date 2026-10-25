@@ -1,0 +1,30 @@
+{
+  "id": "ia-1928saar15379rose-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1928saar15379rose",
+    "url": "https://archive.org/details/1928saar15379rose",
+    "file": "1928saar15379rose.pdf",
+    "file_sha1": "067b43d7e9b6a0ee91134d4e041c41365e545d83",
+    "page": 5,
+    "page_count": 8,
+    "title": "A cycle of Canadian folk songs, no.1. Gay is the rose",
+    "creator": "Gagnon, E.",
+    "date": "1928",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 13,
+  "files": {
+    "page.pdf": "c8c9221756955f99f04eb11e332fce5401ade25babc7825b92b5756359fae40b",
+    "print.pdf": "be353e6f85c2247e3212187e3ce95220526888348dce91c472583dc080f7105e"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 29.4
+  }
+}

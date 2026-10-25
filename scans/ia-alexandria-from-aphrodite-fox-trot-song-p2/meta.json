@@ -1,0 +1,30 @@
+{
+  "id": "ia-alexandria-from-aphrodite-fox-trot-song-p2",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "alexandria-from-aphrodite-fox-trot-song",
+    "url": "https://archive.org/details/alexandria-from-aphrodite-fox-trot-song",
+    "file": "Alexandria (from Aphrodite) Fox Trot Song.PDF",
+    "file_sha1": "3cb36aeeefa6db79ad080a3b8fe93f498092e865",
+    "page": 2,
+    "page_count": 17,
+    "title": "Alexandria (from Aphrodite) Fox Trot Song",
+    "creator": "Goetzl, Anselm",
+    "date": "1919",
+    "publisher": "Witmark",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "1b43c0567549b72e3f37828f058686607bf46d7d2c8434a17c48ca9b5bd83d28",
+    "print.pdf": "ab788719a6e31d4b4d4c63c18f5f63f3d562cad734ae0a0dcc96f56f801aae72"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 45.1
+  }
+}

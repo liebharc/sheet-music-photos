@@ -1,0 +1,31 @@
+{
+  "id": "ia-among-my-souvenirs-ver.-3-p1",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "among-my-souvenirs-ver.-3",
+    "url": "https://archive.org/details/among-my-souvenirs-ver.-3",
+    "file": "Among My Souvenirs - Ver. 3.PDF",
+    "file_sha1": "5a07185ac7a5d6012c55d639d4c908544ad1437e",
+    "page": 1,
+    "page_count": 3,
+    "title": "Among My Souvenirs Ver. 3",
+    "creator": "Nicholls, Horatio, and Edgar Leslie",
+    "date": "1927",
+    "publisher": "Wright (UK); Crawford Music (US)",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "da73c0bde2dff55a289bba1f3cf145a601c3816413ea1aa572d7b4583ef52db0",
+    "print.pdf": "a17902e25bff216d16fd7581443ec413295b4e0ccc48eeb437e5922fe3ef4867"
+  },
+  "reference": {
+    "kind": "homr-corrected",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 27.7,
+    "corrections": "homr read staff lines showing through from the back of the page as a staff above the piano introduction and missed one piano measure in the last system. The false staff is replaced by rests in the voice part; the missing measure is added (melody and bass, inner chords left out)."
+  }
+}

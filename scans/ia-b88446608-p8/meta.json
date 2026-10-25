@@ -1,0 +1,30 @@
+{
+  "id": "ia-b88446608-p8",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b88446608",
+    "url": "https://archive.org/details/b88446608",
+    "file": "b88446608.pdf",
+    "file_sha1": "06f08613dd578022cedf2fb5f928a9c31fffadce",
+    "page": 8,
+    "page_count": 18,
+    "title": "Impromptu-valse, op. 94",
+    "creator": "Raff, Joachim, 1822-1882.; Godowsky, Leopold, 1870-1938, writer of accompanying material, editor.; Kelley, Edgar Stillman, 1857-1944, writer of accompanying material.; Whithorne Emerson, 1884-1958, writer of accompanying material.",
+    "date": "1915",
+    "publisher": "Art Publication Society",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis ",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "045e61bc5b5f400b3c59508c333d9068f1e3e32d678c5151d0d963587f4222b6",
+    "print.pdf": "91ae2485151d97e0d3a0cd630ebcd78b18cb472e2cdd41df085539b86b25da50"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "9d64f4256255ab73b9179f144b532a9559be37a2",
+    "seconds": 17.7
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ia-b10000446-p2",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b10000446",
+    "url": "https://archive.org/details/b10000446",
+    "file": "b10000446.pdf",
+    "file_sha1": "9ce8e50350e964403c907095ba1febbdeea2c93b",
+    "page": 2,
+    "page_count": 12,
+    "title": "American patrol medley : as played by Gilmore's famous band",
+    "creator": "",
+    "date": "1890",
+    "publisher": "[St. Louis, Mo.] : Balmer & Weber Music House Co.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 9,
+  "files": {
+    "page.pdf": "11ae91393f9bfdfb2ffe070ce25caf93980bf588cd82ed5698f41a9b914a5ce1",
+    "print.pdf": "5154b949d043147168f971cda8ef88df22d28bb385b284917436bca54d29243b"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 33.6
+  }
+}

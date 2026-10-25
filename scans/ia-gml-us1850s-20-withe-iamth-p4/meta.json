@@ -1,0 +1,30 @@
+{
+  "id": "ia-gml-us1850s-20-withe-iamth-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "gml-us1850s-20-withe-iamth",
+    "url": "https://archive.org/details/gml-us1850s-20-withe-iamth",
+    "file": "gml-us1850s-20-withe-iamth.pdf",
+    "file_sha1": "7c0467ebc1ab684bb8c469455711740e7af000ba",
+    "page": 4,
+    "page_count": 6,
+    "title": "I am thinking of thee Annie : a ballad / words by D. S. Gallagher music by William Withers Jr.",
+    "creator": "Withers, William, 1836-1916.; Gallagher, D. S.; Gillingham, Edwin. Engraver. ; McCaffrey, Henry, publisher. ",
+    "date": "c.a. 1859",
+    "publisher": "Baltimore (207 Baltimore St.) : published by Henry McCaffrey,",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "c142d72ae6ee2fa4440cedcb477767eea38cccb6b1a20c3a3c430a7ab094f205",
+    "print.pdf": "dccad68c3b9a7c1d24dbe42058be17eebb59bc8aa1cec6b0d97e5dd9b51c7cfe"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 28.3
+  }
+}

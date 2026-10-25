@@ -1,0 +1,30 @@
+{
+  "id": "ia-b88154890-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b88154890",
+    "url": "https://archive.org/details/b88154890",
+    "file": "b88154890.pdf",
+    "file_sha1": "e3f19c6997fcb2f04836e57249400dcfed30ae36",
+    "page": 4,
+    "page_count": 6,
+    "title": "Venetian boat song",
+    "creator": "Kern, Carl Wilhelm.",
+    "date": "1920",
+    "publisher": "Shattinger Piano & Music Co.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis ",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 5,
+  "files": {
+    "page.pdf": "f6d9bee404859a59b66c7793e4f89293a5bac1086679c361aa819029115eb7bc",
+    "print.pdf": "fe2865aae712b62ea7568e0640d500f1bad43c34995be699aeb41d7e77300b71"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 15.1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ia-b88155213-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b88155213",
+    "url": "https://archive.org/details/b88155213",
+    "file": "b88155213.pdf",
+    "file_sha1": "cab1ea87a2fc39734fa70f14af3ea3ef0f6588fb",
+    "page": 5,
+    "page_count": 6,
+    "title": "To the spring: etude",
+    "creator": "Armstrong, William D. (William Dawson), 1868-1936",
+    "date": "1902",
+    "publisher": "Breitkopf & Härtel",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "c5c1123f3228ca10ff283c62a1f9839299bb9e6b6c37407bb8c5ee9e17f2a188",
+    "print.pdf": "635733d8ea3393848a06d3886fb20c078fd6d6461f4884564b01875949cc8ef0"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 20.0
+  }
+}

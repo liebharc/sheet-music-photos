@@ -1,0 +1,31 @@
+{
+  "id": "ia-aint-we-got-fun-fox-trot-p23",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "aint-we-got-fun-fox-trot",
+    "url": "https://archive.org/details/aint-we-got-fun-fox-trot",
+    "file": "Ain't We Got Fun Fox Trot.PDF",
+    "file_sha1": "cee3182b48c7cfc9211d8e0a65fae907fdfd646c",
+    "page": 23,
+    "page_count": 28,
+    "title": "Ain't We Got Fun Fox Trot",
+    "creator": "Whiting, Richard A.",
+    "date": "1921",
+    "publisher": "Remick",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 17,
+  "files": {
+    "page.pdf": "31460cac6fa9e4400ef39b968aa977b96cbd7317fd10929487dce0240c69447f",
+    "print.pdf": "ee8dbb5b9f7397353afc1544f738eec99d917363c794c25ea60618118a7fbcc0"
+  },
+  "reference": {
+    "kind": "homr-corrected",
+    "homr_commit": "9d64f4256255ab73b9179f144b532a9559be37a2",
+    "seconds": 57.0,
+    "corrections": "The page holds two parts, 2nd violin (treble clef) and viola (alto clef), each printing its clef only on its first line. homr read one part and guessed treble, alto or bass clef and C major for later lines. Split into two parts, re-read in the printed clefs and key (E flat major throughout), measure repeat signs written out. Naturals homr missed in its C major sections, repeats and endings are not corrected; notes spot-checked against the page."
+  }
+}

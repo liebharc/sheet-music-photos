@@ -1,0 +1,30 @@
+{
+  "id": "ia-b88454009-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b88454009",
+    "url": "https://archive.org/details/b88454009",
+    "file": "b88454009.pdf",
+    "file_sha1": "76db9de3506de52c3f469be81a9b2e5d00e83a2a",
+    "page": 4,
+    "page_count": 6,
+    "title": "The Baltimore bombashay / words by Stanley Murphy ; music by Percy Wenrich.",
+    "creator": "Wenrich, Percy, 1887-1952.; Murphy, Stephen. Lyricist.; Starmer. Illustrator.",
+    "date": "1909",
+    "publisher": "New York : Jerome H. Remick & Co.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "a51ae5998907e29a02610b86cc277178fcc90d157b9d8ed103aa393a7ae433c7",
+    "print.pdf": "30a3740e6ea843d66261634208f273c6d356d5eacca964af7b08056f2ebc716c"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 26.6
+  }
+}

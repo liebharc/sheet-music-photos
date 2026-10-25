@@ -1,0 +1,30 @@
+{
+  "id": "ia-b1001066x-p2",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b1001066x",
+    "url": "https://archive.org/details/b1001066x",
+    "file": "b1001066x.pdf",
+    "file_sha1": "2b2258c74a1196aef40775e2f6f1e83a428e14a2",
+    "page": 2,
+    "page_count": 4,
+    "title": "Milly Low : the forest beauty : song & chorus",
+    "creator": "Thompson, H. S. (Henry S.)",
+    "date": "1866",
+    "publisher": "St. Louis (56 Fourth St., St. Louis) : Balmer & Weber",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 5,
+  "files": {
+    "page.pdf": "4ecea5177ce06b0095ea26bb80a4269ff065bd8a60aa4dbcffa9980203de2003",
+    "print.pdf": "4f69e673436bf3bf36dfacd28c7d0a466dc12f14f842b5a573fe492b4164ab60"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 14.3
+  }
+}

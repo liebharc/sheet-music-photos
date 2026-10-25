@@ -1,0 +1,30 @@
+{
+  "id": "ia-sm_sunsettrailofgold-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "conncollsheetmusic",
+    "identifier": "sm_sunsettrailofgold",
+    "url": "https://archive.org/details/sm_sunsettrailofgold",
+    "file": "sm_sunsettrailofgold.pdf",
+    "file_sha1": "72b2e4323cd1cac7200e552167c53a7aea6e7635",
+    "page": 4,
+    "page_count": 7,
+    "title": "Sunset Trail Of Gold",
+    "creator": "Allie Toland Criss; James G. MacDermid",
+    "date": "1922",
+    "publisher": "Chicago: Forster Music Publisher Inc.",
+    "contributor": "Connecticut College",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 11,
+  "files": {
+    "page.pdf": "cd7c8766a87aa68359840baceaedfb5274f33a4608c418e581ccff5466c11ed7",
+    "print.pdf": "fb38de55c22d33057fa3d948f19ea4b9215d25c9ab920d1a4664ec7d92b9f006"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 22.9
+  }
+}

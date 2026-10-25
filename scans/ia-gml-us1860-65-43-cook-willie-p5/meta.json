@@ -1,0 +1,30 @@
+{
+  "id": "ia-gml-us1860-65-43-cook-willie-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "gml-us1860-65-43-cook-willie",
+    "url": "https://archive.org/details/gml-us1860-65-43-cook-willie",
+    "file": "gml-us1860-65-43-cook-willie.pdf",
+    "file_sha1": "25ac0e55fc1b15bf2155b4b4378c1c3594958a33",
+    "page": 5,
+    "page_count": 6,
+    "title": "Willie dear, come back to me : song / words by Miss Julia P. Burge music by T. J. Cook. ",
+    "creator": "Cook, T. J. (Thomas J.); Burge, Julia P. ; Stackpole, Patrick M. Engraver. ; Clayton. Engraver. ; Perrine, Annie. Dedicatee. ",
+    "date": "c1863. ",
+    "publisher": "New-York (547 Broadway) : Wm. A. Pond & Co.,",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons. org/publicdomain/mark/1. 0/"
+  },
+  "detected_staves": 7,
+  "files": {
+    "page.pdf": "b2f38db11aa7ea32189888dae2970a00cc39f5f667c7316ec231f5473db4adc6",
+    "print.pdf": "34f7caa1273ac7f1a18d2e5dba554ead5a19011406e3fcea2af657b9d68c0da7"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 17.8
+  }
+}

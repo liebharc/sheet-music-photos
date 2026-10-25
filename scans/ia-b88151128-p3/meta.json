@@ -1,0 +1,30 @@
+{
+  "id": "ia-b88151128-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b88151128",
+    "url": "https://archive.org/details/b88151128",
+    "file": "b88151128.pdf",
+    "file_sha1": "3fcc79ab25eaaf347dab23c5ea9db13ddf2fd553",
+    "page": 3,
+    "page_count": 8,
+    "title": "March of the minute men",
+    "creator": "Eaton, E. O. (Edward O.), active 19th century; Gery, L.",
+    "date": "1860",
+    "publisher": "New Orleans (74 Camp St.) : A.E. Blackmar & Bro.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 7,
+  "files": {
+    "page.pdf": "90c2169018feada7f4789dd8f7c54c778f6dde82ccb056889cafae06bdc9e5c1",
+    "print.pdf": "bb28259497d7849f67a83642a53fc9c5c3a28efc9cd52ab0cf87f789c1f474ec"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 21.4
+  }
+}

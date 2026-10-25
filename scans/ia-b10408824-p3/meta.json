@@ -1,0 +1,30 @@
+{
+  "id": "ia-b10408824-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b10408824",
+    "url": "https://archive.org/details/b10408824",
+    "file": "b10408824.pdf",
+    "file_sha1": "608572fef7225c3f33ed366f5b43869983fe03eb",
+    "page": 3,
+    "page_count": 6,
+    "title": "Missouri Alpha waltz",
+    "creator": "Ripley, James W.",
+    "date": "1874",
+    "publisher": "St. Louis, Mo. : published for the author by Balmer & Weber",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "b39e4c060303550a05b4bb5310e9c356eb01d2e0f76199086c696cd3cb70c617",
+    "print.pdf": "0a6f231a4eae4db25a34ade4ff3faba4ca99e559f4da63251abf1a658696ed27"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 28.5
+  }
+}

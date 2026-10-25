@@ -1,0 +1,30 @@
+{
+  "id": "ia-ah-sweet-mystery-of-life-ver.-1-p14",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "ah-sweet-mystery-of-life-ver.-1",
+    "url": "https://archive.org/details/ah-sweet-mystery-of-life-ver.-1",
+    "file": "Ah! Sweet Mystery of Life - Ver. 1.PDF",
+    "file_sha1": "7ca0f176816db6cc1515694e63056cb803e7b354",
+    "page": 14,
+    "page_count": 24,
+    "title": "Ah! Sweet Mystery Of Life Ver. 1",
+    "creator": "Herbert, Victor, and Rida Johnson Young",
+    "date": "1927",
+    "publisher": "Witmark",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 11,
+  "files": {
+    "page.pdf": "58d604036b17b8d1b516e7532cbfc9326ebc48730f6605d29de81a4b42bd5c4e",
+    "print.pdf": "e4bd7c1f480fe3252e25fc2e4bb1c1d8f85237f1a400cb65d1c7ca52b0ff608c"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 19.3
+  }
+}

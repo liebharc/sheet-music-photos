@@ -1,0 +1,30 @@
+{
+  "id": "ia-b10138158-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b10138158",
+    "url": "https://archive.org/details/b10138158",
+    "file": "b10138158.pdf",
+    "file_sha1": "66515f4c1153b00fa14b4e477dc4122eefc1e4de",
+    "page": 3,
+    "page_count": 4,
+    "title": "Mammy's chocolate soldier",
+    "creator": "Gottler, Archie, 1896-1959.; Mitchell, Sidney D., 1888-1942.; F. J. Lawson Co.",
+    "date": "1918",
+    "publisher": "New York (Strand Theatre Bldg., Broadway at 47th St.) : Waterson, Berlin and Snyder Co., music publishers",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 15,
+  "files": {
+    "page.pdf": "2a9dbb3c819f8ebd8279e553e6e5a0c602ec2ca6d60cb634bafde39a13a7976d",
+    "print.pdf": "a61de4926dae945691e4e74b3b204842aa55501d259f657a63c3c5feb9a7962a"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 50.4
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ia-gml-us1860-65-28-asche-chant-p17",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "gml-us1860-65-28-asche-chant",
+    "url": "https://archive.org/details/gml-us1860-65-28-asche-chant",
+    "file": "gml-us1860-65-28-asche-chant.pdf",
+    "file_sha1": "2d6d06add860c9d0ce614b137ed7b6d580839e5e",
+    "page": 17,
+    "page_count": 18,
+    "title": "Le chant des naiades : paraphrase sur une melodie de l'opera Lurline de W. V. Wallace. . . / par J. Ascher. ",
+    "creator": "Ascher, Joseph, 1829-1869; Wallace, William Vincent, 1812-1865. Lurline. Naiad's spell. ; Goddard, Arabella, 1836-1922. Dedicatee. ",
+    "date": "c1863. ",
+    "publisher": "New York (543 Broadway) : published by William Hall & Son,",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons. org/publicdomain/mark/1. 0/"
+  },
+  "detected_staves": 4,
+  "files": {
+    "page.pdf": "7dcf1c65ba00086ff59c091ba7bc015078da174a0b55ba79a3928c04c8ab6ca2",
+    "print.pdf": "3c07b6aa22f332771e066d3d8d17885d4039c501960f005a82c8aac2caf43b62"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 25.6
+  }
+}

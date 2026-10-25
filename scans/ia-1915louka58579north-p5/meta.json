@@ -1,0 +1,30 @@
+{
+  "id": "ia-1915louka58579north-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1915louka58579north",
+    "url": "https://archive.org/details/1915louka58579north",
+    "file": "1915louka58579north.pdf",
+    "file_sha1": "4c9bae98494c67921b495a75df88a0a459ee54d2",
+    "page": 5,
+    "page_count": 6,
+    "title": "The North American, March and Two-Step",
+    "creator": "Louka, Marie",
+    "date": "1915",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "d34015c2a6b13709546095f0294e5e0cb7e9a13a7772d3389633301c6434ac4d",
+    "print.pdf": "9e0f76368a9834048866e99dc7a084642e1b83ac9f1560bd1ff21fe240e40a19"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 36.3
+  }
+}

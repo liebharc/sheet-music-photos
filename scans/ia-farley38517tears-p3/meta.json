@@ -1,0 +1,30 @@
+{
+  "id": "ia-farley38517tears-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uoftsheetmusic",
+    "identifier": "farley38517tears",
+    "url": "https://archive.org/details/farley38517tears",
+    "file": "farley38517tears.pdf",
+    "file_sha1": "3fbcfced343bc2e3dc7fe562a6f62326c6069ac6",
+    "page": 3,
+    "page_count": 6,
+    "title": "Through a mist of tears",
+    "creator": "Farley, Roland, 1892-1932; Harding, Ruth Guthrie",
+    "date": "1922",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 9,
+  "files": {
+    "page.pdf": "f4bc82744f923fd9242ee511a8f7d774e8d86af66f71300ce4080adb3fd5f021",
+    "print.pdf": "fea550c22f882d009f36a7392f487e853dc3b90a9c8202c89438e33b07816b87"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 13.6
+  }
+}

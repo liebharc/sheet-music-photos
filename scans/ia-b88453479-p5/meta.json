@@ -1,0 +1,30 @@
+{
+  "id": "ia-b88453479-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b88453479",
+    "url": "https://archive.org/details/b88453479",
+    "file": "b88453479.pdf",
+    "file_sha1": "9c83acc4a13b9fd4a3a7b6d15baf03de56b77871",
+    "page": 5,
+    "page_count": 6,
+    "title": "The weeping willow : one-step, trot / by Percy Wenrich.",
+    "creator": "Wenrich, Percy, 1887-1952.; Starmer. Illustrator.",
+    "date": "1914",
+    "publisher": "New York (152-154 West 45th Street) : The Wenrich-Howard Co.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "889f9c2e1c3202bd25ebea03f775fdd22a1ea1a499b6e2bc01575f15773bb6fb",
+    "print.pdf": "a8e17e08791c104fc63f9048bdea7301eb74f9ad303c47ba4297b3f2d32ee3ba"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 22.1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ia-b10098409-p12",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b10098409",
+    "url": "https://archive.org/details/b10098409",
+    "file": "b10098409.pdf",
+    "file_sha1": "1f7b4397e5f4a7aae54fbb8478ce6f4aa3756ac9",
+    "page": 12,
+    "page_count": 24,
+    "title": "Dirge for a fallen soldier",
+    "creator": "Treharne, Bryceson, 1879-1948; Boker, George H. (George Henry), 1823-1890",
+    "date": "1917",
+    "publisher": "Boston, Mass. : The Boston Music Company",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 6,
+  "files": {
+    "page.pdf": "be73d7c6b8a50698d9eaf8e7ca7d198abd8c231c0ade1bc5fa924d2a2398dd4f",
+    "print.pdf": "a5dcf904e4a39396b2781c4d4c00c1840d9d8e603071560ba463b3b5f3748599"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 13.1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ia-b90142676-p6",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b90142676",
+    "url": "https://archive.org/details/b90142676",
+    "file": "b90142676.pdf",
+    "file_sha1": "9a134a3e530626a15778db81905ff070e9d9dea2",
+    "page": 6,
+    "page_count": 8,
+    "title": "Heart of gold : song with piano accompaniment / words by Robert W. Service ; music by Ches. Nordman.",
+    "creator": "Nordman, Chester.; Service, Robert W. (Robert William), 1874-1958, Lyricist.; Rayner, Dalheim & Co. Printer.",
+    "date": "1924",
+    "publisher": "St. Louis ; Chicago : published by Dixon-Lane Music Publishing Co.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "79e58bb3428fa8e8c15537b9b4fabaadaffeb4fccf8405df26109dafe80a4bc0",
+    "print.pdf": "342b04aaf05b71f97566fc5b94c739fed0004a872eaf713cb9538e8ef485f7de"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 23.9
+  }
+}

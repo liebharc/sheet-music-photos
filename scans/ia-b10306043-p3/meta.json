@@ -1,0 +1,30 @@
+{
+  "id": "ia-b10306043-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b10306043",
+    "url": "https://archive.org/details/b10306043",
+    "file": "b10306043.pdf",
+    "file_sha1": "94d5e7299c18b982acb30240435f6391664f9d35",
+    "page": 3,
+    "page_count": 3,
+    "title": "Thou art so like a flower : op. 1, no. 3 = (Du bist wie eine Blume) / words by H. Heine ; translated by L.L. Scaife ; music by Henri W.J. Ruifrok.",
+    "creator": "Ruifrok, Henri, 1862-1933.; Heine, Heinrich, 1797-1856.; Scaife, L. L. (Lauriston Livingston), 1850-1926. Translator.",
+    "date": "1892",
+    "publisher": "Chicago (174-176 Wabash Ave.) : Clayton F. Summy",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 5,
+  "files": {
+    "page.pdf": "73e25cc76cd2f0625571ca9764a24208d4c65910c32955c7bb6f0eb800f2398a",
+    "print.pdf": "c6b6aab5697dde8f592e33ae17d0df17ebb5aa4b4713423045dcac89486412b1"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 26.8
+  }
+}

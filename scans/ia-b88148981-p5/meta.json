@@ -1,0 +1,30 @@
+{
+  "id": "ia-b88148981-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b88148981",
+    "url": "https://archive.org/details/b88148981",
+    "file": "b88148981.pdf",
+    "file_sha1": "bbcaaa201bf4a760dd573ecec61593be2f72a16c",
+    "page": 5,
+    "page_count": 6,
+    "title": "The village maiden",
+    "creator": "Foster, Stephen Collins, 1826-1864",
+    "date": "1855",
+    "publisher": "New York (No. 547 Broadway) : Published by Firth, Pond & Co; St. Louis : W.W. Wakelam",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "984d641d5de0ea08fa067623fc5176a881ac11f6b2a674f55c6d8319621e5d45",
+    "print.pdf": "d9e7aa4c1aad23f84fd6787879a08e900b376c7821b507c36991bef760576c0d"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 25.8
+  }
+}

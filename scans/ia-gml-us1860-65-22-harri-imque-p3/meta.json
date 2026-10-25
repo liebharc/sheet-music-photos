@@ -1,0 +1,30 @@
+{
+  "id": "ia-gml-us1860-65-22-harri-imque-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "gml-us1860-65-22-harri-imque",
+    "url": "https://archive.org/details/gml-us1860-65-22-harri-imque",
+    "file": "gml-us1860-65-22-harri-imque.pdf",
+    "file_sha1": "00408b7f1aaf652f5cd78f7c9cd63465a4b678c8",
+    "page": 3,
+    "page_count": 8,
+    "title": "I'm queen of the night / words by Marshall S. Pike, Esq.  composed by James Harrison. ",
+    "creator": "Harrison, James. ; Butler, Mrs. Gen. Dedicatee. ; Pike, Marshall S. (Marshall Spring) ; Schultze, E. Dedicatee. ",
+    "date": "c1865. ",
+    "publisher": "Chicago (69 Dearborn & 88 & 90 Randolph Sts.) : Ziegfeld & Willson at Reed's Temple of Music,",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons. org/publicdomain/mark/1. 0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "09c6fec113e14c59ccad411e850228914b0410e744090605c6e6c6a17f8b8f46",
+    "print.pdf": "103423a5a65bfb0be8c2f6dbac0bca21eb5a7bad993cd81bdd1390dd775afd86"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 23.7
+  }
+}

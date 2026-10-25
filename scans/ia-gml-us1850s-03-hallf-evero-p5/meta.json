@@ -1,0 +1,30 @@
+{
+  "id": "ia-gml-us1850s-03-hallf-evero-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "gml-us1850s-03-hallf-evero",
+    "url": "https://archive.org/details/gml-us1850s-03-hallf-evero",
+    "file": "gml-us1850s-03-hallf-evero.pdf",
+    "file_sha1": "5493139a3e4b52276e1fed20519ee6b5ca60dfd5",
+    "page": 5,
+    "page_count": 8,
+    "title": "Ever of thee : Foley Hall's popular song / transcribed for the piano by Adolph Baumbach",
+    "creator": "Hall, Foley; Baumbach, Adolph, 1830?-1880. Arranger.",
+    "date": "c.a. 1859",
+    "publisher": "Boston (277 Washington St) : Oliver Ditson & Co.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 6,
+  "files": {
+    "page.pdf": "68bb0087e0626654264ff7ed201b299942ce34f1fc4c6c9631a5a6e846fc6b1a",
+    "print.pdf": "f06184d685e2c4fa534c116b7b59b3ea6a77edf0c38af43317e0f35f743a1a85"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 25.9
+  }
+}

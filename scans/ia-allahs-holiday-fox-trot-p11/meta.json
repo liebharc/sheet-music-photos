@@ -1,0 +1,30 @@
+{
+  "id": "ia-allahs-holiday-fox-trot-p11",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "allahs-holiday-fox-trot",
+    "url": "https://archive.org/details/allahs-holiday-fox-trot",
+    "file": "Allah's Holiday Fox Trot.PDF",
+    "file_sha1": "58a9876e28b017ee8311ff55f16335c2555c7b94",
+    "page": 11,
+    "page_count": 43,
+    "title": "Allah's Holiday Fox Trot",
+    "creator": "Friml, Rudolf",
+    "date": "1917",
+    "publisher": "Schirmer",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "c4e71782ae0e463883ab221a5ca252e2b5414cd12fff0c696b4f8249b4b7dcad",
+    "print.pdf": "ae26e82f17e008143ad08cdc65d3596513b5205a4cbd87c694e3a394e9415859"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 16.2
+  }
+}

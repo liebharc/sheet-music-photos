@@ -1,0 +1,30 @@
+{
+  "id": "ia-maude14837white-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uoftsheetmusic",
+    "identifier": "maude14837white",
+    "url": "https://archive.org/details/maude14837white",
+    "file": "Maude14837White.pdf",
+    "file_sha1": "45b9f1443eb695fd283fe98993e3296be9d4cc76",
+    "page": 5,
+    "page_count": 8,
+    "title": "Ici bas = Here below : for voice and piano",
+    "creator": "White, Maude Valérie, 1855-1937; Brownell, Gertrude Hall, 1863-1961; Sully Prudhomme, 1839-1907",
+    "date": "1892",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 9,
+  "files": {
+    "page.pdf": "6ad7418203a3b87807ca70f3a3ccf56d242f03388a987b50f483c8d879510c6d",
+    "print.pdf": "872ac70ee39de9474f21ed9b3720768fa23fa5d1421b4ace6682b9ac9c5bf721"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 24.7
+  }
+}

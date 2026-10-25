@@ -1,0 +1,30 @@
+{
+  "id": "ia-b101463030-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b101463030",
+    "url": "https://archive.org/details/b101463030",
+    "file": "b101463030.pdf",
+    "file_sha1": "7bcb87ce32e459d530ab37b2f6060451b1ba4517",
+    "page": 4,
+    "page_count": 4,
+    "title": "Wait for your honey boy: \"He'll come back to you\"",
+    "creator": "Fifer, C. Arthur.",
+    "date": "1917",
+    "publisher": "",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 9,
+  "files": {
+    "page.pdf": "a18c5b602e2667632e00a4a68f0581ec0735a09ac83ab913711059ff491cbf85",
+    "print.pdf": "493b052b31119063a8e6ec8ca1207225367f93c37102bdd96740e6372f059fec"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 27.6
+  }
+}

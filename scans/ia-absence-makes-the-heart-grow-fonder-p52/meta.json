@@ -1,0 +1,31 @@
+{
+  "id": "ia-absence-makes-the-heart-grow-fonder-p52",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "absence-makes-the-heart-grow-fonder",
+    "url": "https://archive.org/details/absence-makes-the-heart-grow-fonder",
+    "file": "Absence (Makes the Heart Grow Fonder).PDF",
+    "file_sha1": "75b09fffe9b3be5b025ace3c75ba9e1aea534bc8",
+    "page": 52,
+    "page_count": 70,
+    "title": "Absence ( Makes The Heart Grow Fonder)",
+    "creator": "Rosey, Harry, and Alex Sullivan",
+    "date": "1921",
+    "publisher": "Feist",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 11,
+  "files": {
+    "page.pdf": "751f6da4156746cbebb76a69e1dc2938f1021e8ff395e8b46bbc384d27611fc0",
+    "print.pdf": "8603039fa5765c92b51553cecb443a0bae487a07560d3d42a1ebf5f3639d94f3"
+  },
+  "reference": {
+    "kind": "homr-corrected",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 15.6,
+    "corrections": "homr paired the first four single violin lines into two grand staves. Those lines were cut out and read one by one, then joined with homr's reading of the rest; the melody/obligato systems keep homr's two staves. Notes spot-checked; small errors remain."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ia-american-festival-overture-p67",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "american-festival-overture",
+    "url": "https://archive.org/details/american-festival-overture",
+    "file": "American Festival Overture.PDF",
+    "file_sha1": "75f5b40911aedb7efc3ed0fa64ab5cbe79e654ed",
+    "page": 67,
+    "page_count": 87,
+    "title": "American Festival Overture",
+    "creator": "Hegner, Anton",
+    "date": "1910",
+    "publisher": "Schirmer",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 13,
+  "files": {
+    "page.pdf": "f386cab5ed32ed85653e943d02e6da391d57306c4c75e2853e6914dbfb5810c6",
+    "print.pdf": "d44d02aab75481fd6d075632d35fb09d0c5d56cf5276e35e256e91e29a2c909e"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 28.8
+  }
+}

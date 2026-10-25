@@ -1,0 +1,30 @@
+{
+  "id": "ia-1915henry90258goodbye-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1915henry90258goodbye",
+    "url": "https://archive.org/details/1915henry90258goodbye",
+    "file": "1915henry90258goodbye.pdf",
+    "file_sha1": "8a18729a4d14b3e3f2a6794d89ee13f799948e4e",
+    "page": 3,
+    "page_count": 6,
+    "title": "Goodbye dear old Canada : song",
+    "creator": "Henry, Marjorie W.",
+    "date": "1915",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 7,
+  "files": {
+    "page.pdf": "98caf630d5a224c52b1738518c048821e27e9b1154695775f650d9004f6b9784",
+    "print.pdf": "5e6376dbaa843a1d806a960f5e6d205daa90eb371716f274f657ca4f7a85457e"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 14.2
+  }
+}

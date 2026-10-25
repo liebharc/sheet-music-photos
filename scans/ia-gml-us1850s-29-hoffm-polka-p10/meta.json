@@ -1,0 +1,30 @@
+{
+  "id": "ia-gml-us1850s-29-hoffm-polka-p10",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "gml-us1850s-29-hoffm-polka",
+    "url": "https://archive.org/details/gml-us1850s-29-hoffm-polka",
+    "file": "gml-us1850s-29-hoffm-polka.pdf",
+    "file_sha1": "41900815baf442f5343f7a6a4b33569feea6ad0a",
+    "page": 10,
+    "page_count": 12,
+    "title": "Polka de concert : pour le piano / par Richard Hoffman",
+    "creator": "Hoffman, Richard, 1831-1909; Gillet, Louis, 1876-1943. ",
+    "date": "c.a. 1859",
+    "publisher": "New York (701 Broadway) : Beer & Schirmer",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "1d314498397252effe13804935f36b46a017736d82319def0c468332caffeab2",
+    "print.pdf": "79c27dd4fed0af0937da550a216b7a4bcc21f015e141552453450a678306d69e"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 19.2
+  }
+}

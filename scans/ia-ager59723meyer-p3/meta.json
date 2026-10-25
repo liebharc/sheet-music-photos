@@ -1,0 +1,30 @@
+{
+  "id": "ia-ager59723meyer-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uoftsheetmusic",
+    "identifier": "ager59723meyer",
+    "url": "https://archive.org/details/ager59723meyer",
+    "file": "ager59723meyer.pdf",
+    "file_sha1": "93607c2a7349a45658e408a92d190198a66ce43b",
+    "page": 3,
+    "page_count": 4,
+    "title": "Everything is peaches down in Georgia",
+    "creator": "Ager, Milton, 1893-1979; Meyer, George W., 1884-1959; Clarke, Grant",
+    "date": "1918",
+    "publisher": "Leo. Feist, Inc.",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 6,
+  "files": {
+    "page.pdf": "819ba14b32f2deb875d535479c0583b041561f23f6670543dbcc732c0d330fe1",
+    "print.pdf": "d85876895a27c5bb52c91deb4e83d4fef328f770c858ba080a7c7320de6afb0e"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 43.8
+  }
+}

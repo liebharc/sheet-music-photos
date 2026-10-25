@@ -1,0 +1,30 @@
+{
+  "id": "ia-1918neun90263fold-p2",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1918neun90263fold",
+    "url": "https://archive.org/details/1918neun90263fold",
+    "file": "1918neun90263fold.pdf",
+    "file_sha1": "3d33ce7dfaaf917f0e45874cac647211fb1847c1",
+    "page": 2,
+    "page_count": 4,
+    "title": "When the loved one returns to the fold",
+    "creator": "Neun, Ted",
+    "date": "1918",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "3d062326b7b75dce5512f700dbb9c18b076a9bb9d502791d47391ba2f2b774ab",
+    "print.pdf": "5f3757a083d9c2acfd43b0c25f869b5790c2ed2d408cb147b5d538986fe4ab8e"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 33.1
+  }
+}

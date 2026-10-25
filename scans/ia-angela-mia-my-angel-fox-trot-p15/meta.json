@@ -1,0 +1,31 @@
+{
+  "id": "ia-angela-mia-my-angel-fox-trot-p15",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "angela-mia-my-angel-fox-trot",
+    "url": "https://archive.org/details/angela-mia-my-angel-fox-trot",
+    "file": "Angela Mia (My Angel) Fox Trot.PDF",
+    "file_sha1": "70fa4d3a9384d460b44567df2d9d9e9dd20e6832",
+    "page": 15,
+    "page_count": 23,
+    "title": "Angela Mia ( My Angel) Fox Trot",
+    "creator": "Pollack, Lew, and Erno Rapee",
+    "date": "1928",
+    "publisher": "De Sylvia, Brown, and Henderson",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "14b4aeb436324f2f1319fff6a39856fbe16cf846e361672ef496dd164432a935",
+    "print.pdf": "11cd612ed07f3f0a23d848714880329c67844b85ad3f2801bafd483ea7ff80b5"
+  },
+  "reference": {
+    "kind": "homr-corrected",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 23.1,
+    "corrections": "The trombone part prints the clef only on its first line; homr guessed treble or alto clef for several lines. Re-read in bass clef. Keys and the sax cue notes are as homr read them; small errors remain."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ia-arab-dance-danse-arabe.-arabischer-tanz.-p8",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "arab-dance-danse-arabe.-arabischer-tanz.",
+    "url": "https://archive.org/details/arab-dance-danse-arabe.-arabischer-tanz.",
+    "file": "Arab Dance (Danse arabe. Arabischer Tanz.).PDF",
+    "file_sha1": "0d15342a733204af56520bf74feab5f879cb1cea",
+    "page": 8,
+    "page_count": 17,
+    "title": "Arab Dance ( Danse Arabe. Arabischer Tanz.)",
+    "creator": "Ansell, John",
+    "date": "1925",
+    "publisher": "Hawkes",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "f0f9a8b1d11217fef6033bb7a31dabf6c22dff81b23f6cb93682cf93b3c27fe0",
+    "print.pdf": "d898ee927942f4642e816b0692f620c0fb01e08c5c88661e38a32d6211693281"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 11.1
+  }
+}

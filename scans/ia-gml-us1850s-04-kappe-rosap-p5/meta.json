@@ -1,0 +1,30 @@
+{
+  "id": "ia-gml-us1850s-04-kappe-rosap-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "gml-us1850s-04-kappe-rosap",
+    "url": "https://archive.org/details/gml-us1850s-04-kappe-rosap",
+    "file": "gml-us1850s-04-kappe-rosap_Images.pdf",
+    "file_sha1": "e1f069531b3a8f231b519a4234b39061c44c9770",
+    "page": 5,
+    "page_count": 6,
+    "title": "Rosa polka / composed by J. H. Kappes",
+    "creator": "Kappes, J. H.; Shackelford, Bettie. Dedicatee.; Slinglandt, Jacob. Engraver. Printer.",
+    "date": "c.a. 1853",
+    "publisher": "Louisville ; St. Louis ; Peters Webb & Co. ; Balmer & Weber,",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "1067f21dcc31466b142c9e12cfae312ab0eb00f3293b8b522797963fd2ac39bf",
+    "print.pdf": "fa45889ccbdf4f08611ddbcbbe0a8e12aa9a140557f52c348fbd90636ce0cfca"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 34.1
+  }
+}

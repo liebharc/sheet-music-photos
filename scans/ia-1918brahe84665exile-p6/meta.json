@@ -1,0 +1,30 @@
+{
+  "id": "ia-1918brahe84665exile-p6",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1918brahe84665exile",
+    "url": "https://archive.org/details/1918brahe84665exile",
+    "file": "1918brahe84665exile.pdf",
+    "file_sha1": "70860e71d2c3e5b6ca104abbb113bc3c6c875499",
+    "page": 6,
+    "page_count": 8,
+    "title": "A song of exile",
+    "creator": "Brahe, May H. (May Hannah), 1885-1956",
+    "date": "1918",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 6,
+  "files": {
+    "page.pdf": "633862f7c29fe9116a9d69ed0f8653505dea51a7ad41332ed775a3b09ad19fc6",
+    "print.pdf": "ee34b2e18d1d5788424b46d6e063358be3c5a38f62f7922e55c25c8e45998542"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 32.5
+  }
+}

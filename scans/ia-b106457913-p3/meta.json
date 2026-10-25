@@ -1,0 +1,30 @@
+{
+  "id": "ia-b106457913-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b106457913",
+    "url": "https://archive.org/details/b106457913",
+    "file": "b106457913.pdf",
+    "file_sha1": "561b4c160af9b432b2cda5ead5e14990a1b9a46e",
+    "page": 3,
+    "page_count": 8,
+    "title": "Moon-marketing",
+    "creator": "Weaver, Powell, 1890-1951; Le Gallienne, Richard, 1866-1947. Lyricist.",
+    "date": "1924",
+    "publisher": "G. Schirmer, Inc.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 9,
+  "files": {
+    "page.pdf": "8aeebef13e6d2f5952b52c16c0fd7b47cfa2455ba908d6db98f675806ed75c83",
+    "print.pdf": "5e76950e8541ac461ce2701000baf0ab8cfa1f371c68957d7ab182c9e01d0256"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 15.6
+  }
+}

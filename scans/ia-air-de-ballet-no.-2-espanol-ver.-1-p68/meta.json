@@ -1,0 +1,30 @@
+{
+  "id": "ia-air-de-ballet-no.-2-espanol-ver.-1-p68",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "air-de-ballet-no.-2-espanol-ver.-1",
+    "url": "https://archive.org/details/air-de-ballet-no.-2-espanol-ver.-1",
+    "file": "Air de Ballet No. 2 (Espanol) - Ver. 1.PDF",
+    "file_sha1": "2ccbbd2d5cff52c71dac2da22aefbe6d857becbd",
+    "page": 68,
+    "page_count": 68,
+    "title": "Air De Ballet No. 2 ( Espanol) Ver. 1",
+    "creator": "Borch, Gaston",
+    "date": "1917",
+    "publisher": "Schirmer",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "1c8f862fa8621e61e41645e8493a8d3f4d67285e56bfc157d9471d143a842a8a",
+    "print.pdf": "1b9aab9f856e8dabed61b2aa7b9a7918686e085cf75b0320e41e444437e9ccdb"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 33.0
+  }
+}

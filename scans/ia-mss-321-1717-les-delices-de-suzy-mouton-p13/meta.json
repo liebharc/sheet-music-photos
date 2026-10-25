@@ -1,0 +1,30 @@
+{
+  "id": "ia-mss-321-1717-les-delices-de-suzy-mouton-p13",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "mss-321-1717-les-delices-de-suzy-mouton",
+    "url": "https://archive.org/details/mss-321-1717-les-delices-de-suzy-mouton",
+    "file": "MSS-321-1717-Les Délices de Suzy mouton.pdf",
+    "file_sha1": "148324ef85ec0fdced5c028342d9fc5aa9730442",
+    "page": 13,
+    "page_count": 17,
+    "title": "Les Délices De Suzy:Valse Intermezzo",
+    "creator": "H. Mouton",
+    "date": "1925",
+    "publisher": "Yves Manus",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 11,
+  "files": {
+    "page.pdf": "b8f16ca25b47a58c2bee87aaa847286fa487a3f34f017f8dac2b27d1797de743",
+    "print.pdf": "8eb06daed7a48f9a9e430e0305fc3aa91273ffc0c9a1a5c18a189d1cc50cfcfe"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 22.5
+  }
+}

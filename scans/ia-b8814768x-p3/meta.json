@@ -1,0 +1,30 @@
+{
+  "id": "ia-b8814768x-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b8814768x",
+    "url": "https://archive.org/details/b8814768x",
+    "file": "b8814768x.pdf",
+    "file_sha1": "5d9742f8cca496cc72fbb43cdce1f188bcdcb6ed",
+    "page": 3,
+    "page_count": 6,
+    "title": "Lilly day!",
+    "creator": "Graff, George P.",
+    "date": "[between 1860 and 1869]",
+    "publisher": "Cincinnati (66 West Fourth St.) : Published by J. Church, Jr.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 6,
+  "files": {
+    "page.pdf": "aa68e4a127cb911a8291aab960484921f6dfc115c472f82215c4a7ebc85da9c5",
+    "print.pdf": "c895c503aa1536487ec2627651fc8ea57e8f37ac1a47d4a4deb3ff78854981c8"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 11.5
+  }
+}

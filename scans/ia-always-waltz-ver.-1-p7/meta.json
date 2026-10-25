@@ -1,0 +1,30 @@
+{
+  "id": "ia-always-waltz-ver.-1-p7",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "always-waltz-ver.-1",
+    "url": "https://archive.org/details/always-waltz-ver.-1",
+    "file": "Always Waltz - Ver. 1.PDF",
+    "file_sha1": "0f2aa8865f80f94a46c77f068da4d546e62ce383",
+    "page": 7,
+    "page_count": 50,
+    "title": "Always Waltz Ver. 1",
+    "creator": "Berlin, Irving",
+    "date": "1925",
+    "publisher": "Berlin",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "c5076b2014d98a86c7be97603c4d9d2cebca6eae34594239645d64d123f90575",
+    "print.pdf": "fefdf6b6feecfafe6841d9066256111470a09f025148806b3fc3dbdc267ba57c"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 22.4
+  }
+}

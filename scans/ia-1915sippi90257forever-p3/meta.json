@@ -1,0 +1,30 @@
+{
+  "id": "ia-1915sippi90257forever-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1915sippi90257forever",
+    "url": "https://archive.org/details/1915sippi90257forever",
+    "file": "1915sippi90257forever.pdf",
+    "file_sha1": "570e687b897a246276962cd708b87c36b37a7dd4",
+    "page": 3,
+    "page_count": 6,
+    "title": "Canadian forever",
+    "creator": "Sippi, G. B.",
+    "date": "1915",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "c1cd49f2e5936f45127bf017e28c226555b5839b8f297b5885a4e20daf6831eb",
+    "print.pdf": "c72180ffd41ddd0f24477e6509c9622e04d88f861ad0447b1fe2293558903a62"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 18.9
+  }
+}

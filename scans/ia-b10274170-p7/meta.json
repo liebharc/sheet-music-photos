@@ -1,0 +1,30 @@
+{
+  "id": "ia-b10274170-p7",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b10274170",
+    "url": "https://archive.org/details/b10274170",
+    "file": "b10274170.pdf",
+    "file_sha1": "a869faf6514646815add4ce8e17dc42bf693614b",
+    "page": 7,
+    "page_count": 12,
+    "title": "Hirten-Idylle : Concert Stück für Flote mit Clavierbegleitung : op. 58 = Pastusheska︠i︡a idillī︠i︡a = Shepherd idyl / von Ernesto Köhler.",
+    "creator": "Köhler, Ernesto, 1849-1907.; Röder, C. G. Lithographer.; Baker, Theodore, 1851-1934. Editor.",
+    "date": "1891",
+    "publisher": "Chicago : Lyon & Healy",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 4,
+  "files": {
+    "page.pdf": "420b1698f21704a76a6bb4827e76661c71937b292e25809fa038b4d633d7fae0",
+    "print.pdf": "727aaffe107eaec127bb81b64561095f939fecf82240f5b78fd3acfd7f2ac04f"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 33.4
+  }
+}

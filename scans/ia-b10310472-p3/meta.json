@@ -1,0 +1,30 @@
+{
+  "id": "ia-b10310472-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b10310472",
+    "url": "https://archive.org/details/b10310472",
+    "file": "b10310472.pdf",
+    "file_sha1": "02222417492fb2206da8123b0dd9d4ab90789de5",
+    "page": 3,
+    "page_count": 4,
+    "title": "Four little poems. No. 1, The eagle / [Edward Mac Dowell].",
+    "creator": "MacDowell, Edward, 1860-1908.; Tennyson, Alfred Tennyson, Baron, 1809-1892. Eagle.",
+    "date": "1906",
+    "publisher": "New York (24 West 38th St., near 5th Ave) : Breitkopf & Härtel, Inc. ",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "2f883417474cef90d285deec001137894016da21c13bcd5e67e1f9e8579f49aa",
+    "print.pdf": "966d7653ec61807a3727eb8253fb133ca3959d719a5897bf03c9b48900c6a549"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 25.4
+  }
+}

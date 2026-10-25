@@ -1,0 +1,30 @@
+{
+  "id": "ia-b105169328-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b105169328",
+    "url": "https://archive.org/details/b105169328",
+    "file": "b105169328.pdf",
+    "file_sha1": "dfcd9065d83de0695ff99cd9eb237feb27d82eb0",
+    "page": 5,
+    "page_count": 8,
+    "title": "American banner waltz",
+    "creator": "Wallis, Louis.; Weckler, F. Lithographer.",
+    "date": "1858",
+    "publisher": "Balmer & Weber",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 7,
+  "files": {
+    "page.pdf": "23f4e6ced9a7aa660d449fbcb328c4c6112607da2cd01894023c2ec0668fc087",
+    "print.pdf": "c19cf14c9655e52d149d46b6b11bf5183818db73fd0c139e935dd1fa23d3910d"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 28.9
+  }
+}

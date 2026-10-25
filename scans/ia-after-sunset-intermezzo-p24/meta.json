@@ -1,0 +1,30 @@
+{
+  "id": "ia-after-sunset-intermezzo-p24",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "after-sunset-intermezzo",
+    "url": "https://archive.org/details/after-sunset-intermezzo",
+    "file": "After Sunset Intermezzo.PDF",
+    "file_sha1": "58b0fa80378fcc0bd4213a343bc9709a5bce4593",
+    "page": 24,
+    "page_count": 24,
+    "title": "After Sunset Intermezzo",
+    "creator": "Jones, S. C.",
+    "date": "1921",
+    "publisher": "Hawkes",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "2fa767a05f5d3c5f2b329bb447da417779ce1f0e053e82cb5b2331d05d8a3017",
+    "print.pdf": "97daaf77c7ecadff27dfaeacbf7ff55c20f5d0428278e460a4811a437045f1be"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 31.1
+  }
+}

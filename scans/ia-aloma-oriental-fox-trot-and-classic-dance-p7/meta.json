@@ -1,0 +1,30 @@
+{
+  "id": "ia-aloma-oriental-fox-trot-and-classic-dance-p7",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "aloma-oriental-fox-trot-and-classic-dance",
+    "url": "https://archive.org/details/aloma-oriental-fox-trot-and-classic-dance",
+    "file": "Aloma (Oriental) Fox Trot and Classic Dance.PDF",
+    "file_sha1": "3c3a71b414c25485c531644ac72c9dabf681e5d9",
+    "page": 7,
+    "page_count": 15,
+    "title": "Aloma ( Oriental) Fox Trot And Classic Dance",
+    "creator": "Joyce, Archibald",
+    "date": "1919",
+    "publisher": "Ascherberg, Hopwood, & Crew",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "ceed98f864ee354df87a1f4d43a7c8214e033a46d89701090d95f3a3a2724d5a",
+    "print.pdf": "f3f9cd62f5b2336e15b43f1ba0d7e4777a73aa4e8dad023b519f93a9428067e4"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 34.6
+  }
+}

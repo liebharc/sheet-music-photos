@@ -1,0 +1,30 @@
+{
+  "id": "ia-b10409051-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b10409051",
+    "url": "https://archive.org/details/b10409051",
+    "file": "b10409051.pdf",
+    "file_sha1": "004599967b1aa5a12433d1c0f33d5ac6538159ec",
+    "page": 3,
+    "page_count": 4,
+    "title": "The lawn tennis match",
+    "creator": "Kroeger, Ernest R. (Ernest Richard), 1862-1934",
+    "date": "1914",
+    "publisher": "St. Louis : Art Publication Society",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "34848ca707a6b62b658c08b7f5773607dee6211e4cb7318849c0714dcdf1b909",
+    "print.pdf": "2cdc537b7f93471f9fdb02e983dc98a9275f49e142228dd50f2a39f16407cbad"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 22.1
+  }
+}

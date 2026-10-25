@@ -1,0 +1,30 @@
+{
+  "id": "ia-1929lucerne81837alouette-p2",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1929lucerne81837alouette",
+    "url": "https://archive.org/details/1929lucerne81837alouette",
+    "file": "1929lucerne81837alouette.pdf",
+    "file_sha1": "b3bda95ea7c0e070bfbd2063841eecd605bf073c",
+    "page": 2,
+    "page_count": 4,
+    "title": "Alouette : a \"chanson\" of old French Canada which has become the theme song of a new vacationland",
+    "creator": "Lucerne-in-Quebec Community Association",
+    "date": "1929",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "3d7eab5c90d92c80ef41f3276cc4b4dd7d4901cd67cd49f0fefca0b51c9e7b85",
+    "print.pdf": "84d562c8caec20166318e7737591cc46d3dc929934145a003f3beb397a086df5"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 32.4
+  }
+}

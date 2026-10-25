@@ -1,0 +1,30 @@
+{
+  "id": "ia-burleigh44269ethiopia-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uoftsheetmusic",
+    "identifier": "burleigh44269ethiopia",
+    "url": "https://archive.org/details/burleigh44269ethiopia",
+    "file": "burleigh44269ethiopia.pdf",
+    "file_sha1": "a6e27722efe8980e23ea8ec88e10a2e0329b4ab1",
+    "page": 5,
+    "page_count": 12,
+    "title": "Ethiopia saluting the colors",
+    "creator": "Burleigh, H. T. (Harry Thacker), 1866-1949; Whitman, Walt, 1819-1892",
+    "date": "1916",
+    "publisher": "G. Ricordi",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 4,
+  "files": {
+    "page.pdf": "aa7a31707ab24a120c580f3ce71676dc9fd32791a3d180aa48d8729973cb0c30",
+    "print.pdf": "9cfbd0b668224504fe760897553d3ef44ec8453af8dbb24b2979f67db5e9c759"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 23.0
+  }
+}

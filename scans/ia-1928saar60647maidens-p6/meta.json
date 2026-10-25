@@ -1,0 +1,30 @@
+{
+  "id": "ia-1928saar60647maidens-p6",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1928saar60647maidens",
+    "url": "https://archive.org/details/1928saar60647maidens",
+    "file": "1928saar60647maidens.pdf",
+    "file_sha1": "e4220952fb0ca3ff050682250c30a854d77128b2",
+    "page": 6,
+    "page_count": 8,
+    "title": "A cycle of Canadian folk songs, no. 3. Whence, O shepherd maiden? = D'où viens-tu, bergère?",
+    "creator": "Gagnon, E.",
+    "date": "1928",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 4,
+  "files": {
+    "page.pdf": "3f571f581220edb7f8527fd5faecae7935e169c4b6377edce358aec902234f6b",
+    "print.pdf": "aac257d3afb79ddab3a6f8c05b4fcf84f6d39d4454a715ad4534b7b2e3d6fe7c"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 27.9
+  }
+}

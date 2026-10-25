@@ -1,0 +1,31 @@
+{
+  "id": "ia-angry-ver.-3-p8",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "angry-ver.-3",
+    "url": "https://archive.org/details/angry-ver.-3",
+    "file": "Angry - Ver. 3.PDF",
+    "file_sha1": "eb2c548eddd7c933e181d8cf6325d19638290023",
+    "page": 8,
+    "page_count": 12,
+    "title": "Angry Ver. 3",
+    "creator": "Cassard, Jules, and Dudley Mecum, Henry and Merritt Brunies",
+    "date": "1925",
+    "publisher": "Brown",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 4,
+  "files": {
+    "page.pdf": "78288bf147983d399c46e564cd8272dd74a77b02983d626ee9a48f1afd34891d",
+    "print.pdf": "d67f8b09a85a83c5ef87ed66da8ab64568f58eb90290a5116d69f01d9e9b14f4"
+  },
+  "reference": {
+    "kind": "homr-corrected",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 27.1,
+    "corrections": "The single cornet lines print no clef or key; homr guessed bass clef and C major for some. Re-read in treble clef with one sharp. The two braced systems at the top are as homr read them; cue notes and small errors remain."
+  }
+}

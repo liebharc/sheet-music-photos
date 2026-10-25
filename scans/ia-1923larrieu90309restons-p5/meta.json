@@ -1,0 +1,30 @@
+{
+  "id": "ia-1923larrieu90309restons-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1923larrieu90309restons",
+    "url": "https://archive.org/details/1923larrieu90309restons",
+    "file": "1923larrieu90309restons.pdf",
+    "file_sha1": "000c2a1bf17caad64900f4c808cf36f24c2f1668",
+    "page": 5,
+    "page_count": 6,
+    "title": "Restons au Canada",
+    "creator": "Larrieu, Albert",
+    "date": "1923",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "e934bbdd97c644b258e27a3fd3015604952491dfb9bcf176c30a9198e7ab80a3",
+    "print.pdf": "47603560ba2e80ceed34e80629695bec26e2c832b9aba1c740c53ff44ac62c49"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 34.2
+  }
+}

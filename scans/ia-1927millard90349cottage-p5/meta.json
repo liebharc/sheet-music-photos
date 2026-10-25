@@ -1,0 +1,30 @@
+{
+  "id": "ia-1927millard90349cottage-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1927millard90349cottage",
+    "url": "https://archive.org/details/1927millard90349cottage",
+    "file": "1927millard90349cottage.pdf",
+    "file_sha1": "3dfd8f4b524210b9018baaf0212c77bc8a58b8d1",
+    "page": 5,
+    "page_count": 6,
+    "title": "We'll build an old fashioned cottage just for two : chaumiere d'amour",
+    "creator": "Thomas, Millard G.",
+    "date": "1927",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 4,
+  "files": {
+    "page.pdf": "87e3f9a4017d2fd235f85d5f2cb3ffe80820f753e833872a862967aa123739a3",
+    "print.pdf": "8b75824b927fb4b4dcde65f94fc6a770707f92f02897fe91674f3be7e6c93796"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 32.8
+  }
+}

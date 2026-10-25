@@ -1,0 +1,30 @@
+{
+  "id": "ia-sm_crinolinedays-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "conncollsheetmusic",
+    "identifier": "sm_crinolinedays",
+    "url": "https://archive.org/details/sm_crinolinedays",
+    "file": "sm_crinolinedays.pdf",
+    "file_sha1": "c47cf14b5eef85f12744a8985771fdbf36ad9427",
+    "page": 3,
+    "page_count": 7,
+    "title": "Crinoline Days",
+    "creator": "Irving Berlin",
+    "date": "1922",
+    "publisher": "New York : Irving Berlin Inc.",
+    "contributor": "Connecticut College",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "732a1c46e279a38bf1cea4e2f9580db4f6fbe7775b0e71f6b4b4c32e8172f9a3",
+    "print.pdf": "c242247e8b0dbaae409694b6f2361b0d4719382c0a7951c7ed273ecda6d9f31a"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 21.7
+  }
+}

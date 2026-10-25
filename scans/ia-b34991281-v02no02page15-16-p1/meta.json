@@ -1,0 +1,31 @@
+{
+  "id": "ia-b34991281-v02no02page15-16-p1",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b34991281-v02no02page15-16",
+    "url": "https://archive.org/details/b34991281-v02no02page15-16",
+    "file": "b34991281-v02no02page15-16.pdf",
+    "file_sha1": "f31f8fddf4dc6abaa3bfb91974574f8e51166fea",
+    "page": 1,
+    "page_count": 2,
+    "title": "Zweigespräch / Paul Juon.",
+    "creator": "Juon, Paul, 1872-1940.",
+    "date": "1898",
+    "publisher": "Saint Louis (Mo.) : Walter Luhn",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "b53c42cd24df01089225b66f5b96ebf817dbcf07c95d7ed224fae4a04f2341e4",
+    "print.pdf": "ae8d0fb1cdad0236d9ca50ae47e897253d22812157fdcdb6d2255ece07e1ef27"
+  },
+  "reference": {
+    "kind": "homr-corrected",
+    "homr_commit": "9d64f4256255ab73b9179f144b532a9559be37a2",
+    "seconds": 20.9,
+    "corrections": "homr read the grand staff as one staff and added 6 measures that are not on the page. Rewritten as one piano part with two staves and two voices each; notes and rests checked against the page, dynamics and pedal marks left out."
+  }
+}

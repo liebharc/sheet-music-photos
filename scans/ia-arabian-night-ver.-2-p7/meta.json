@@ -1,0 +1,30 @@
+{
+  "id": "ia-arabian-night-ver.-2-p7",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "arabian-night-ver.-2",
+    "url": "https://archive.org/details/arabian-night-ver.-2",
+    "file": "Arabian Night - Ver. 2.PDF",
+    "file_sha1": "cd080581e573f86f7740ebeae34f9bc859b595ab",
+    "page": 7,
+    "page_count": 34,
+    "title": "Arabian Night Ver. 2",
+    "creator": "Mildenberg, A.",
+    "date": "1905",
+    "publisher": "Schirmer",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "9c2a85838569dab8b66e916498394583156dab1ddb85ce99a7fb1bbe174e2be2",
+    "print.pdf": "0cd058ab3278d0c8f937971be505cfe5e47df40797ae20402e495fef8e343747"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 22.9
+  }
+}

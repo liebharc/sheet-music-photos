@@ -1,0 +1,30 @@
+{
+  "id": "ia-otufm69ragamuffin-p7",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uoftsheetmusic",
+    "identifier": "otufm69ragamuffin",
+    "url": "https://archive.org/details/otufm69ragamuffin",
+    "file": "otufm69ragamuffin.pdf",
+    "file_sha1": "bc39b7d0471794e58f8a20c3c2a6d0bf21e6213f",
+    "page": 7,
+    "page_count": 14,
+    "title": "Ragamuffin",
+    "creator": "Greer, Jesse,‏ 1896-1970",
+    "date": "1929",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "945f5fa3003ace5d91c3131e3ee1628eb1ab517c930a7f0263bd3320538aebf5",
+    "print.pdf": "fadd372b6e2db1427da643391c5fed7dc08b30a06e8b0e71da87978bd9f030c1"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 28.5
+  }
+}

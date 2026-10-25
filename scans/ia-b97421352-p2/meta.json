@@ -1,0 +1,30 @@
+{
+  "id": "ia-b97421352-p2",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b97421352",
+    "url": "https://archive.org/details/b97421352",
+    "file": "b97421352.pdf",
+    "file_sha1": "927b572b12fad18f28a53b36c3c1220efa19827b",
+    "page": 2,
+    "page_count": 6,
+    "title": "In dreamy Panama",
+    "creator": "Bennett, Theron C., 1879-1937; Norton, George A., Lyricist.; Pfeiffer, E. H. Illustrator.; Beard, Billy, 1879-1954. Depicted.",
+    "date": "1914",
+    "publisher": "Theron C. Bennett Co.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 11,
+  "files": {
+    "page.pdf": "c0988d81f146fb8a253bba99acbc21a43ee8e81476e04a585883072d58941c33",
+    "print.pdf": "13688d84ec245c5f0bf7659d221c5d8c1a95b7d92c1b1cc8d18f0a98a232a98c"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "9d64f4256255ab73b9179f144b532a9559be37a2",
+    "seconds": 16.9
+  }
+}

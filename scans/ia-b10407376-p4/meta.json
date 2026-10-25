@@ -1,0 +1,30 @@
+{
+  "id": "ia-b10407376-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b10407376",
+    "url": "https://archive.org/details/b10407376",
+    "file": "b10407376.pdf",
+    "file_sha1": "c201cb6c4ec5c764239c4d8442acf6a4c524c1c0",
+    "page": 4,
+    "page_count": 8,
+    "title": "Cracovienne fantastique : op. 14, no. 6",
+    "creator": "Paderewski, Ignace Jan, 1860-1941; Röder, C. G",
+    "date": "[1887]",
+    "publisher": "Boston (26 West St.) : H.B. Stevens Company",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "11b1cec5caa7255bcc349c05171d8700bf7f5b310996c7faa247d2a048ac3c0b",
+    "print.pdf": "0ab66388becea577096ba34aa2b63acad9ba1d19012f9e40a25074b48fdc09f9"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 28.1
+  }
+}

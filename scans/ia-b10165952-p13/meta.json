@@ -1,0 +1,30 @@
+{
+  "id": "ia-b10165952-p13",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b10165952",
+    "url": "https://archive.org/details/b10165952",
+    "file": "b10165952.pdf",
+    "file_sha1": "2afac1a2cd7912bb6685fc4437882a7772145af7",
+    "page": 13,
+    "page_count": 16,
+    "title": "Who can tell : Eighty Eighth Division show : souvenir booklet",
+    "creator": "Collins, Edward Joseph, 1889-1951.; Geer, Hal.  Lyricist.; Stocco, S. J.  Arranger.; United States. Army. Infantry Division, 88th.",
+    "date": "1920",
+    "publisher": "Chicago, Ill. (2054 W. Lake St.) : published by The Clover Leaf Publishing Co.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "ac75e68ddb84851eaae788c5cd85623aa38a2dca5f25c0eb8168eca5a38d984b",
+    "print.pdf": "41280a6daf7e7dd66a3c9fba8dc0136e902fb9d40c84722b9d9329dfd07cb63a"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 31.8
+  }
+}

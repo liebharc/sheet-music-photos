@@ -1,0 +1,30 @@
+{
+  "id": "ia-1928saar27091pledge-p6",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1928saar27091pledge",
+    "url": "https://archive.org/details/1928saar27091pledge",
+    "file": "1928saar27091pledge.pdf",
+    "file_sha1": "6264e2a0a06976131414adbc12064479494a6a73",
+    "page": 6,
+    "page_count": 6,
+    "title": "Pledge the Canadian maiden = Vive la Canadienne",
+    "creator": "Gagnon, E.",
+    "date": "1928",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "5e538105251bb03f0bad654bd57ad4a4e1edd1c23c5290e524ecdfe4f7f27b87",
+    "print.pdf": "8ededf9ae37fc399d91f621123788e6f9fbf873cfdb91d65db0ed0c5f1a1e3f6"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 23.8
+  }
+}

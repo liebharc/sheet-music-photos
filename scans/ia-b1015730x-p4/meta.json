@@ -1,0 +1,30 @@
+{
+  "id": "ia-b1015730x-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b1015730x",
+    "url": "https://archive.org/details/b1015730x",
+    "file": "b1015730x.pdf",
+    "file_sha1": "c8c5214787b46c358a943f588a1349011ab7d3e8",
+    "page": 4,
+    "page_count": 4,
+    "title": "Somebody's love",
+    "creator": "Friedman, Leo, 1869-1927; Weiss, J. I. Lyricist.",
+    "date": "1897",
+    "publisher": "St. Louis Sunday Post-Dispatch",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "9b1a7724efbd0d0d3f7eb248026fcb16eb8502d3d9c0467cdff9a4b218fcb708",
+    "print.pdf": "83d7345c661d0079901f39c094bb203a011cd6cb382a6bbe7f358e5b22e46c70"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 34.9
+  }
+}

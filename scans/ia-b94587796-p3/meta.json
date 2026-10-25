@@ -1,0 +1,30 @@
+{
+  "id": "ia-b94587796-p3",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b94587796",
+    "url": "https://archive.org/details/b94587796",
+    "file": "b94587796.pdf",
+    "file_sha1": "77543fb81da2dcc17ccfa94415918c17a5a61888",
+    "page": 3,
+    "page_count": 6,
+    "title": "Rose buds : polka",
+    "creator": "Becht, Julius; Snyder & Black. Lithographer.",
+    "date": "1869",
+    "publisher": "J.L. Peters & Co.; Peters, J. L. (John L.)",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "2ab1cadaaf08f89cc851fef645579b664e5a5bcbd467838171b07b1f174e159a",
+    "print.pdf": "8b43efc28f64762d1efeaa6d50d312fe8112fbea51d57cad233ea976f2d50bc2"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 16.9
+  }
+}

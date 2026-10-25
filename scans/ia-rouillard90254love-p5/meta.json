@@ -1,0 +1,30 @@
+{
+  "id": "ia-rouillard90254love-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "rouillard90254love",
+    "url": "https://archive.org/details/rouillard90254love",
+    "file": "rouillard90254love.pdf",
+    "file_sha1": "5884cae3011cc9f1623c488cea44a07ff332c37b",
+    "page": 5,
+    "page_count": 8,
+    "title": "Best love (Amour vainqueur) : valse",
+    "creator": "Rouillard, Donalda",
+    "date": "1920",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 5,
+  "files": {
+    "page.pdf": "cbdd3d3185addbf5f2e1fb07f410e23ec39037186111aea10b2067de58188e1c",
+    "print.pdf": "347b3bea850ec1522d3800ab7051efac9f003d029152d41aedc8f9c5550caa3b"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 37.3
+  }
+}

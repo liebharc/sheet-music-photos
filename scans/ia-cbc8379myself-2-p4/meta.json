@@ -1,0 +1,30 @@
+{
+  "id": "ia-cbc8379myself-2-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uoftsheetmusic",
+    "identifier": "cbc8379myself-2",
+    "url": "https://archive.org/details/cbc8379myself-2",
+    "file": "cbc8379myself-2.pdf",
+    "file_sha1": "ee2e97a2ade2f3d6ef67234d611a275a491c4eb3",
+    "page": 4,
+    "page_count": 6,
+    "title": "All by myself",
+    "creator": "Berlin, Irving",
+    "date": "1921",
+    "publisher": "Irving Berlin",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "c7cbe65af97b7d2745d3e5be620fb5d8e64a9f2cff0c6a12ed6e38983beaeb0b",
+    "print.pdf": "e5eda0c27a950bee2284bff2db22975656e9c5a7894efe46185f11d88460e7ef"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 22.9
+  }
+}

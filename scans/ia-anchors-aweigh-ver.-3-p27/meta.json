@@ -1,0 +1,31 @@
+{
+  "id": "ia-anchors-aweigh-ver.-3-p27",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "anchors-aweigh-ver.-3",
+    "url": "https://archive.org/details/anchors-aweigh-ver.-3",
+    "file": "Anchors Aweigh - Ver. 3.PDF",
+    "file_sha1": "4b326979596428e8fe0fe580e765f9765fd80f8a",
+    "page": 27,
+    "page_count": 32,
+    "title": "Anchors Aweigh Ver. 3",
+    "creator": "Zimmermann, Chas. A.",
+    "date": "1907",
+    "publisher": "Robbins",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 9,
+  "files": {
+    "page.pdf": "f9266e6638b999a85445bfd1828f0057cb8461c9a031cffdbc1d39ae58caefff",
+    "print.pdf": "d275743c2b7eca4aad654adfcb90fe9fc0374da7bee4d0ae480c25ce6c2721d0"
+  },
+  "reference": {
+    "kind": "homr-corrected",
+    "homr_commit": "9d64f4256255ab73b9179f144b532a9559be37a2",
+    "seconds": 23.9,
+    "corrections": "The part prints clef and key only on its first line; homr guessed treble or alto clef and the wrong key for later lines. Re-read in bass clef with the printed key (E flat major, C major from the solo), added the printed naturals and triplets, fixed single notes against the page. Repeats, endings and articulations left out; some pitches in the scan are hard to read."
+  }
+}

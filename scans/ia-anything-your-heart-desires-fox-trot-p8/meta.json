@@ -1,0 +1,31 @@
+{
+  "id": "ia-anything-your-heart-desires-fox-trot-p8",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "anything-your-heart-desires-fox-trot",
+    "url": "https://archive.org/details/anything-your-heart-desires-fox-trot",
+    "file": "Anything Your Heart Desires Fox Trot.PDF",
+    "file_sha1": "a4a36384e95f13254cb9ebc54e56550573c4f3b6",
+    "page": 8,
+    "page_count": 21,
+    "title": "Anything Your Heart Desires Fox Trot",
+    "creator": "O'Keefe, Walter, and Harry Archer",
+    "date": "1928",
+    "publisher": "De Sylvia, Brown, and Henderson",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "c14d9777b5c3c9165dca65d39a0fa690956dc51e7cee2dac21170de66d684192",
+    "print.pdf": "39c0f2cd44bf854549b967b78e9b88ab489fa23f98ed59d6b92857c3aeed58f0"
+  },
+  "reference": {
+    "kind": "homr-corrected",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 11.7,
+    "corrections": "homr paired the first four single saxophone lines into two grand staves and guessed bass clef on a later line. Those lines were cut out and read one by one; all lines are read in treble clef. The divisi systems keep homr's two staves. Notes spot-checked; small errors remain."
+  }
+}

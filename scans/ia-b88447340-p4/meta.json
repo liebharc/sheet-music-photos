@@ -1,0 +1,30 @@
+{
+  "id": "ia-b88447340-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b88447340",
+    "url": "https://archive.org/details/b88447340",
+    "file": "b88447340.pdf",
+    "file_sha1": "b2bdfef80e395b7c42c888262205d689968e67ef",
+    "page": 4,
+    "page_count": 6,
+    "title": "Sweetmeats : rag two-step / by Percy Wenrich.",
+    "creator": "Wenrich, Percy, 1887-1952.; Henrich. Illustrator.; Inland-Walton Engraving Co. Printer.",
+    "date": "1907",
+    "publisher": "Chicago : Arnett-Delonais Co.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "9dd2d885d8a993b423bdf7b0efa77ed8e0a241003b6cde692ebd9d520556f3a4",
+    "print.pdf": "844ff3900c58dd615fcad91951456596c7e2a57d29c87625d27a8f9648241a1b"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 21.5
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ia-1917ivey90296canada-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1917ivey90296canada",
+    "url": "https://archive.org/details/1917ivey90296canada",
+    "file": "1917ivey90296canada.pdf",
+    "file_sha1": "9be8b4590be49e8bcc13ebd942c0951fdb11890e",
+    "page": 5,
+    "page_count": 8,
+    "title": "Canada! (Land of the lake and mountain)",
+    "creator": "Ivey, Herbert",
+    "date": "1917",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "2054745cd7223d2235eeb438cf26ab049c0adde52c636bd5b6234bb267808508",
+    "print.pdf": "aa02ef400fd4acc19d60f1144b6059a40b09f73bc9176dc55634866355b5702a"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 33.7
+  }
+}

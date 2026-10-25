@@ -1,0 +1,30 @@
+{
+  "id": "ia-b106282323-p7",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b106282323",
+    "url": "https://archive.org/details/b106282323",
+    "file": "b106282323.pdf",
+    "file_sha1": "fc317be3e1b44942152f7e81e8c73da3e664d628",
+    "page": 7,
+    "page_count": 24,
+    "title": "8 Lieder für eine Singstimme mit Klavier begleitung",
+    "creator": "Meyer, Max Peter, 1892-1950; Burger, Arthur. Associated name.",
+    "date": "1925",
+    "publisher": "Roth, Joh sel. Ww.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 4,
+  "files": {
+    "page.pdf": "5772aaf74c38abe47ff218d4e921c0c96350d6005a0166c03bea5bb03a007b13",
+    "print.pdf": "75bdb94fbbb92555309db80671a75d9dbdc2b5307b72ed2cf0ab81c9187978f9"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 26.5
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ia-1929mcbride82804home-p2",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1929mcbride82804home",
+    "url": "https://archive.org/details/1929mcbride82804home",
+    "file": "1929mcbride82804home.pdf",
+    "file_sha1": "cda181f1339096f9f836f6ec51124d5bbae26cfc",
+    "page": 2,
+    "page_count": 6,
+    "title": "For home and country",
+    "creator": "McBride-Bodman, Mary",
+    "date": "1929",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 7,
+  "files": {
+    "page.pdf": "f7f6b372d883498f002394b64fdd701f92178d0a845f0a935d8e42a9340360f4",
+    "print.pdf": "0dd965a153015f48f59f0d3324ef28fb69d15ce519bf726913a244053c5d5796"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 15.9
+  }
+}

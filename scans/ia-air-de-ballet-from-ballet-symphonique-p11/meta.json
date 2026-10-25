@@ -1,0 +1,30 @@
+{
+  "id": "ia-air-de-ballet-from-ballet-symphonique-p11",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "air-de-ballet-from-ballet-symphonique",
+    "url": "https://archive.org/details/air-de-ballet-from-ballet-symphonique",
+    "file": "Air de Ballet (From Ballet Symphonique).PDF",
+    "file_sha1": "27ce3213174bbd08e04daca791bb39ffe4a1f76e",
+    "page": 11,
+    "page_count": 37,
+    "title": "Air De Ballet ( From Ballet Symphonique)",
+    "creator": "Chaminade, C.",
+    "date": "1903",
+    "publisher": "Lyon & Healy",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "e190ad3998feb596c9b991d9094d577c0a663340942f3c7a867fec0b51799f30",
+    "print.pdf": "ab378aae90e1855eb1835861eb64891c7e185a1a19eb27965c994be425862ad0"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 19.6
+  }
+}

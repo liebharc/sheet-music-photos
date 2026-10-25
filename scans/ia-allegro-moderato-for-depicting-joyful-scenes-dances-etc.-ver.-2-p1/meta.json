@@ -1,0 +1,30 @@
+{
+  "id": "ia-allegro-moderato-for-depicting-joyful-scenes-dances-etc.-ver.-2-p1",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "allegro-moderato-for-depicting-joyful-scenes-dances-etc.-ver.-2",
+    "url": "https://archive.org/details/allegro-moderato-for-depicting-joyful-scenes-dances-etc.-ver.-2",
+    "file": "Allegro Moderato (for depicting joyful scenes, dances, etc.) - Ver. 2.PDF",
+    "file_sha1": "c3f8772263113a332f7412945523c7a970bef8c1",
+    "page": 1,
+    "page_count": 2,
+    "title": "Allegro Moderato (for Depicting Joyful Scenes, Dances, Etc.) Ver. 2",
+    "creator": "Lake, M. L.",
+    "date": "1914",
+    "publisher": "Fischer",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 6,
+  "files": {
+    "page.pdf": "23afc8d6c1815bf62055c2f151a3b64b0b9d4727eaf4183bb67bfbbdca9d5109",
+    "print.pdf": "3843912295cd3c63b790e5c9d7f7529c2c402cb26e1fbb491b38402de05522f8"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 31.2
+  }
+}

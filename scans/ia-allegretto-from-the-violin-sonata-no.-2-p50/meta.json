@@ -1,0 +1,30 @@
+{
+  "id": "ia-allegretto-from-the-violin-sonata-no.-2-p50",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "allegretto-from-the-violin-sonata-no.-2",
+    "url": "https://archive.org/details/allegretto-from-the-violin-sonata-no.-2",
+    "file": "Allegretto From the Violin Sonata No. 2.PDF",
+    "file_sha1": "1815f02c42645012ec2dc8808a5535dfa80ca212",
+    "page": 50,
+    "page_count": 58,
+    "title": "Allegretto From The Violin Sonata No. 2",
+    "creator": "Grieg, Edvard",
+    "date": "1910",
+    "publisher": "Schirmer",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "a039504b1a0c46723a5bc4c31ecc6cd7752672074efb312f11feb411a0b04e16",
+    "print.pdf": "d515e89050fac5c1b6336d210658c50959c5cdd8cb70c2780cd94ee71c1519f9"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 17.5
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ia-1833duff56684montreal-p1",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "canadiansheetmusic",
+    "identifier": "1833duff56684montreal",
+    "url": "https://archive.org/details/1833duff56684montreal",
+    "file": "1833duff56684montreal.pdf",
+    "file_sha1": "9a05533eaf363b996f90a9011fbe7b0474547b7a",
+    "page": 1,
+    "page_count": 2,
+    "title": "The Montreal bazaar waltz",
+    "creator": "Duff, Alexander",
+    "date": "1833",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "4566948e0e49ac58d5ca567d5eca3df1b997be5da74588f75c822939c599cbdc",
+    "print.pdf": "d1ec7948215f736c69007055c437bdb3cee4910b38e2ca91f6d57189d23c706d"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 24.6
+  }
+}

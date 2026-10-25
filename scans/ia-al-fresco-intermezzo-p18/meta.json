@@ -1,0 +1,30 @@
+{
+  "id": "ia-al-fresco-intermezzo-p18",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uno-sheet-music",
+    "identifier": "al-fresco-intermezzo",
+    "url": "https://archive.org/details/al-fresco-intermezzo",
+    "file": "Al Fresco Intermezzo.PDF",
+    "file_sha1": "0d3b85ad0a49cd227a582e4e0bb9c69cb8c9acaa",
+    "page": 18,
+    "page_count": 21,
+    "title": "Al Fresco Intermezzo",
+    "creator": "Herbert, Victor",
+    "date": "1904",
+    "publisher": "Witmark",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 13,
+  "files": {
+    "page.pdf": "38bd3d4749f502d6a47204242d68f8aaa42e154487e83398030c74b3b05c03cc",
+    "print.pdf": "96f9db47bdd9e9ca674f531b967db2e67eea7ae59a189378e14a9ace42bad1d2"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 53.5
+  }
+}

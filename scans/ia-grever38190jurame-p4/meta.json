@@ -1,0 +1,30 @@
+{
+  "id": "ia-grever38190jurame-p4",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uoftsheetmusic",
+    "identifier": "grever38190jurame",
+    "url": "https://archive.org/details/grever38190jurame",
+    "file": "grever38190jurame.pdf",
+    "file_sha1": "e26e5dbb64318696eb6e1bda21ccd220e0f62101",
+    "page": 4,
+    "page_count": 6,
+    "title": "Jurame = Promise, love : Spanish tango for voice and piano",
+    "creator": "Grever, María, 1885-1951; Martens, H., translator",
+    "date": "1926",
+    "publisher": "",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "bd9b8243b2193533d964c95de3dca322a29f88bc937427bcf630b12b9c9cba29",
+    "print.pdf": "a0fcc8336c682d74738220e37d30528ecd682de6693d2236e424afb6c2e62bd8"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 28.7
+  }
+}

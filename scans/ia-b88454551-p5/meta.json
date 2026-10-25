@@ -1,0 +1,30 @@
+{
+  "id": "ia-b88454551-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b88454551",
+    "url": "https://archive.org/details/b88454551",
+    "file": "b88454551.pdf",
+    "file_sha1": "642ab444b8d1b7ce2ebef188b50838f824245fc5",
+    "page": 5,
+    "page_count": 6,
+    "title": "Apple-jack : (\"some rag\") / by Chas. L. Johnson.",
+    "creator": "Johnson, Chas. L. (Charles Leslie), 1876-1950.; H. G. C. (Illustrator). Illustrator.",
+    "date": "1909",
+    "publisher": "Williamsport, Pa. : Vandersloot Music Pub. Co.",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 5,
+  "files": {
+    "page.pdf": "a8f457fbe9de44d0b100f3bc7bc0d3cc319436c529549fd15b74143d5cc736ca",
+    "print.pdf": "ab9a0cc23d8a41de3fd3101abf93dc71a057cbc671df0c2621861e105dcfd226"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 25.4
+  }
+}

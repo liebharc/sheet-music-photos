@@ -1,0 +1,14 @@
+[project]
+name = "sheet-music-photos"
+version = "0.1.0"
+description = "Camera photos of public-domain sheet music scans for OMR evaluation"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+  "pypdf==5.1.0",
+  "pillow==11.0.0",
+  "numpy==2.1.3",
+  "opencv-python-headless==4.10.0.84",
+]
+
+[tool.uv]
+package = false

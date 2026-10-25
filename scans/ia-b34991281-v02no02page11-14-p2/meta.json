@@ -1,0 +1,30 @@
+{
+  "id": "ia-b34991281-v02no02page11-14-p2",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b34991281-v02no02page11-14",
+    "url": "https://archive.org/details/b34991281-v02no02page11-14",
+    "file": "b34991281-v02no02page11-14.pdf",
+    "file_sha1": "3242d55aef602fc748dbf8acb5e9ff2d77613e69",
+    "page": 2,
+    "page_count": 4,
+    "title": "Tarantella / G.A. Neubert.",
+    "creator": "Neubert, G. A.",
+    "date": "1898",
+    "publisher": "Saint Louis (Mo.) : Walter Luhn",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "69b0feb9ce3696d9ffe440236d387322cb05cb783f90126455110a44e548b852",
+    "print.pdf": "a2f76d329a77ab64d8307e9123f3953c6cf368688ddd9d20af4f62ae2cd8ef70"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 25.6
+  }
+}

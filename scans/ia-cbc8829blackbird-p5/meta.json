@@ -1,0 +1,30 @@
+{
+  "id": "ia-cbc8829blackbird-p5",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "uoftsheetmusic",
+    "identifier": "cbc8829blackbird",
+    "url": "https://archive.org/details/cbc8829blackbird",
+    "file": "cbc8829blackbird.pdf",
+    "file_sha1": "a9dece0d9e61d0be93ed279ebbd6df059a398bd7",
+    "page": 5,
+    "page_count": 6,
+    "title": "Bye bye blackbird",
+    "creator": "Henderson, Ray; Dixon, Mort",
+    "date": "1926",
+    "publisher": "Jerome H. Remick & Co.",
+    "contributor": "",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 5,
+  "files": {
+    "page.pdf": "045898739362fc7578c89663931a9b96d5c51c3c255e6f9de123b022706e4546",
+    "print.pdf": "bbd7e530978ea4f36b041dc1abaebda66fba329c498e592030c6af21232b4163"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 25.6
+  }
+}

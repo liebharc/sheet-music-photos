@@ -1,0 +1,30 @@
+{
+  "id": "ia-b97869004-p2",
+  "source": {
+    "collection": "Internet Archive",
+    "ia_collection": "gaylordmusiclibrary",
+    "identifier": "b97869004",
+    "url": "https://archive.org/details/b97869004",
+    "file": "b97869004.pdf",
+    "file_sha1": "1aa53775e8c11c8c72df33b6e3980850dc29fdbb",
+    "page": 2,
+    "page_count": 8,
+    "title": "Tell tale polka: caprice de salon",
+    "creator": "Strakosch, Moritz, -1887.",
+    "date": "1851",
+    "publisher": "Balmer & Weber",
+    "contributor": "Gaylord Music Library, Washington University in St. Louis",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "a171d31090745fb0254c142a9de07a2f087785ab40abcd4d66fe1ca1db212cdc",
+    "print.pdf": "186b030efcae075db355d60671b31794abec42a12325a1d0a0d65f38e8358c51"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
+    "seconds": 18.0
+  }
+}
