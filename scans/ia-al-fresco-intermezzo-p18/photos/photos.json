@@ -1,0 +1,44 @@
+{
+  "photos": [
+    {
+      "file": "01.jpg",
+      "sha256": "b113b162def67d6481bcc4614f201705bdaea675c92cddcac6f5f034f39dfe7b",
+      "contributor": "Christian Liebhardt",
+      "conditions": [],
+      "license": "CC0-1.0",
+      "dedication": "I took these photos myself and dedicate my rights in them to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)."
+    },
+    {
+      "file": "02.jpg",
+      "sha256": "81d760623e67f754907cb6aed10977adbbcd335d2623d6136f4d009dc748deb6",
+      "contributor": "Christian Liebhardt",
+      "conditions": [],
+      "license": "CC0-1.0",
+      "dedication": "I took these photos myself and dedicate my rights in them to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)."
+    },
+    {
+      "file": "03.jpg",
+      "sha256": "71007d562ae8076164123ce0d60a21b4858046e5ad0b308d1975e350b75665d2",
+      "contributor": "Christian Liebhardt",
+      "conditions": [],
+      "license": "CC0-1.0",
+      "dedication": "I took these photos myself and dedicate my rights in them to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)."
+    },
+    {
+      "file": "04.jpg",
+      "sha256": "2814fec9949155507c37fb82525244c8706779f9b44f3fa488c284bf55cc22ae",
+      "contributor": "Christian Liebhardt",
+      "conditions": [],
+      "license": "CC0-1.0",
+      "dedication": "I took these photos myself and dedicate my rights in them to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)."
+    },
+    {
+      "file": "05.jpg",
+      "sha256": "5e010d4aa3b742262cfe27181efc8521c30c5a2593ccab73103fc970b602590b",
+      "contributor": "Christian Liebhardt",
+      "conditions": [],
+      "license": "CC0-1.0",
+      "dedication": "I took these photos myself and dedicate my rights in them to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)."
+    }
+  ]
+}
