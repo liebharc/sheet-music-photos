@@ -23,8 +23,9 @@
     "print.pdf": "ab378aae90e1855eb1835861eb64891c7e185a1a19eb27965c994be425862ad0"
   },
   "reference": {
-    "kind": "homr-unverified",
+    "kind": "homr-corrected",
     "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
-    "seconds": 19.6
+    "seconds": 19.6,
+    "corrections": "Measures (staff:measure) 0:8,22, 1:32 taken from homr 8cd3dc9 after checking them against the page."
   }
 }

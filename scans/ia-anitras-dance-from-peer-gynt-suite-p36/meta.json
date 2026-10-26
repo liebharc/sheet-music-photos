@@ -23,8 +23,9 @@
     "print.pdf": "a4d79d422a14ee28067b6773c64ff47fcfd3ff7ac418eb65e40e8c66d8f779ec"
   },
   "reference": {
-    "kind": "homr-unverified",
+    "kind": "homr-corrected",
     "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
-    "seconds": 30.9
+    "seconds": 30.9,
+    "corrections": "Part 0 rebuilt from measures of the old reference (r) and homr 8cd3dc9 (n) after checking them against the page: r1-40,r43,r42-48,n49,r50-56,r43,r58-84."
   }
 }
