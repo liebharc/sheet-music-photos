@@ -28,6 +28,7 @@
           <sign>G</sign>
           <line>2</line>
         </clef>
+        <staff-details number="2" print-object="no" />
       </attributes>
       <note>
         <pitch>
@@ -120,6 +121,7 @@
       </note>
     </measure>
     <measure number="5">
+      <print new-system="yes" />
       <note>
         <pitch>
           <step>F</step>
@@ -281,6 +283,7 @@
       </note>
     </measure>
     <measure number="9">
+      <print new-system="yes" />
       <note>
         <rest />
         <duration>12</duration>
@@ -319,6 +322,25 @@
         <type>quarter</type>
         <staff>1</staff>
       </note>
+      <backup>
+        <duration>48</duration>
+      </backup>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>12</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+      <forward>
+        <duration>36</duration>
+        <voice>2</voice>
+        <staff>1</staff>
+      </forward>
     </measure>
     <measure number="10">
       <note>
@@ -356,6 +378,59 @@
         <type>whole</type>
         <staff>1</staff>
       </note>
+      <backup>
+        <duration>48</duration>
+      </backup>
+      <note>
+        <rest />
+        <duration>12</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>2</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>12</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>12</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
     </measure>
     <measure number="12">
       <note>
@@ -366,6 +441,50 @@
         <duration>48</duration>
         <voice>1</voice>
         <type>whole</type>
+        <staff>1</staff>
+      </note>
+      <backup>
+        <duration>48</duration>
+      </backup>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>12</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>12</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>12</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>12</duration>
+        <voice>2</voice>
+        <type>quarter</type>
         <staff>1</staff>
       </note>
     </measure>
@@ -408,6 +527,25 @@
         <type>quarter</type>
         <staff>1</staff>
       </note>
+      <backup>
+        <duration>48</duration>
+      </backup>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>12</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+      <forward>
+        <duration>36</duration>
+        <voice>2</voice>
+        <staff>1</staff>
+      </forward>
     </measure>
     <measure number="14">
       <note>
@@ -434,6 +572,7 @@
       </note>
     </measure>
     <measure number="15">
+      <print new-system="yes" />
       <note>
         <rest />
         <duration>12</duration>
@@ -484,22 +623,47 @@
         <type>quarter</type>
         <staff>1</staff>
       </note>
+      <backup>
+        <duration>48</duration>
+      </backup>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <voice>2</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
     </measure>
     <measure number="16">
       <note>
         <pitch>
-          <step>F</step>
-          <octave>4</octave>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>5</octave>
         </pitch>
-        <duration>6</duration>
+        <duration>12</duration>
         <voice>1</voice>
-        <type>eighth</type>
+        <type>quarter</type>
         <staff>1</staff>
       </note>
       <note>
         <pitch>
           <step>E</step>
           <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>12</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
           <octave>5</octave>
         </pitch>
         <duration>12</duration>
@@ -517,6 +681,24 @@
         <type>quarter</type>
         <staff>1</staff>
       </note>
+      <backup>
+        <duration>48</duration>
+      </backup>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>12</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+      <forward>
+        <duration>36</duration>
+        <voice>2</voice>
+        <staff>1</staff>
+      </forward>
     </measure>
     <measure number="17">
       <note>
@@ -597,17 +779,32 @@
         <type>quarter</type>
         <staff>1</staff>
       </note>
+      <backup>
+        <duration>48</duration>
+      </backup>
+      <note>
+        <rest />
+        <duration>12</duration>
+        <voice>2</voice>
+        <type>quarter</type>
+        <staff>1</staff>
+      </note>
+      <forward>
+        <duration>36</duration>
+        <voice>2</voice>
+        <staff>1</staff>
+      </forward>
     </measure>
     <measure number="18">
       <note>
         <pitch>
           <step>E</step>
+          <alter>-1</alter>
           <octave>6</octave>
         </pitch>
         <duration>24</duration>
         <voice>1</voice>
         <type>half</type>
-        <accidental>natural</accidental>
         <staff>1</staff>
       </note>
       <note>
@@ -624,12 +821,12 @@
       <note>
         <pitch>
           <step>E</step>
+          <alter>-1</alter>
           <octave>6</octave>
         </pitch>
         <duration>24</duration>
         <voice>1</voice>
         <type>half</type>
-        <accidental>natural</accidental>
         <staff>1</staff>
       </note>
       <note>
@@ -659,6 +856,7 @@
       </note>
     </measure>
     <measure number="20">
+      <print new-system="yes" />
       <note>
         <pitch>
           <step>G</step>
@@ -845,8 +1043,27 @@
         <type>quarter</type>
         <staff>1</staff>
       </note>
+      <backup>
+        <duration>48</duration>
+      </backup>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <voice>2</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
     </measure>
     <measure number="25">
+      <print new-system="yes" />
+      <attributes>
+        <part-symbol>brace</part-symbol>
+        <staff-details number="2" print-object="yes" />
+      </attributes>
       <note>
         <pitch>
           <step>E</step>
@@ -1117,8 +1334,23 @@
         <type>quarter</type>
         <staff>2</staff>
       </note>
+      <backup>
+        <duration>48</duration>
+      </backup>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>6</octave>
+        </pitch>
+        <duration>48</duration>
+        <voice>2</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
     </measure>
     <measure number="28">
+      <print new-system="yes" />
       <note>
         <pitch>
           <step>E</step>
@@ -1263,6 +1495,19 @@
         <voice>2</voice>
         <type>quarter</type>
         <staff>2</staff>
+      </note>
+      <backup>
+        <duration>48</duration>
+      </backup>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <voice>2</voice>
+        <type>whole</type>
+        <staff>1</staff>
       </note>
     </measure>
     <measure number="29">
@@ -1497,8 +1742,22 @@
         <type>quarter</type>
         <staff>2</staff>
       </note>
+      <backup>
+        <duration>48</duration>
+      </backup>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>48</duration>
+        <voice>2</voice>
+        <type>whole</type>
+        <staff>1</staff>
+      </note>
     </measure>
     <measure number="32">
+      <print new-system="yes" />
       <note>
         <pitch>
           <step>G</step>

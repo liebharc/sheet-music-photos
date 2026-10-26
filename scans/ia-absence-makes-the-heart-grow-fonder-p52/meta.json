@@ -26,6 +26,6 @@
     "kind": "homr-corrected",
     "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
     "seconds": 15.6,
-    "corrections": "homr paired the first four single violin lines into two grand staves. Those lines were cut out and read one by one, then joined with homr's reading of the rest; the melody/obligato systems keep homr's two staves. Notes spot-checked; small errors remain."
+    "corrections": "homr paired the first four single violin lines into two grand staves. Those lines were cut out and read one by one, then joined with homr's reading of the rest; the melody/obligato systems keep homr's two staves. All notes and rests then checked against the page: added the missing divisi voice (m9, m11-m13, m15-m17, m24) and the held whole notes above the chords (m27, m28, m31), fixed m16 and the E flats in m18. Layout as printed: five single staff lines (m1-m24, second staff hidden), then three melody/obligato grand staves (m25-m35), with the system breaks of the page."
   }
 }
