@@ -26,6 +26,6 @@
     "kind": "homr-corrected",
     "homr_commit": "6b5b518c964b0388335300a5702e4f6e404b9175",
     "seconds": 19.3,
-    "corrections": "Part 0 rebuilt from measures of the old reference (r) and homr 8cd3dc9 (n) after checking them against the page: r1-28,n29,r30-47,n47,r49. Measures (staff:measure) 1:11,35,36,37=38 taken from homr 8cd3dc9 after checking them against the page."
+    "corrections": "Part 0 rebuilt from measures of the old reference (r) and homr 8cd3dc9 (n) after checking them against the page: r1-28,n29,r30-47,n47,r49. Measures (staff:measure) 1:11,35,36,37=38 taken from homr 8cd3dc9 after checking them against the page. 2026-10-28: the four single staffs (lines 5-8) were paired into two grand staffs; split them into single staffs (line 5: r34-37,r39-41 staff 1; line 6: r34-37,r39-41 staff 2; line 7: r42-49 staff 1; line 8 from homr), added the 4-measure rest r38 dropped, and fixed line 7 measure 5 (A5 half) and line 8 measure 8 (E6 dotted half) against the page."
   }
 }
