@@ -22,8 +22,9 @@
     "print.pdf": "370c75dba3688c3645c2c10debf46da224c7dd6e285c98912722271547ca9a72"
   },
   "reference": {
-    "kind": "homr-unverified",
+    "kind": "homr-corrected",
     "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
-    "seconds": 12.6
+    "seconds": 12.6,
+    "corrections": "Tenore has two flats like the other parts, not three. Canto e Alto measure 4 rewritten as printed: G5 dotted quarter, G5 eighth and dotted-rhythm chords above a second voice G4 A4 Bb4 C5. Tenore measure 4 starts with a dotted quarter. Measure 5 ends with an eighth rest in every part (the upbeat completes it)."
   }
 }

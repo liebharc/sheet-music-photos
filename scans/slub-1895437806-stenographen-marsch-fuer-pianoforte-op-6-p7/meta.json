@@ -22,8 +22,9 @@
     "print.pdf": "6e13dea7b33f14e8700fc847bb7a7790fae1487f48199068efcb48641fd2e5fb"
   },
   "reference": {
-    "kind": "homr-unverified",
+    "kind": "homr-corrected",
     "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
-    "seconds": 23.5
+    "seconds": 23.5,
+    "corrections": "Measure 4: added the third right-hand chord (D5 A4 F#4) and removed an extra left-hand rest. Measure 19: the right hand's last eighth was placed after the end of the measure."
   }
 }

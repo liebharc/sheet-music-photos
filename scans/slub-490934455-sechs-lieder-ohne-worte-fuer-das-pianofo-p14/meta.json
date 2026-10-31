@@ -22,8 +22,9 @@
     "print.pdf": "aeafc214199f38c81021cfe33a86b2ddfabbeff9e5e7829841ecff40309ec1c6"
   },
   "reference": {
-    "kind": "homr-unverified",
+    "kind": "homr-corrected",
     "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
-    "seconds": 26.1
+    "seconds": 26.1,
+    "corrections": "Measures 1-2: the sixteenth-note runs were read as 32nds; the left hand's rest in measure 1 is a whole-measure rest; the second A in measure 2 has a natural. Measures 4 and 18 still don't add up and were left as homr read them."
   }
 }
