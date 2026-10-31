@@ -1,0 +1,29 @@
+{
+  "id": "slub-1822842905-heimliche-lieder-fuer-eine-singstimme-mi-p7",
+  "source": {
+    "collection": "SLUB Dresden",
+    "record": "oai:de:slub-dresden:db:id-1822842905",
+    "url": "https://digital.slub-dresden.de/id1822842905",
+    "file": "https://digital.slub-dresden.de/data/kitodo/FhrHeim_1822842905/FhrHeim_1822842905_tif/jpegs/00000007.tif.original.jpg",
+    "file_sha256": "041c85b2c145eee1eca822bb135b486a3439cae020959ff14e734dc188b960f9",
+    "page": 7,
+    "page_count": 14,
+    "title": "Heimliche Lieder : für eine Singstimme mit Orgel oder Klavierbegleitung : op. 61,2",
+    "creator": "Fährmann, Hans; Wendtland, Clara",
+    "date": "1920",
+    "publisher": "Otto Junne",
+    "place": "Brüssel",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 9,
+  "files": {
+    "page.pdf": "a5913aa34fb0cccc333bca206a9b648d5c59744a6b923345d1118740088c0130",
+    "print.pdf": "0b24b1d7342360cac0602515c07a5efaefa54b2b9231b2a9fd15030adc71629f"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
+    "seconds": 23.8
+  }
+}

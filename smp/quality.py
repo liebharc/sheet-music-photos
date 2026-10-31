@@ -50,7 +50,8 @@ def main() -> None:
         flagged += 1
         print(f"{name}: {'; '.join(found)}")
         with open(os.path.join(SCANS, name, "meta.json"), encoding="utf-8") as f:
-            identifier = json.load(f)["source"].get("identifier")
+            source = json.load(f)["source"]
+        identifier = source.get("identifier") or (f"slub:{source['record']}" if "record" in source else None)
         if args.drop and identifier is None:
             print(f"  {name} is a contributed scan; its reference needs correcting, it is kept")
         elif args.drop:

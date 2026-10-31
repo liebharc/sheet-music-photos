@@ -1,0 +1,29 @@
+{
+  "id": "slub-502067152-vier-lieder-fuer-eine-singstimme-mit-pia-p14",
+  "source": {
+    "collection": "SLUB Dresden",
+    "record": "oai:de:slub-dresden:db:id-502067152",
+    "url": "https://digital.slub-dresden.de/id502067152",
+    "file": "https://digital.slub-dresden.de/data/kitodo/StcVier_502067152/StcVier_502067152_tif/jpegs/00000014.tif.original.jpg",
+    "file_sha256": "0520b2fdbd68a7451d941c761c7805247277bbd14f27250146a14af02a9fe64d",
+    "page": 14,
+    "page_count": 20,
+    "title": "Vier Lieder : für eine Singstimme mit Pianoforte-Begleitung; op. 6",
+    "creator": "Stöckhardt, Reinhold",
+    "date": "1880",
+    "publisher": "C.F. Peters",
+    "place": "Leipzig",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "9ba5bcd0e49c7e50b2e5b30ed8934320137995d8fc271e7ba494157d4a719b2c",
+    "print.pdf": "ab564cc3160511ceeed13d9421f8e805127b7caff8020b49ef46452a505dcdad"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
+    "seconds": 18.0
+  }
+}

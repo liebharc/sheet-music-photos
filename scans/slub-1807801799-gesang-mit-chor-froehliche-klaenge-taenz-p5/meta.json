@@ -1,0 +1,29 @@
+{
+  "id": "slub-1807801799-gesang-mit-chor-froehliche-klaenge-taenz-p5",
+  "source": {
+    "collection": "SLUB Dresden",
+    "record": "oai:de:slub-dresden:db:id-1807801799",
+    "url": "https://digital.slub-dresden.de/id1807801799",
+    "file": "https://digital.slub-dresden.de/data/kitodo/WebeGesa_1807801799/WebeGesa_1807801799_tif/jpegs/00000005.tif.original.jpg",
+    "file_sha256": "b293cc3e3a7cc20413423dd82d8e3910cf347ccfaa8d016188e16364338f495d",
+    "page": 5,
+    "page_count": 11,
+    "title": "Gesang mit Chor Fröhliche Klänge, Tänze, Gesänge aus der Oper: Euryanthe",
+    "creator": "Weber, Carl Maria",
+    "date": "1825",
+    "publisher": "Musikalisches Magazin auf der Höhe",
+    "place": "Braunschweig",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 8,
+  "files": {
+    "page.pdf": "13b66e07aaa521f99c3039025e676309ad8934fa685c652cc391e08ef2dc91d6",
+    "print.pdf": "c77d1af17fdbcaa3a8d51edde1759c44cb2280c4472d3aa69cd97cc60b76657f"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
+    "seconds": 25.2
+  }
+}

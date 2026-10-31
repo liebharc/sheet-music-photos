@@ -10,7 +10,7 @@ over a century, so that OMR can be trained and tested on them.
 
 ## Goals
 
-- **Real music.** Every page is a scan of a printed edition from a library, from 1833 to
+- **Real music.** Every page is a scan of a printed edition from a library, from 1805 to
   1929: songs, piano pieces, choral and band music, by many publishers.
 - **Real-world challenges.** Contributors print the pages and photograph them with bent
   paper, different light, busy backgrounds, annotations and more.
@@ -36,7 +36,8 @@ is the point of this dataset.
 
 ```
 scans/<id>/
-  page.pdf             the scanned page, cut unchanged out of the source PDF
+  page.pdf             the scanned page, unchanged: cut out of the source PDF, or the
+                       library's original page image in a PDF
   print.pdf            the page cleaned for printing: white paper, no scan margins, A4
   meta.json            source, title, publication, license
   reference.musicxml   homr's reading of the clean scan, not verified
@@ -64,8 +65,8 @@ A checked and corrected reference becomes `page.musicxml` and counts as verified
 
 ## Pages from libraries
 
-Most pages come from the [Internet Archive](https://archive.org/), from
-collections of libraries and archives:
+Most pages come from two sources. The first is the [Internet Archive](https://archive.org/),
+with collections of libraries and archives:
 
 | Collection | Holder |
 |---|---|
@@ -80,10 +81,18 @@ A scan was used only if the holding library marked it with the
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/), and it was published in 1929
 or earlier. Community uploads were left out, because no institution checked their rights.
 
+The second is [SLUB Dresden](https://sachsen.digital), the Saxon State and University
+Library, with its collection "Musik": German songs, piano music and choral music, mostly
+from the 19th century. SLUB states the license of each item in its METS/MODS record. A
+scan was used only if that record carries the Public Domain Mark or CC0, names a publisher
+(manuscripts don't have one) and gives a year of 1929 or earlier. `page.pdf` holds SLUB's
+original page image unchanged; the PDFs SLUB offers for download add a banner to the page.
+
 How the pages were chosen:
 
 1. The collections were searched once; the result is frozen in
-   `sources/ia-candidates.json`.
+   `sources/ia-candidates.json` and `sources/slub-candidates.json` (fixed searches in
+   SLUB's collection "Musik").
 2. Candidates were shuffled with a fixed seed within each collection and taken from the
    collections in turn.
 3. From each scan one page was chosen at random among those with at least three staves,
@@ -92,11 +101,15 @@ How the pages were chosen:
    one-staff part that changes clef more than twice, which happens with band parts that
    print the clef only on the first line. A few such pages were added back with a
    hand-corrected reference (`homr-corrected`), one for each kind of error.
+5. Every page was looked at. Pages that aren't printed music were dropped, such as a
+   hand-copied band part or a marbled endpaper.
 
 `scans/attempted.json` lists every candidate that was tried: added, skipped (for example
-"no PDF") or dropped with the reason. `make reproduce` downloads every source PDF again,
-checks the SHA-1 the Internet Archive lists for it, cuts out the recorded page and
-compares it byte for byte with `page.pdf`.
+"no PDF") or dropped with the reason. `make reproduce` downloads every source again:
+for the Internet Archive it checks the SHA-1 the archive lists for the PDF and cuts out
+the recorded page, for SLUB it checks the SHA-256 of the page image recorded in
+`meta.json` and wraps it again. Either way the result is compared byte for byte with
+`page.pdf`.
 
 ## Contributing
 
@@ -198,7 +211,8 @@ the license it states (`PDM-1.0` or `CC0-1.0`).
 | `make references HOMR=../homr` | transcribe pages without a reference |
 | `make quality` | list pages whose reference has large-scale errors and replace them |
 | `make reproduce` | download the sources of the library pages again and compare every `page.pdf` |
-| `make scans COUNT=n` | add the next n pages from the frozen candidate list |
+| `make scans COUNT=n` | add the next n pages from the Internet Archive candidate list |
+| `make slub COUNT=n` | add the next n pages from the SLUB Dresden candidate list |
 
 ## License
 

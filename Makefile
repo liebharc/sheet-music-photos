@@ -5,14 +5,18 @@ HOMR ?= ../homr
 scans:  ## add the next COUNT scans from the Internet Archive
 	uv run python -m smp.ia add --count $(COUNT)
 
+slub:  ## add the next COUNT scans from SLUB Dresden
+	uv run python -m smp.slub add --count $(COUNT)
+
 references:  ## transcribe scans without a reference with homr from HOMR
 	uv run python -m smp.reference --homr $(HOMR)
 
 quality:  ## replace scans whose reference has large-scale errors (then: make scans references)
 	uv run python -m smp.quality --drop
 
-reproduce:  ## download every source PDF again and compare each page.pdf
+reproduce:  ## download every library source again and compare each page.pdf
 	uv run python -m smp.ia reproduce
+	uv run python -m smp.slub reproduce
 
 printable:  ## recreate every print.pdf from its page.pdf
 	uv run python -m smp.printable
@@ -23,4 +27,4 @@ check:  ## check scans and contributed photos
 help:
 	@grep -E '^[a-z]+:.*## ' Makefile | sed 's/:.*## /\t/'
 
-.PHONY: scans references quality reproduce printable check help
+.PHONY: scans slub references quality reproduce printable check help

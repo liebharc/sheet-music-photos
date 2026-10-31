@@ -1,0 +1,29 @@
+{
+  "id": "slub-490934455-sechs-lieder-ohne-worte-fuer-das-pianofo-p14",
+  "source": {
+    "collection": "SLUB Dresden",
+    "record": "oai:de:slub-dresden:db:id-490934455",
+    "url": "https://digital.slub-dresden.de/id490934455",
+    "file": "https://digital.slub-dresden.de/data/kitodo/MendSech_490934455/MendSech_490934455_tif/jpegs/00000014.tif.original.jpg",
+    "file_sha256": "17555690eb2d3286a696005c4b45e5cea8ee38bb181036a9bc4617d5cc3f63c3",
+    "page": 14,
+    "page_count": 26,
+    "title": "Sechs Lieder ohne Worte für das Pianoforte : op. 67. VItes Heft",
+    "creator": "Mendelssohn Bartholdy, Felix",
+    "date": "1860",
+    "publisher": "Simrock [u.a.]",
+    "place": "Bonn [u.a.]",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 4,
+  "files": {
+    "page.pdf": "64d1a39291ebe9ab0aeb7ae4383d64c31be7f073bf9ec6296ef94f1504ca045a",
+    "print.pdf": "aeafc214199f38c81021cfe33a86b2ddfabbeff9e5e7829841ecff40309ec1c6"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
+    "seconds": 26.1
+  }
+}

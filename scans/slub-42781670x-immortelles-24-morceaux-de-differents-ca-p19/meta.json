@@ -1,0 +1,29 @@
+{
+  "id": "slub-42781670x-immortelles-24-morceaux-de-differents-ca-p19",
+  "source": {
+    "collection": "SLUB Dresden",
+    "record": "oai:de:slub-dresden:db:id-42781670X",
+    "url": "https://digital.slub-dresden.de/id42781670X",
+    "file": "https://digital.slub-dresden.de/data/kitodo/MayeImmo_42781670X/MayeImmo_42781670X_tif/jpegs/00000019.tif.original.jpg",
+    "file_sha256": "5c02bcfaf6af7a5ea53007b84e6c62b15eeb3e9b4f6d681cd16f03424fc9ccb6",
+    "page": 19,
+    "page_count": 58,
+    "title": "Immortelles : 24 Morceaux de differents caracteres pour le piano; oeuv. 140. Liv. I",
+    "creator": "Mayer, Charles",
+    "date": "1851",
+    "publisher": "Böhme",
+    "place": "Hambourg",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "d878e4e5d5afc691d2dd15894230fe631c6e9cd95282013f592db16b96140a8b",
+    "print.pdf": "c7187780f051b10afe7f164045d1b5a8e716a63cd5c11145dad70e5cef0922a0"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
+    "seconds": 20.7
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "slub-1891546929-marzec-p11",
+  "source": {
+    "collection": "SLUB Dresden",
+    "record": "oai:de:slub-dresden:db:id-1891546929",
+    "url": "https://digital.slub-dresden.de/id1891546929",
+    "file": "https://digital.slub-dresden.de/data/kitodo/Marz_1891546929_0003/Marz_1891546929_0003_tif/jpegs/00000011.tif.original.jpg",
+    "file_sha256": "f457f175177e93bd58e4f65b070812500d7dcbe1033361e370134a7ebc529d6c",
+    "page": 11,
+    "page_count": 29,
+    "title": "Marzec",
+    "creator": "Potocka, Emilia; Karpiński, Franciszek; Oginski, J. W. M.; Elsner, Józef; Cherubini, Luigi",
+    "date": "1805",
+    "publisher": "w drukarni od J. K. Mci uprzywileiowaney Miasta i Akademii Wrocławskiey u Grassa i Bartha",
+    "place": "W Wrocławiu",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 7,
+  "files": {
+    "page.pdf": "4851a2c7d0725e1efcabd9bee8a33a9eb6bf93f06dde9ddee3232f12963f46a1",
+    "print.pdf": "7060d8b6a55f8b17ae32ba6ea5a131412f089dbe59fcc231e1da98c1e30088a4"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
+    "seconds": 14.1
+  }
+}

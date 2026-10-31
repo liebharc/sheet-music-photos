@@ -1,0 +1,29 @@
+{
+  "id": "slub-1668041294-blutrote-rosen-op-33-no-5-p5",
+  "source": {
+    "collection": "SLUB Dresden",
+    "record": "oai:de:slub-dresden:db:id-1668041294",
+    "url": "https://digital.slub-dresden.de/id1668041294",
+    "file": "https://digital.slub-dresden.de/data/kitodo/LewiBlut_1668041294/LewiBlut_1668041294_tif/jpegs/00000005.tif.original.jpg",
+    "file_sha256": "36e894e6cb6354bf4e09992356b5988e980cc0ca2f9be92af68388edb86f6973",
+    "page": 5,
+    "page_count": 10,
+    "title": "Blutrote Rosen : op. 33 No. 5",
+    "creator": "Lewin, Gustav",
+    "date": "1925",
+    "publisher": "Fleischer",
+    "place": "Köln am Rhein",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 9,
+  "files": {
+    "page.pdf": "417b14b255977095478032797864742fea14d4cf0a1eedabe045da74267a4601",
+    "print.pdf": "d31567b42952fb292e81a2a34ec17b0638ce484d92a879f4be3e0b3043ecf00f"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
+    "seconds": 22.2
+  }
+}

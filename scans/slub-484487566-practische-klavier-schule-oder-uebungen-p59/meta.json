@@ -1,0 +1,29 @@
+{
+  "id": "slub-484487566-practische-klavier-schule-oder-uebungen-p59",
+  "source": {
+    "collection": "SLUB Dresden",
+    "record": "oai:de:slub-dresden:db:id-484487566",
+    "url": "https://digital.slub-dresden.de/id484487566",
+    "file": "https://digital.slub-dresden.de/data/kitodo/CramPrac_484487566_0001/CramPrac_484487566_0001_tif/jpegs/00000059.tif.original.jpg",
+    "file_sha256": "44faad3f7ddf91fddb3e46f61fd11f96de5b79c01fb4111266c44209b3a83554",
+    "page": 59,
+    "page_count": 88,
+    "title": "Practische Klavier-Schule oder Uebungen für das Pianoforte : Iter Band",
+    "creator": "Cramer, Johann Baptist",
+    "date": "1830",
+    "publisher": "Heckel",
+    "place": "Mannheim",
+    "license": "PDM-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "19c3b1dcc7ab61736c9762882ebb8575e551aa1e38da637b02c1543e45712c0d",
+    "print.pdf": "4b986850c0109dd701eb78d05c35ca077182c8bafc935e17594fd3d0611a9a90"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
+    "seconds": 21.8
+  }
+}

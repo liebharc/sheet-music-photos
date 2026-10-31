@@ -1,0 +1,29 @@
+{
+  "id": "slub-1822847370-zehn-kleine-lieder-p4",
+  "source": {
+    "collection": "SLUB Dresden",
+    "record": "oai:de:slub-dresden:db:id-1822847370",
+    "url": "https://digital.slub-dresden.de/id1822847370",
+    "file": "https://digital.slub-dresden.de/data/kitodo/FhrZehn_1822847370_0002/FhrZehn_1822847370_0002_tif/jpegs/00000004.tif.original.jpg",
+    "file_sha256": "1d0c5d5627b52da8a2f103b1d895ff81c5994076186a811ec94b9a9e8b063f50",
+    "page": 4,
+    "page_count": 14,
+    "title": "Zehn kleine Lieder",
+    "creator": "Fährmann, Hans; Ritter, Anna",
+    "date": "1905",
+    "publisher": "Otto Junne",
+    "place": "Leipzig",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 12,
+  "files": {
+    "page.pdf": "6aa38affa231c7f6e0782ab22fad1ce31481e3a67f9abe81beb2306e4913a228",
+    "print.pdf": "1c094ef1a2fbc82a82e7e0a7acdb740d0e49ce22a1745868e44ac9d1fb5e11f1"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
+    "seconds": 20.4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "slub-367570807-lieder-und-gesaenge-mit-begleitung-des-p-p15",
+  "source": {
+    "collection": "SLUB Dresden",
+    "record": "oai:de:slub-dresden:db:id-367570807",
+    "url": "https://digital.slub-dresden.de/id367570807",
+    "file": "https://digital.slub-dresden.de/data/kitodo/webelied_367570807/webelied_367570807_tif/jpegs/00000015.tif.original.jpg",
+    "file_sha256": "3ec9912e82cea4ad055718ddfa555c3adaf70e5ec19989553c656f753ca80761",
+    "page": 15,
+    "page_count": 20,
+    "title": "Lieder und Gesänge mit Begleitung des Pianoforte : Op. 66. 15tes Liederheft",
+    "creator": "Weber, Carl Maria von",
+    "date": "1820",
+    "publisher": "Schlesinger",
+    "place": "Berlin",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 5,
+  "files": {
+    "page.pdf": "fcfc885ddf76790a13d417956e240dbed0193cd07dc67a7614aad3f9c20cb919",
+    "print.pdf": "370c75dba3688c3645c2c10debf46da224c7dd6e285c98912722271547ca9a72"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
+    "seconds": 12.6
+  }
+}

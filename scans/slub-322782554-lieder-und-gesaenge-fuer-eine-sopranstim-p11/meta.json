@@ -1,0 +1,29 @@
+{
+  "id": "slub-322782554-lieder-und-gesaenge-fuer-eine-sopranstim-p11",
+  "source": {
+    "collection": "SLUB Dresden",
+    "record": "oai:de:slub-dresden:db:id-322782554",
+    "url": "https://digital.slub-dresden.de/id322782554",
+    "file": "https://digital.slub-dresden.de/data/kitodo/liedungef_322782554/liedungef_322782554_tif/jpegs/00000011.tif.original.jpg",
+    "file_sha256": "6098a40bd31d7290d5e2f5b4e5c8cc5ed65d321caf7a4add85c0624754cb50eb",
+    "page": 11,
+    "page_count": 22,
+    "title": "Lieder und Gesänge für eine Sopranstimme mit Begleitung des Piano-Forte : op. 127. 37te Liedersammlung",
+    "creator": "Reißiger, Carl Gottlieb",
+    "date": "1838",
+    "publisher": "Peters",
+    "place": "Leipzig",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 7,
+  "files": {
+    "page.pdf": "1fb685a0a0ba87184f0b6bc53dfd9fadd461b2e9d148d59cf8af5f63aa55db50",
+    "print.pdf": "2fdee55a45762b6436e1f3b5d8f8cf52c531c70367047d9ed49e7966bd8085e1"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
+    "seconds": 16.3
+  }
+}

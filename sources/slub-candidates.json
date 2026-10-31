@@ -1,0 +1,5318 @@
+{
+ "searched": "2026-10-31",
+ "site": "https://sachsen.digital",
+ "collection": "Musik",
+ "queries": [
+  "Lieder",
+  "Volkslieder",
+  "Kinderlieder",
+  "Weihnachtslieder",
+  "Choralbuch",
+  "Gesangbuch",
+  "Klavier",
+  "Walzer",
+  "Marsch",
+  "Männerchor",
+  "Tänze"
+ ],
+ "candidates": [
+  {
+   "record": "oai:de:slub-dresden:db:id-322856744",
+   "werk": "24",
+   "title": "1 Lied and 1 Walzer - Mus.Schu.148",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322827396",
+   "werk": "35",
+   "title": "2 Lieder - Mus.Schu.33",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-323002986",
+   "werk": "45",
+   "title": "2 Songs - Mus.Schu.250",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-328329118",
+   "werk": "54",
+   "title": "35 Instrumental pieces - Mus.2-N-13,1",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322826926",
+   "werk": "896",
+   "title": "An ein Veilchen - Mus.Schu.28",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-320792668",
+   "werk": "932",
+   "title": "Anhang zu Beckers Taschenbuch 1809",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-318594242",
+   "werk": "1333",
+   "title": "Armide - Mus.3030-F-64b",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-31145691X",
+   "werk": "2741",
+   "title": "Choral-Buch",
+   "query": "Gesangbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322801974",
+   "werk": "4640",
+   "title": "Deutsche Lieder für Tenor oder hohen Sopran",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-308184386",
+   "werk": "6398",
+   "title": "Drei Lieder für eine Singstimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-308184629",
+   "werk": "6399",
+   "title": "Schwanenlied",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322603722",
+   "werk": "6488",
+   "title": "Die drey Rosen",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-310012554",
+   "werk": "6692",
+   "title": "Eisenbahn-Lust-Walzer für das Piano-Forte",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322762103",
+   "werk": "8172",
+   "title": "Gesänge und Lieder für eine Tenor oder Sopran-Stimme mit Begleitung des Piano-Forte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322801214",
+   "werk": "8173",
+   "title": "Gesänge und Lieder von Förster, Göthe u. Pulvermacher für eine Sopran, Mezzo-Sopran, Tenor oder Bariton-Stimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-318595141",
+   "werk": "8498",
+   "title": "Grand Concerto pour le Piano Forte avec Accompagt. d'Orchestre [oder Streichquartett oder Klavier]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-311458610",
+   "werk": "8500",
+   "title": "Grand Duo pour Piano et Violoncelle",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-325037264",
+   "werk": "9406",
+   "title": "XVI neue Taenze verschiedener Art für das Pianoforte",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-304654868",
+   "werk": "9686",
+   "title": "Jean Louis Nicodé, Das Meer",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322104173",
+   "werk": "10046",
+   "title": "Kleines Elementarbuch für Klavierspieler als wesentliche Grundlage der Kunst das Klavier oder Pianoforte zu spielen",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322105358",
+   "werk": "10047",
+   "title": "Kleines Elementarbuch für Klavierspieler als wesentliche Grundlage der Kunst das Klavier oder Pianoforte zu spielen",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-32280017X",
+   "werk": "10813",
+   "title": "Lieder für eine Sopran- Tenorstimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-32278395X",
+   "werk": "10814",
+   "title": "Lieder für eine Tenor oder Sopran-Stimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-308185587",
+   "werk": "10816",
+   "title": "Lieder und Gesänge für eine Singstimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-308186001",
+   "werk": "10817",
+   "title": "Aus meinen Thränen sprießen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-32261824X",
+   "werk": "10818",
+   "title": "Lieder und Gesänge für eine Sopran- oder Tenor-Stimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322780659",
+   "werk": "10819",
+   "title": "Lieder und Gesänge für eine Sopran- oder Tenor-Stimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322782554",
+   "werk": "10820",
+   "title": "Lieder und Gesänge für eine Sopranstimme mit Begleitung des Piano-Forte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322622506",
+   "werk": "10824",
+   "title": "[Lieder] für Tenor oder Sopran und Piano",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-32199408",
+   "werk": "11863",
+   "title": "[ Neuerwerbungen / Sächsische Landesbibliothek, Musikabteilung ]",
+   "query": "Volkslieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322953278",
+   "werk": "13390",
+   "title": "Preludes and Fugues. Excerpts - Mus.Schu.168",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-310689236",
+   "werk": "14092",
+   "title": "Richtigstellung des Titels einer im Krause-Nachlaß nicht vorhandenen Druckschrift von D. F. C. F. Krause: Vollständige Anleitung aller Finger beider Hände zum Klavier- und Pianofortespielen in kurzer Zeit gleiche Stärke und Gewandtheit zu verschaffen ...",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322603838",
+   "werk": "14342",
+   "title": "Sämmtliche Lieder und Gesaenge",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-308152247",
+   "werk": "14582",
+   "title": "Schwanenlied",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-308146921",
+   "werk": "14613",
+   "title": "Sechs Lieder für eine Singstimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-308149521",
+   "werk": "14614",
+   "title": "Und als endlich die Stunde kam",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-308156242",
+   "werk": "14615",
+   "title": "Sechs Lieder für eine Sopran- oder Tenorstimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-308157125",
+   "werk": "14616",
+   "title": "Die Abendglocken",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-308183320",
+   "werk": "14617",
+   "title": "Sechs Lieder für eine Singstimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-308183614",
+   "werk": "14618",
+   "title": "Die linden Lüfte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-278436374",
+   "werk": "14619",
+   "title": "Sechs Lieder Mit Begleitung des Forte-Piano oder der Guitarre",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-304963275",
+   "werk": "14620",
+   "title": "Sechs Lieder ohne Worte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-304964557",
+   "werk": "14621",
+   "title": "Sechs Lieder ohne Worte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-311459528",
+   "werk": "15121",
+   "title": "Sonate Pour le Piano-Forte à quatre mains avec Flûte ou Violon",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-321405153",
+   "werk": "15435",
+   "title": "Suites - Mus.1827-F-33",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-288132424",
+   "werk": "16091",
+   "title": "Transcriptionen beliebter Lieder von Franz Schubert für Violoncello und Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-288133447",
+   "werk": "16092",
+   "title": "No. 3. Ungeduld",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-31145786X",
+   "werk": "17031",
+   "title": "VI Deutsche Tänze fürs Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-311929699",
+   "werk": "17042",
+   "title": "Vier ernste Gesänge",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-322605490",
+   "werk": "17772",
+   "title": "XXV Neue Lieder verschiedenen Inhalts",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-259125261",
+   "werk": "17826",
+   "title": "Zum Gesangvereins-Jahrestag",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-308181794",
+   "werk": "19768",
+   "title": "Richard Löwenherz' Tod",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-334549957",
+   "werk": "21827",
+   "title": "Romanze",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-33424546X",
+   "werk": "21852",
+   "title": "Sechs deutsche Lieder für eine Singstimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-335686656",
+   "werk": "23302",
+   "title": "2 Gigues - Mus.2-R-8,49",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-337612544",
+   "werk": "26350",
+   "title": "Choralbuch",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-339329297",
+   "werk": "28985",
+   "title": "Ball-Racketen",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-33935190X",
+   "werk": "28988",
+   "title": "Ballsaal",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-339352132",
+   "werk": "28989",
+   "title": "Heft II. Eine Extrafahrt nach Thüringen",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-339328975",
+   "werk": "28990",
+   "title": "Brüssler Spitzen",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-339328258",
+   "werk": "29000",
+   "title": "Krönungs-Walzer für das Piano-Forte",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-339329548",
+   "werk": "29004",
+   "title": "Pilger am Rhein",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-346518253",
+   "werk": "32498",
+   "title": "Six Valzes pour le Pianoforte à quatre mains",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-350558884",
+   "werk": "54488",
+   "title": "Trauer-Gesang bey Beethoven's Leichenbegräbnisse in Wien den 29. März 1827",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-352677880",
+   "werk": "56127",
+   "title": "Sechs Lieder für eine mittlere Stimme und Klavier",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-355317826",
+   "werk": "58031",
+   "title": "Leizpiger Patrouillen Marsch der Studierenden",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-355765993",
+   "werk": "58582",
+   "title": "Im Volkston",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-359082955",
+   "werk": "61191",
+   "title": "17 Lieder - Mus.11302-H-550",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-359212034",
+   "werk": "61200",
+   "title": "Sechs Lieder mit einer leichten Guitarre Begleitung",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-359213235",
+   "werk": "61201",
+   "title": "Fünf Lieder mit Begleitung der Guitarre",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-359889360",
+   "werk": "62637",
+   "title": "5 Sacred Songs - Mus.5912-E-505",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-359879942",
+   "werk": "62677",
+   "title": "2 Sacred Songs - Mus.5912-E-516",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-359886825",
+   "werk": "62863",
+   "title": "4 Sacred Songs - Mus.5912-E-507",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-361969953",
+   "werk": "63350",
+   "title": "Trois Sonates Pour le Clavecin, Avec L'Accompagnement d'un Violon et Violoncelle",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-36256888X",
+   "werk": "63625",
+   "title": "2 sacred songs - Mus.11302-E-572",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-362560080",
+   "werk": "63648",
+   "title": "2 sacred songs - Mus.11302-E-510,2",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-365661988",
+   "werk": "66611",
+   "title": "[Streichquartette und Streichquintette für Klavier zu zwei Händen]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-365662615",
+   "werk": "66612",
+   "title": "1er Quatuor en sol majeur pour piano",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-365663883",
+   "werk": "66613",
+   "title": "2me Quatuor en ré mineur pour piano",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-365664898",
+   "werk": "66615",
+   "title": "3me Quatuor en si b majeur pour piano",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-365665789",
+   "werk": "66616",
+   "title": "4me Quatuor en si b majeur pour piano",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-365666505",
+   "werk": "66617",
+   "title": "5me Quatuor en la majeur pour piano",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-365668605",
+   "werk": "66618",
+   "title": "7me Quatuor en ré majeur pour piano",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-365674028",
+   "werk": "66619",
+   "title": "10me Quatuor en ré majeur pour piano",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-365667722",
+   "werk": "66620",
+   "title": "6me Quatuor en ut majeur pour piano",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-365669660",
+   "werk": "66623",
+   "title": "8me Quatuor en fa majeur pour piano",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-365670642",
+   "werk": "66624",
+   "title": "9me Quatuor en si b majeur pour piano",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-364574178",
+   "werk": "69185",
+   "title": "Di sè pur che sò matto - Mus.1-F-82,21-20",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-364568585",
+   "werk": "69238",
+   "title": "Tormento d'un amante - Mus.1-F-82,21-16",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-364570350",
+   "werk": "69244",
+   "title": "Per accidente un viso bello - Mus.1-F-82,21-18",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-364573384",
+   "werk": "69253",
+   "title": "Putti ve lamentè della vostra fortuna - Mus.1-F-82,21-19",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-364582847",
+   "werk": "69254",
+   "title": "Se ve manco de parola Nina - Mus.1-F-82,21-22",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-364581050",
+   "werk": "69262",
+   "title": "Nol credeva amor - Mus.1-F-82,21-21",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-364569476",
+   "werk": "69269",
+   "title": "Mia bella sè peno col sempre adorarve - Mus.1-F-82,21-17",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-367570807",
+   "werk": "69536",
+   "title": "Lieder und Gesänge mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-367659611",
+   "werk": "70009",
+   "title": "Alpenrosen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-368403378",
+   "werk": "70394",
+   "title": "Vier Lieder im spanischen Character",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-369836812",
+   "werk": "71582",
+   "title": "Sinfonie",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-370803833",
+   "werk": "73739",
+   "title": "Für fülende Seelen",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-372036961",
+   "werk": "75324",
+   "title": "Zwölf Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-372031463",
+   "werk": "76280",
+   "title": "Iphigénie en Aulide - Mus.3030-F-505",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-372661394",
+   "werk": "76338",
+   "title": "Das Meer",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-372294332",
+   "werk": "76656",
+   "title": "Tympanum militare",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-377959367",
+   "werk": "81522",
+   "title": "Defilier-(von Treitschke-)Marsch des 3ten Jäger-Bataillon No. 15",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-379375966",
+   "werk": "84062",
+   "title": "Gesänge und Lieder aus der Lieder-Posse: Die Wiener in Berlin",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380677458",
+   "werk": "85193",
+   "title": "Lieder gesungen von der Dreißig'schen Sing-Akademie in Pillnitz den 29. Juli 1843",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380398133",
+   "werk": "85288",
+   "title": "Lieder-Texte zum Konzert des Dresdner Lehrer-Gesangvereins",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380288087",
+   "werk": "85417",
+   "title": "Drei Lieder nach Gedichten von R. M. Rilke",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380288451",
+   "werk": "85418",
+   "title": "Drei Lieder nach Gedichten von R. M. Rilke",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380289318",
+   "werk": "85531",
+   "title": "Vier Lieder nach Gedichten von Wolfgang Bittner",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380295679",
+   "werk": "85546",
+   "title": "Klopft mein Herz",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-38024084X",
+   "werk": "85549",
+   "title": "Sonate für Viola und Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380294877",
+   "werk": "85608",
+   "title": "Anrufung",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380235943",
+   "werk": "85616",
+   "title": "Duo für Flöte und Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380235153",
+   "werk": "85617",
+   "title": "Presto",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380228076",
+   "werk": "85620",
+   "title": "Quintett für 2 Trompeten, 2 Posaunen, Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380259427",
+   "werk": "85621",
+   "title": "Romanze für Violine und Klavier G-Dur",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380289881",
+   "werk": "85622",
+   "title": "Sonate für Horn in F und Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380265214",
+   "werk": "85623",
+   "title": "Fantasie für Flöte und Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380284774",
+   "werk": "85624",
+   "title": "Mein blaues Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380236397",
+   "werk": "85625",
+   "title": "Sonate für Violoncello und Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380239906",
+   "werk": "85626",
+   "title": "Trio für Altflöte in G, Vibraphon und Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380282038",
+   "werk": "85633",
+   "title": "Trio für Violine, Horn und Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380259842",
+   "werk": "85634",
+   "title": "Variation über ein Thema von Bach",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380283042",
+   "werk": "85635",
+   "title": "Variationen für Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-38023825X",
+   "werk": "85637",
+   "title": "Zyklus für Violine und Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380293692",
+   "werk": "85768",
+   "title": "Jorinde und Joringel",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380227231",
+   "werk": "85771",
+   "title": "Konzert für Klavier und Orchester",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-381216780",
+   "werk": "85985",
+   "title": "43 Pieces - Mus.2-R-2",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380240432",
+   "werk": "85991",
+   "title": "Brahms-Joachim-Variationen",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380289016",
+   "werk": "85996",
+   "title": "Sonnengesang",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-38089016X",
+   "werk": "86015",
+   "title": "Die Philantropen",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-381142914",
+   "werk": "86126",
+   "title": "Stimmt an mit hellem, hohem Klang, Stimmt an das Lied der Lieder, ...",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-38006586X",
+   "werk": "86526",
+   "title": "Huldigungs-Marsch",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-379843587",
+   "werk": "86697",
+   "title": "Die Schwestern von Prag - Mus.4158-F-503",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-379890380",
+   "werk": "86790",
+   "title": "Der Einsiedler - Mus.4209-F-5",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380034808",
+   "werk": "87073",
+   "title": "Faniska - Mus.4011-F-503",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-38116912X",
+   "werk": "87256",
+   "title": "Morgenwandrung im Gebirge",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-380043378",
+   "werk": "88193",
+   "title": "Médée - Mus.4011-F-505",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383474469",
+   "werk": "88823",
+   "title": "Acht deutsche Lieder zum Singen und Sagen bei der fünfzigjährigen Gedächtnißfeier der Leipziger Schlacht am 18. October 1863",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-378032364",
+   "werk": "89530",
+   "title": "Die Schwestern von Prag. Excerpts. Arr - Mus.4158-F-503B",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-379057832",
+   "werk": "89702",
+   "title": "Richard Cœur-de-lion. Arr - Mus.3486-F-501",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-391243586",
+   "werk": "90049",
+   "title": "Rondeaux und Lieder auch kleine größere Clavierstücke",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-391243071",
+   "werk": "90052",
+   "title": "Sammlung Vermischter Clavierstücke für geübte und ungeübte Spieler",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-379517108",
+   "werk": "90263",
+   "title": "Das unterbrochene Opferfest - Mus.3950-F-503",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-379579200",
+   "werk": "91602",
+   "title": "Felix und Adele - Mus.4103-F-6",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-39298833X",
+   "werk": "91655",
+   "title": "Macbeth",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-379642905",
+   "werk": "91797",
+   "title": "Héléna - Mus.4105-F-505",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-393454029",
+   "werk": "92275",
+   "title": "Die Grossfürstin Sophia Catharina",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383785502",
+   "werk": "92349",
+   "title": "Kaiser Adolph von Nassau - Mus.4838-F-505",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-38378770X",
+   "werk": "92404",
+   "title": "Der Türkische Arzt - Mus.4615-F-1",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-393876039",
+   "werk": "92909",
+   "title": "Lieder und Gesänge von N. Vogl und Anastasius Grün für eine Bass- oder Bariton-Stimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-393994139",
+   "werk": "92910",
+   "title": "Lieder und Gesänge mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383784638",
+   "werk": "93357",
+   "title": "Ottaviano in Sicilia - Mus.4644-F-2a",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-394238087",
+   "werk": "93501",
+   "title": "VI. Lieder von Matthisson",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-39424284X",
+   "werk": "93513",
+   "title": "VI. Lieder von verschiedenen Dichtern",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-394243528",
+   "werk": "93515",
+   "title": "VI. Lieder von Matthisson",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-394244265",
+   "werk": "93516",
+   "title": "VI. Lieder von Klopstock, Heerder und Matthisson",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383784654",
+   "werk": "93578",
+   "title": "Der Wettkampf zu Olympia - Mus.4644-F-4",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-394149416",
+   "werk": "93595",
+   "title": "Johanna d'Arc",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383784700",
+   "werk": "93903",
+   "title": "Die Räuberbraut - Mus.4660-F-1",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-396852491",
+   "werk": "95264",
+   "title": "Sechs Lieder beym Clavier zu singen mit deutschem und englischem Texte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-38378476X",
+   "werk": "95271",
+   "title": "Mary Max und Michel - Mus.4677-F-5",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-39709440X",
+   "werk": "95276",
+   "title": "Der Müller von Meran",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383785065",
+   "werk": "95570",
+   "title": "Marie - Mus.4781-F-502",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-39795428X",
+   "werk": "95678",
+   "title": "Die Lieder des Euripides",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-397954425",
+   "werk": "95679",
+   "title": "[ Die Lieder des Euripides ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-396476600",
+   "werk": "95724",
+   "title": "Volkslieder, alte und neue",
+   "query": "Volkslieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-396476848",
+   "werk": "95725",
+   "title": "Erstes Heft, 68 Lieder enthaltend",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-399031502",
+   "werk": "95726",
+   "title": "Zweites Heft, 78 Lieder enthaltend",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-397954565",
+   "werk": "95763",
+   "title": "[ Die Lieder des Euripides ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383785006",
+   "werk": "95844",
+   "title": "Das Schloß Candra - Mus.4719-F-6a",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383785537",
+   "werk": "96624",
+   "title": "Lucretia - Mus.4838-F-506",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-39915972X",
+   "werk": "97107",
+   "title": "XV Lieder beym Clavier zu Singen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-39916040X",
+   "werk": "97129",
+   "title": "XII Lieder mit Melodien beym Clavier zu Singen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-399601554",
+   "werk": "97144",
+   "title": "Folgenn andere noch mehr weldtliche Züchtige lieder vnnd Reimen - Mscr.Dresd.M.297",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383785758",
+   "werk": "97452",
+   "title": "Die Flibustier - Mus.4871-F-2",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383785545",
+   "werk": "97607",
+   "title": "Schön Ella - Mus.4838-F-507",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383785219",
+   "werk": "97624",
+   "title": "Wirth und Gast - Mus.4786-F-503",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-307280276",
+   "werk": "97628",
+   "title": "Lieder mit Melodien",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383785928",
+   "werk": "97730",
+   "title": "Bertha von Bretagne - Mus.4905-F-7",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383786142",
+   "werk": "97742",
+   "title": "Die Verschworenen - Mus.4924-F-3a",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383785863",
+   "werk": "98396",
+   "title": "3 Insertions - Mus.4888-F-503",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383786215",
+   "werk": "98421",
+   "title": "Paris in Pommern - Mus.5095-F-9",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383786312",
+   "werk": "98794",
+   "title": "Die Seeräuber - Mus.5348-F-3",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383786568",
+   "werk": "99034",
+   "title": "Johanna d'Arc - Mus.5435-F-3",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383786681",
+   "werk": "99305",
+   "title": "Das Schloß am Rhein - Mus.5454-F-1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383786584",
+   "werk": "99371",
+   "title": "The Crusaders - Mus.5445-F-501",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383786630",
+   "werk": "99529",
+   "title": "Agnes - Mus.5452-F-2",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383786827",
+   "werk": "99646",
+   "title": "Der Zauberschleier - Mus.5551-F-2",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-38378655X",
+   "werk": "99966",
+   "title": "Ein Abenteuer Carls des Zweiten - Mus.5435-F-2,1",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383787041",
+   "werk": "100701",
+   "title": "Gervinus der Narr von Untersberg - Mus.6001-F-503",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383788021",
+   "werk": "100709",
+   "title": "Beerenlieschen - Mus.8469-F-500",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383786770",
+   "werk": "100921",
+   "title": "The Bohemian girl - Mus.5514-F-4",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-403729564",
+   "werk": "100961",
+   "title": "Der Prophet",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-404369057",
+   "werk": "101199",
+   "title": "Aus großer Zeit",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-404370381",
+   "werk": "101200",
+   "title": "Hassgesang gegen England (Ernst Lissauer) für Männerchor",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-404369782",
+   "werk": "101204",
+   "title": "Hassgesang gegen England",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-403728827",
+   "werk": "101317",
+   "title": "Die Musketiere der Königin",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-40440927X",
+   "werk": "101420",
+   "title": "2 Lieder - Mus.11302-K-511",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-401146103",
+   "werk": "101690",
+   "title": "Guido et Ginevra",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383788714",
+   "werk": "102412",
+   "title": "Die Lokalposse - Mus.2-F-39",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383786002",
+   "werk": "102429",
+   "title": "Vorurteil und List - Mus.1-F-130",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-379843226",
+   "werk": "102897",
+   "title": "Aline. Arr - Mus.4158-F-24",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-40691642X",
+   "werk": "103184",
+   "title": "Vier Wald-Lieder von Wilhelm Kilzer",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-379841975",
+   "werk": "103276",
+   "title": "Doktor Fausts Mantel - Mus.4158-F-22",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383786010",
+   "werk": "103644",
+   "title": "Das Lager von Mazlak - Mus.1-F-131",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383788684",
+   "werk": "103646",
+   "title": "Wallensteins Lager - Mus.4271-F-1",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-409127469",
+   "werk": "104410",
+   "title": "Christian Gottlob Neefe's Lieder für seine Freunde und Freundinnen nebst einer Ballade",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-408051787",
+   "werk": "104412",
+   "title": "Zwölf Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-408052309",
+   "werk": "104413",
+   "title": "Das Leben draussen ist verrauschet",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383784301",
+   "werk": "104605",
+   "title": "Libussa - Mus.4578-F-503",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-412068850",
+   "werk": "104767",
+   "title": "Heilige Nachtmahls-Musik, Auß des Thomas von Kempen Andachten vom Sacrament",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383785073",
+   "werk": "104831",
+   "title": "Marie - Mus.4781-F-502A",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-410109614",
+   "werk": "105079",
+   "title": "Trois Sonates Pour le Clavecin ou Piano-Forte Accompagnées d'un Violon et Basse",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-409046825",
+   "werk": "105159",
+   "title": "[ Umfassende Gesangschule für den Schul- und Privat-Unterricht ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-415170915",
+   "werk": "105951",
+   "title": "Geistliche Gesänge, Oden und Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-415171113",
+   "werk": "105952",
+   "title": "[ Geistliche Gesänge, Oden und Lieder ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-415200296",
+   "werk": "105954",
+   "title": "Neue Sammlung geistlicher Gesänge, Motetten, Oden und Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-415201187",
+   "werk": "105955",
+   "title": "Neue Sammlung geistlicher Gesänge, Motetten, Oden und Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-415202205",
+   "werk": "105956",
+   "title": "Neue Sammlung geistlicher Gesänge, Motetten, Oden und Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-414713281",
+   "werk": "106586",
+   "title": "Braga",
+   "query": "Volkslieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-414713486",
+   "werk": "106587",
+   "title": "5tes Heft. Englische, Schottische, Irländische Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-413853233",
+   "werk": "106589",
+   "title": "XII Deutsche Lieder Beim Klavier zu singen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-415087473",
+   "werk": "106596",
+   "title": "Lieder für Kinder aus Campes Kinderbibliothek",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-415087503",
+   "werk": "106597",
+   "title": "[Teil 1]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-414714997",
+   "werk": "106600",
+   "title": "Sammlung beliebter Lieder mit leichter Klavierbegleitung",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-414715578",
+   "werk": "106601",
+   "title": "Des Sommers letzte Rose",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-409108766",
+   "werk": "106700",
+   "title": "Die Farben",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-415305675",
+   "werk": "106968",
+   "title": "Lieder und Gesänge für eine Bariton- oder Bass-Stimme (auch für eine Altstimme) mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-41530587X",
+   "werk": "106969",
+   "title": "Heft 1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-414835522",
+   "werk": "107843",
+   "title": "Hymnus für einen Männerchor nach dem 98sten Psalm von Hohlfeldt",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383787092",
+   "werk": "108172",
+   "title": "Le mari à la porte - Mus.6454-F-501",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383788110",
+   "werk": "108445",
+   "title": "Naschka. Arr - Mus.8606-F-500",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383787769",
+   "werk": "109265",
+   "title": "Albin - Mus.5829-F-503A",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-415061768",
+   "werk": "109553",
+   "title": "36 Lieder - Mus.1-K-528",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-415089603",
+   "werk": "109685",
+   "title": "Das Wohltemperierte Klavier - Mus.2405-T-7,1",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-415089972",
+   "werk": "109686",
+   "title": "Das Wohltemperierte Klavier - Mus.2405-T-7,2",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-410132160",
+   "werk": "109974",
+   "title": "Fünf Frühlings-Lieder von Uhland mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-410133205",
+   "werk": "109975",
+   "title": "Fünf Frühlings-Lieder von Uhland mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-410128309",
+   "werk": "109976",
+   "title": "Neun Wander-Lieder von Uhland mit Begleitung des Piano-Forte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-410128740",
+   "werk": "109977",
+   "title": "IItes Heft",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-409080004",
+   "werk": "109979",
+   "title": "Sechs deutsche Lieder für eine Singstimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-409080233",
+   "werk": "109983",
+   "title": "Sechs deutsche Lieder für eine Singstimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-422866814",
+   "werk": "110007",
+   "title": "Ier Aufzug",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-401903540",
+   "werk": "110276",
+   "title": "Guido et Ginevra",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383784344",
+   "werk": "110355",
+   "title": "Der Türkische Arzt - Mus.4615-F-1a",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-421183713",
+   "werk": "110368",
+   "title": "Ausgewählte Lieder und Gesänge für gemischte Stimmen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-421183780",
+   "werk": "110369",
+   "title": "Pilgergesang aus dem VII. Jahrhundert: \"O Roma nobilis\"",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-421184116",
+   "werk": "110370",
+   "title": "Mignon: \"Kennst du das Land, wo die Citronen blüh'n?\"",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-421184647",
+   "werk": "110371",
+   "title": "Wandrers Nachtlied: \"Ueber allen Gipfeln ist Ruh'\"",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383786126",
+   "werk": "110771",
+   "title": "Die Bürgschaft - Mus.4784-F-4",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383782198",
+   "werk": "111248",
+   "title": "Deutsche Tänze. Excerpts. Arr - Mus.10122-F-507A",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383781787",
+   "werk": "111277",
+   "title": "Marches - Mus.10122-F-502",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383781949",
+   "werk": "111286",
+   "title": "Dornröschen - Mus.10122-F-505",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-383787254",
+   "werk": "111313",
+   "title": "Der Raub der Helena. Excerpts - Mus.4888-F-13",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-42781670X",
+   "werk": "113643",
+   "title": "Immortelles",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-427877105",
+   "werk": "113679",
+   "title": "IItes Heft",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-427878136",
+   "werk": "113681",
+   "title": "Ites Heft",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-426751795",
+   "werk": "114722",
+   "title": "Neue Freymäurer Lieder mit Melodien",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-42845920X",
+   "werk": "114723",
+   "title": "Sieben Ländlerische Tänze für's Piano-Forte",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-427870534",
+   "werk": "122187",
+   "title": "1927-1956",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-432295844",
+   "werk": "122664",
+   "title": "Amores Musicales Oder Newe Gantz Lustige vnd Anmutige Amorosische Liedlein",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-429387199",
+   "werk": "123942",
+   "title": "Valse Pour le Pianoforté",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-429887914",
+   "werk": "124397",
+   "title": "Vierstimmiges Choralbuch oder harmonische Melodiensammlung für Kirchen, Schulen und Liebhaber geistlicher Gesänge",
+   "query": "Choralbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-429913656",
+   "werk": "129513",
+   "title": "Adagio und Rondo alla Polacca für die Clarinette",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-429813228",
+   "werk": "130695",
+   "title": "Six Danses (4 Walzes et 2 Ländlers) pour la Flûte",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-433844078",
+   "werk": "132058",
+   "title": "Weihnachtszyklus der Kruzianer - Mus.11302-C-501",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-435267779",
+   "werk": "132393",
+   "title": "Fünf Lieder für eine Singstimme",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-433639415",
+   "werk": "132588",
+   "title": "Freymäurerlieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-435397788",
+   "werk": "139534",
+   "title": "3 Lieder - Mus.11302-H-514,9",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-435267221",
+   "werk": "139547",
+   "title": "Guirlanden",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-434784249",
+   "werk": "139590",
+   "title": "2 Lieder - Mus.11302-H-514,11",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-445475005",
+   "werk": "142688",
+   "title": "Funfzig Psalmen, geistliche Oden und Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-445277815",
+   "werk": "142994",
+   "title": "Sechs Lieder von Fr. Rückert für eine Singstimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-44580193X",
+   "werk": "143119",
+   "title": "Wohl klingende Lieder Gut auf Saitenspiel",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-444873805",
+   "werk": "143126",
+   "title": "Der Männerchor",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-444874100",
+   "werk": "143127",
+   "title": "\"Die Himmel erzählen die Ehre Gottes\"",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-437832317",
+   "werk": "148915",
+   "title": "Oden mit Melodien",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-434055271",
+   "werk": "148932",
+   "title": "Lieder mit Melodien",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-437787168",
+   "werk": "148948",
+   "title": "Gesänge am Clavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-453961525",
+   "werk": "152340",
+   "title": "Le Clavecin bien tempéré ou Preludes et Fugues dans tous les Tons et Demitons du Mode majeur et mineur",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-453961606",
+   "werk": "152341",
+   "title": "I Parthie",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-453847412",
+   "werk": "152365",
+   "title": "48 Préludes et Fugues dans tous les Tons, tant Majeurs, que Mineurs. Pour le Clavecin ou Piano Forté",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-45384748X",
+   "werk": "152366",
+   "title": "No. 2d Partie Contenant 24 Préludes et 24 Fugues",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-445311827",
+   "werk": "152387",
+   "title": "Ade du lieber Tannenwald",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-453860761",
+   "werk": "152406",
+   "title": "Hymne \"Jehova, dir frohlockt der König\"",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-445021004",
+   "werk": "152422",
+   "title": "Zwölf alte deutsche Lieder des Knaben Wunderhorn",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-445312041",
+   "werk": "152672",
+   "title": "Frühlings-Erwachen",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454356846",
+   "werk": "153020",
+   "title": "Six Sonates pour le Clavecin avec l'Accompagnement d'un Violon",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454365268",
+   "werk": "153439",
+   "title": "Sechs Lieder in Musik gesetzt mit Begleitung der Guitarre",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454668392",
+   "werk": "155462",
+   "title": "Te Deum laudamus",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-453511996",
+   "werk": "157662",
+   "title": "1979-1985",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-456202919",
+   "werk": "157857",
+   "title": "Trio für Pianoforte, Violine u. Violoncello",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-407659064",
+   "werk": "161544",
+   "title": "Zwei Spanische Tänze",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-456203621",
+   "werk": "161976",
+   "title": "13 Contredanses -Mus.3287-N-1",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-462248151",
+   "werk": "162032",
+   "title": "Sechs deutsche Lieder u. Gesänge für eine Tenor- oder Sopran-Stimme",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-455200378",
+   "werk": "162710",
+   "title": "Sonata Pour le Clavecin ou Piano-Forte avec un Violino et Violoncello",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-463784138",
+   "werk": "163400",
+   "title": "[12 Sonaten für Klavier und Violine]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-462248011",
+   "werk": "164064",
+   "title": "Lieder und Gesänge von H. Heine, Kannegiesser und H. Stieglitz mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-469714166",
+   "werk": "164066",
+   "title": "Sechs Lieder zu Göthe's Faust mit Begleitung des Pianoforte oder der Guitarre",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-469426705",
+   "werk": "164508",
+   "title": "Vivat Paulus!",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-459339141",
+   "werk": "169777",
+   "title": "1986-1987",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-475591690",
+   "werk": "170743",
+   "title": "Spanische Tänze",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-475591852",
+   "werk": "170744",
+   "title": "op. 26. Violine und Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-470049901",
+   "werk": "171556",
+   "title": "Douze Walzes pour le Forte Piano Avec accompagnement de Tambour de basque et de triangle",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454510268",
+   "werk": "173159",
+   "title": "Gehet zu seinen Toren ein - Mus.2953-E-502 - Mus.2953-E-502a",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454505124",
+   "werk": "173161",
+   "title": "Wer kann die Wohltat ganz empfinden - Mus.3036-E-516 - Mus.3036-E-516a",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-469850310",
+   "werk": "173507",
+   "title": "Sammlung drei- und vierstimmiger Gesänge, Lieder, Motetten und Choräle für Männerstimmen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-469850698",
+   "werk": "173508",
+   "title": "[ Sammlung drei- und vierstimmiger Gesänge, Lieder, Motetten und Choräle für Männerstimmen ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-475860675",
+   "werk": "173974",
+   "title": "1990-1992",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-47586056X",
+   "werk": "174816",
+   "title": "1988-1989",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-483221635",
+   "werk": "177540",
+   "title": "Mampe Walzer",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-47559049X",
+   "werk": "178989",
+   "title": "Spanische Tänze für Violine mit Begleitung des Pianoforte",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-475590708",
+   "werk": "178990",
+   "title": "Op. 21. Erstes Heft.",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479861897",
+   "werk": "179034",
+   "title": "Beliebte Tänze nach Motiven der Oper Die lustigen Weiber von Windsor von O. Nicolai",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-47986277X",
+   "werk": "179035",
+   "title": "No. 1. Galopp \"Wie freu' ich mich!\"",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479863393",
+   "werk": "179036",
+   "title": "Die letzten Walzer eines Wahnsinnigen",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479864012",
+   "werk": "179044",
+   "title": "Der Freischütz",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479764638",
+   "werk": "179095",
+   "title": "Seconde concerto pour le violon avec accompagnement de piano ou d'orchestre",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-483419451",
+   "werk": "179929",
+   "title": "1995-1996",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-481759549",
+   "werk": "180246",
+   "title": "Vierstimmiges Hand-Choralbuch",
+   "query": "Choralbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454507941",
+   "werk": "180263",
+   "title": "Selig sind des Himmels Erben - Mus.4237-E-503",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-485851121",
+   "werk": "180592",
+   "title": "Récréations enfantines",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-484486829",
+   "werk": "180655",
+   "title": "Practische Klavier-Schule oder Uebungen für das Pianoforte",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-484487566",
+   "werk": "180656",
+   "title": "Iter Band",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-47624885X",
+   "werk": "181265",
+   "title": "3 Trios - Go.S. 36",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-477054498",
+   "werk": "181269",
+   "title": "Lieder der Liebe",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-482779063",
+   "werk": "181817",
+   "title": "VI Lieder für vier Männerstimmen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-488255805",
+   "werk": "183339",
+   "title": "Zwölf Lieder und Romanzen mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-488256046",
+   "werk": "183340",
+   "title": "2s. Heft",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-488254868",
+   "werk": "183344",
+   "title": "Zwölf Lieder und Romanzen für eine oder zwei Singstimmen mit Begleitung des Piano-Forte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-488255155",
+   "werk": "183345",
+   "title": "2tes Heft",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-47624871X",
+   "werk": "185604",
+   "title": "Choralbuch - Go.S. 304",
+   "query": "Choralbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-489513255",
+   "werk": "185798",
+   "title": "Lieder, gesungen beim 50jährigen Jubiläum des Advocat Döhnel in Wiesenburg",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-483398586",
+   "werk": "185829",
+   "title": "1993-1994",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476247640",
+   "werk": "186643",
+   "title": "Das Wohltemperierte Klavier. Excerpts - Go. S. 53",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476245923",
+   "werk": "187040",
+   "title": "16 Keyboard pieces - Go. S. 21",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476246636",
+   "werk": "187639",
+   "title": "6 Sonatas - Go. S. 120",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476247896",
+   "werk": "187641",
+   "title": "6 Sonatas - Go. S. 122",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-47624692X",
+   "werk": "187948",
+   "title": "Capriccios - Go. S. 216",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476249708",
+   "werk": "188059",
+   "title": "Das Wohltemperierte Klavier. Excerpts - Go. S. 312",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476249147",
+   "werk": "188062",
+   "title": "2 Sacred songs. Arr - Go. S. 320",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476250358",
+   "werk": "188132",
+   "title": "12 Lieder bzw Operngesänge - Go. S. 389",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476250609",
+   "werk": "188269",
+   "title": "2 Lieder - Go. S. 399",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476249023",
+   "werk": "188402",
+   "title": "3 Trios - Go. S. 420",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476249368",
+   "werk": "188536",
+   "title": "5 Keyboard pieces - Go. S. 478",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479989877",
+   "werk": "188565",
+   "title": "35 Chorale arrangements - Go. S. 510",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-487678745",
+   "werk": "188645",
+   "title": "[ Schütz-Jahrbuch ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-487678745",
+   "werk": "188651",
+   "title": "[ Schütz-Jahrbuch ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-487678745",
+   "werk": "188670",
+   "title": "[ Schütz-Jahrbuch ]",
+   "query": "Gesangbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476248612",
+   "werk": "189706",
+   "title": "3 Sonatas - Go. S. 452",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-47624904X",
+   "werk": "189754",
+   "title": "6 Sonatas - Go. S. 414",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476249171",
+   "werk": "189759",
+   "title": "6 Sonatas - Go. S. 413",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476249791",
+   "werk": "189761",
+   "title": "Variations - Go. S. 423",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-492556733",
+   "werk": "189774",
+   "title": "Geschribenes Meister-Gesangbuch. No. 37. - Mscr.Dresd.M.10",
+   "query": "Gesangbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476250552",
+   "werk": "189782",
+   "title": "Fra le roseei gelsomini - Go. S. 427",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476247799",
+   "werk": "189785",
+   "title": "8 Pieces - Go. S. 444",
+   "query": "Gesangbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479953376",
+   "werk": "189788",
+   "title": "235 Chorales - Go. S. 443",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476247411",
+   "werk": "189838",
+   "title": "2 Suites - Go. S. 96",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-490424546",
+   "werk": "189916",
+   "title": "O Wandern",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479954003",
+   "werk": "190699",
+   "title": "145 Chorales - Go. S. 500",
+   "query": "Choralbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-491093977",
+   "werk": "190746",
+   "title": "Ite Sammlung",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476248159",
+   "werk": "191367",
+   "title": "3 Lieder - Go. S. 590",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-492963835",
+   "werk": "192323",
+   "title": "Altdeutscher Schlachtgesang",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479664374",
+   "werk": "192482",
+   "title": "39 Sacred songs - Go. S. 117",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476245907",
+   "werk": "192964",
+   "title": "Variations - Go. S. 655",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476251397",
+   "werk": "192969",
+   "title": "Variations - Go. S. 656",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476251443",
+   "werk": "192972",
+   "title": "Sonatas. Excerpts - Go. S. 661",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476251389",
+   "werk": "192973",
+   "title": "Variations - Go. S. 654",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476251400",
+   "werk": "192974",
+   "title": "Variations - Go. S. 657",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476251427",
+   "werk": "192975",
+   "title": "Variations - Go. S. 659",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476251435",
+   "werk": "192976",
+   "title": "Variations - Go. S. 660",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-48010798X",
+   "werk": "192984",
+   "title": "12 Allemandes - Go. S. 664",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-480108285",
+   "werk": "192985",
+   "title": "12 Allemandes - Go. S. 665",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479771367",
+   "werk": "193594",
+   "title": "Parade Marsch für das Piano Forte",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479830169",
+   "werk": "193603",
+   "title": "Hambacher Favorit Marsch für das Piano Forte",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479830800",
+   "werk": "193605",
+   "title": "Siebenter Schlittage-Walzer für das Piano-Forte",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479831297",
+   "werk": "193606",
+   "title": "Achter Schlittage-Walzer für das Piano-Forte",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479831963",
+   "werk": "193643",
+   "title": "Achter Schlittage-Walzer für das Piano-Forte",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479832544",
+   "werk": "193644",
+   "title": "Neunter Schlittage-Walzer für das Piano-Forte",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479838879",
+   "werk": "193649",
+   "title": "Staberls Walzer 1 & 2",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479841187",
+   "werk": "193654",
+   "title": "Le Desir",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479841845",
+   "werk": "193656",
+   "title": "Der Willkomm Favorit Walzer mit Gesang für's Piano-Forté",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479851425",
+   "werk": "193672",
+   "title": "Ha, Sum, Juk, Kling",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479851689",
+   "werk": "193673",
+   "title": "O Jerum",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479851999",
+   "werk": "193674",
+   "title": "Die Melancholie (Es ruft die Abschieds Stunde)",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479853096",
+   "werk": "193677",
+   "title": "2ter Hambacher Favorit-Walzer für das Piano Forte über ein Thema von G. Rossini",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-491339178",
+   "werk": "193914",
+   "title": "Te Deum laudamus",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-491323670",
+   "werk": "193924",
+   "title": "Sechs Lieder von Goethe für Sopran, Alt, Tenor und Bass",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-45075832X",
+   "werk": "194114",
+   "title": "Brennus",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-475076052",
+   "werk": "197288",
+   "title": "Schöne Newe Auszerlesene Geistliche vnd Weltliche Lieder mit drey Stimmen, Auff ein Newe Art vnd Manier lustig zusingen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-475074637",
+   "werk": "197291",
+   "title": "Kurtzweilige Newe Teutsche Weltliche Lieder mit vier Stimmen vnd in Druck verfertigt",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-456269681",
+   "werk": "197321",
+   "title": "Neue teutsche Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-455330344",
+   "werk": "197439",
+   "title": "Enchiridion geistlicher gesenge vnd Psalmen fur die leien mit viel andern denn zuvor gebesser",
+   "query": "Gesangbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-455484945",
+   "werk": "197440",
+   "title": "Neüer Clavier Ubung",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-455485488",
+   "werk": "197441",
+   "title": "[ Neüer Clavier Ubung ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-455512027",
+   "werk": "197451",
+   "title": "[ Neüer Clavier Ubung ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-455512159",
+   "werk": "197452",
+   "title": "[ Neüer Clavier Ubung ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-45533336X",
+   "werk": "197491",
+   "title": "Gsangbuch, Darinnen die Psalmen, Lobgesäng vnd Geistliche Lieder, so in den Christlichen Kirchen vnnd Schulen, aller Reformirten Kirchen gemeinglich am gebräuchlichsten gesungen werden",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-477883540",
+   "werk": "197497",
+   "title": "Amuletum Musicum Contra Melancholiam",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-456162488",
+   "werk": "197531",
+   "title": "Martini Opitzes Epistolische Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-455634440",
+   "werk": "197532",
+   "title": "Newe vnd zierliche Intraden",
+   "query": "Gesangbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-455634726",
+   "werk": "197533",
+   "title": "Erster Theil Newer Lieblicher vnd Zierlicher Intraden mit sechs Stimmen",
+   "query": "Gesangbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-488801605",
+   "werk": "198048",
+   "title": "[ Sammlung drei- und vierstimmiger Gesänge, Lieder, Motetten und Choräle für Männerstimmen ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-490677932",
+   "werk": "198388",
+   "title": "Choralmelodienbuch für drei Männerstimmen",
+   "query": "Gesangbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454513488",
+   "werk": "198660",
+   "title": "61 Instrumental pieces - Becker III.12.18",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454425686",
+   "werk": "198716",
+   "title": "Choralbuch - Becker II.1.2°.24",
+   "query": "Choralbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-491035098",
+   "werk": "198845",
+   "title": "Verzweifle nicht im Schmerzensthal von F. Rückert",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-493410333",
+   "werk": "198889",
+   "title": "Meistergesangbuch - Mscr.Dresd.M.191",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-491036566",
+   "werk": "199293",
+   "title": "Verzweifle nicht im Schmerzensthal von F. Rückert",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-494111771",
+   "werk": "199381",
+   "title": "Metamophorsis[!] oder die Veränderungen der gestalten Publij ovitij[!] Nasonis in gewisse meister gesangs Thöne gebracht durch den weilandt Herrn Magister ambrosium Metzgerum - Mscr.Dresd.M.214",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-477728952",
+   "werk": "199425",
+   "title": "Sonate pour le Clavecin, ou Piano-Forté, avec Violon obligé",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476249120",
+   "werk": "199428",
+   "title": "Erschallet mächtige Lieder - Go. S. 451",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476249376",
+   "werk": "199432",
+   "title": "12 Lieder - Go. S. 428",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476250560",
+   "werk": "199434",
+   "title": "Keyboard Pieces - Go. S. 390",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476246695",
+   "werk": "199577",
+   "title": "Sonatas - Go. S. 84",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-495556955",
+   "werk": "199619",
+   "title": "33 Veränderungen über einen Walzer für das Piano-Forte",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-493563466",
+   "werk": "200035",
+   "title": "Meistergesangbuch von Adam Puschmanns Hand - Mscr.Dresd.M.207",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476250986",
+   "werk": "200139",
+   "title": "3 Vocal Pieces - Go. S. 555",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476249449",
+   "werk": "200148",
+   "title": "5 Pieces - Go. S. 668",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-477728790",
+   "werk": "200226",
+   "title": "Golde - Die Sonne hinter Decken der Nacht - Go. S. 119",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-47625082X",
+   "werk": "200239",
+   "title": "4 Sonatas - Go. S. 515",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479999619",
+   "werk": "200253",
+   "title": "356 Chorales - Go. S. 511",
+   "query": "Choralbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476248043",
+   "werk": "200259",
+   "title": "Ihr sanften Lieder stiller Wonne - Go. S. 614",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476251044",
+   "werk": "200278",
+   "title": "Variations - Go. S. 567",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454507143",
+   "werk": "200556",
+   "title": "Te Deum - Mus.4157-E-502 - Mus.4157-E-502a",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-493551379",
+   "werk": "200897",
+   "title": "Zweites Lieder Buch mit meister gesengen - Mscr.Dresd.M.195",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49480159X",
+   "werk": "201221",
+   "title": "Dreyßig Tonstücke für vier Hände",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476250668",
+   "werk": "201506",
+   "title": "7 Songs - Go. S. 375",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479840636",
+   "werk": "201519",
+   "title": "Journal des Deutschen Nationalgesanges - Go. S. 384",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476250722",
+   "werk": "201655",
+   "title": "6 Sonatas - Go. S. 429",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476251478",
+   "werk": "201659",
+   "title": "Variations - Go. S. 667",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476249198",
+   "werk": "201660",
+   "title": "6 Sonatas - Go. S. 419",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-495449660",
+   "werk": "202391",
+   "title": "Tabulatur-Buch",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-490024009",
+   "werk": "203030",
+   "title": "Concertino",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-489102689",
+   "werk": "203035",
+   "title": "Hymnus für einen Männerchor nach dem 98sten Psalm von Hohlfeldt",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-48907300X",
+   "werk": "203037",
+   "title": "Der 121ste Psalm. Die Hülfe mein vom Herren kommt ... Für vierstimmigen Männerchor",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-489073344",
+   "werk": "203038",
+   "title": "Der 121ste Psalm. Die Hülfe mein vom Herren kommt ... Für vierstimmigen Männerchor",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-489072240",
+   "werk": "203054",
+   "title": "Der 23ste Psalm. Der Herr ist mein Hirte ... Für vierstimmigen Männerchor",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-489763006",
+   "werk": "203055",
+   "title": "Der XI Psalm für Männerchor ohne Begleitung",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-48976343X",
+   "werk": "203056",
+   "title": "Der XI Psalm für Männerchor ohne Begleitung",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-491114028",
+   "werk": "203094",
+   "title": "Heil dir, Göttin des Gesanges",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-48967383X",
+   "werk": "203102",
+   "title": "Verleih uns Frieden gnädiglich - Mus.5543-D-533",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-490934455",
+   "werk": "203110",
+   "title": "Sechs Lieder ohne Worte für das Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-490933866",
+   "werk": "203112",
+   "title": "Sechs Lieder ohne Worte für das Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-490933513",
+   "werk": "203113",
+   "title": "Sechs Lieder ohne Worte für das Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476247780",
+   "werk": "203251",
+   "title": "75 Keyboard pieces - Go. S. 602",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454507763",
+   "werk": "203327",
+   "title": "Lobet den Herrn alle Heiden - Mus.3602-E-502 - Mus.3602-E-502a",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-490932800",
+   "werk": "203440",
+   "title": "Sechs Lieder ohne Worte für das Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-490932533",
+   "werk": "203441",
+   "title": "Sechs Lieder ohne Worte für das Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454508328",
+   "werk": "203446",
+   "title": "Athalie - Mus.3537-F-500 - Mus.3537-F-500a",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-490931898",
+   "werk": "203524",
+   "title": "Vier Lieder für vierstimmigen Männerchor",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49093160X",
+   "werk": "203526",
+   "title": "Vier Lieder für vierstimmigen Männerchor",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49107834X",
+   "werk": "203536",
+   "title": "Dichterliebe",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-491078382",
+   "werk": "203537",
+   "title": "Heft I",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-490935060",
+   "werk": "203559",
+   "title": "Sechs Lieder ohne Worte für das Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-491079664",
+   "werk": "203591",
+   "title": "Altdeutscher Schlachtgesang",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454503873",
+   "werk": "203734",
+   "title": "Die Freude der Hirten über die Geburt Jesu - Mus.3031-E-509 - Mus.3031-E-509a",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-490992625",
+   "werk": "203770",
+   "title": "Deutsche Lieder-Tafel",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-490997481",
+   "werk": "203771",
+   "title": "Erstes Heft enthält Sechs Gesänge für vier Männerstimmen ohne Begleitung componirt von Friedr. Schneider",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454515758",
+   "werk": "203787",
+   "title": "Elysium - Becker III.15.27",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-491002513",
+   "werk": "203939",
+   "title": "2s. Heft",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-486712133",
+   "werk": "203963",
+   "title": "87 Songs - Mus.1-W-26,17-ältere Slg",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476249953",
+   "werk": "204679",
+   "title": "Choralbuch - Go. S. 445",
+   "query": "Choralbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-495723207",
+   "werk": "204682",
+   "title": "Chorales - Go. S. 603",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476251370",
+   "werk": "204690",
+   "title": "Variations - Go. S. 653",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-480055548",
+   "werk": "204691",
+   "title": "81 Lieder - Go. S. 629",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476251419",
+   "werk": "204692",
+   "title": "10 Keyboard pieces - Go. S. 658",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-495549398",
+   "werk": "205749",
+   "title": "4 Lieder - Mus.15530-K-500",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-476250471",
+   "werk": "207416",
+   "title": "240 Chorales - Go. S. 71",
+   "query": "Choralbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-497207656",
+   "werk": "207826",
+   "title": "Lieder nach Volksmelodien",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-497069571",
+   "werk": "209138",
+   "title": "Sechs Lieder für eine Singstimme",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454513666",
+   "werk": "212367",
+   "title": "Preludes and Fugues - Becker III.8.9",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454516843",
+   "werk": "216214",
+   "title": "17 Pieces - Becker III.5.3",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-45451686X",
+   "werk": "216224",
+   "title": "17 Pieces - Becker III.5.1",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-499907949",
+   "werk": "217038",
+   "title": "Die kleine Spinnerin",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454516991",
+   "werk": "219753",
+   "title": "5 Vocal pieces - Becker III.2.209",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-500380988",
+   "werk": "221810",
+   "title": "XXXVI [36] Lieder beym Clavier zu singen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454516851",
+   "werk": "222901",
+   "title": "45 Vocal pieces - Becker III.5.2",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-495738115",
+   "werk": "224655",
+   "title": "Der Liedermeister Carl Friedrich Zöllner",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454073291",
+   "werk": "228047",
+   "title": "Choralbuch - Becker II.1.2°.23",
+   "query": "Choralbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-495119385",
+   "werk": "232011",
+   "title": "Instrumental pieces - Becker II.5.32b",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49718589X",
+   "werk": "234630",
+   "title": "Fest-Schrift für das 1. Sächsische Sängerbundes-Fest in Dresden 20. - 23. Juni 1925",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-496136062",
+   "werk": "240616",
+   "title": "2000-2004",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-495707082",
+   "werk": "243934",
+   "title": "Süßer rosenvarmer Munt",
+   "query": "Volkslieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-502067152",
+   "werk": "244683",
+   "title": "Vier Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-492807795",
+   "werk": "245071",
+   "title": "L. van Beethoven's Lied: \"Die Ehre Gottes aus der Natur\"",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-492807353",
+   "werk": "245079",
+   "title": "L. van Beethoven's Lied: \"Die Ehre Gottes aus der Natur\"",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-495831174",
+   "werk": "249046",
+   "title": "Das Klavier im Spiel der Kleinsten",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-502577363",
+   "werk": "250368",
+   "title": "Trois Sonates pour le forte piano avec un violon ad libitum",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-489072623",
+   "werk": "254141",
+   "title": "Der 23ste Psalm. Der Herr ist mein Hirte ... Für vierstimmigen Männerchor",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-490932185",
+   "werk": "254175",
+   "title": "Sechs Lieder ohne Worte für das Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454108966",
+   "werk": "262502",
+   "title": "169 Sacred songs - Becker II.1.4°.20",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "264998",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265001",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265002",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Gesangbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265009",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265020",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265029",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265032",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265035",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265318",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265340",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Gesangbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265342",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265355",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265360",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265366",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-49575630X",
+   "werk": "265638",
+   "title": "[ Bach-Jahrbuch ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-492882282",
+   "werk": "267254",
+   "title": "Hoch in den Wolken thront der Herr - Mus.4720-D-501a",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-453993117",
+   "werk": "267806",
+   "title": "Choralbuch - Becker II.1.4°.69",
+   "query": "Choralbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-500380066",
+   "werk": "270484",
+   "title": "Kirchengesänge, darinne die Hauptartickel des Christlichen glaubens kurtz verfasset vnd ausgeleget sind",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-507267680",
+   "werk": "275560",
+   "title": "Nawe schöne außerlesene Geistliche Deudsche Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-50726939X",
+   "werk": "277588",
+   "title": "Nawe kurtzweilige, Deutsche Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-507497945",
+   "werk": "284276",
+   "title": "2005-2006",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-506884015",
+   "werk": "297041",
+   "title": "Symphoniae iucundae atque adeo breves quatuor vocum",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-512052069",
+   "werk": "301511",
+   "title": "Neue lustige teutsche Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-515284750",
+   "werk": "301521",
+   "title": "2 Pieces - Mus.15058-S-501",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-515625450",
+   "werk": "301534",
+   "title": "6 Pieces - Mus.15058-S-500",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-515630810",
+   "werk": "306322",
+   "title": "2007-2008",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-512624984",
+   "werk": "306915",
+   "title": "Erster Theil: Neuer geistlicher Lieder. Ariaetten",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-512286620",
+   "werk": "317661",
+   "title": "Tänze für Violoncello und Live-Elektronik - Mus.15480-ZZ-501",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-512288828",
+   "werk": "317663",
+   "title": "geträumt - Mus.15480-ZZ-503",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-513832211",
+   "werk": "318206",
+   "title": "Komm, laß uns spielen - Mus.15480-ZZ-531",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-514580976",
+   "werk": "318207",
+   "title": "[Niemandem] - Mus.15480-ZZ-558",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-513834192",
+   "werk": "318214",
+   "title": "dies hier I - Mus.15480-ZZ-535",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-514586400",
+   "werk": "318235",
+   "title": "huldvoll gnadenreich - Mus.15480-ZZ-559",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-512362637",
+   "werk": "318501",
+   "title": "Elfenreigen für Arno Schmidt - Mus.15480-ZZ-511",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-51462423X",
+   "werk": "318975",
+   "title": "Lichtenbergs Wörter-Welt der Sudelbücher - Mus.15480-ZZ-553",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-512292507",
+   "werk": "319003",
+   "title": "Abendmusik - Mus.15480-ZZ-524",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1666223441",
+   "werk": "329247",
+   "title": "3 Lieder - Mus.6455-K-5,1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1666998419",
+   "werk": "329712",
+   "title": "Fünf Volkslieder nach bekannten Melodieen zur Feier des Regierungs-Jubiläums des allgeliebten Königs von Sachsen Friedrich August",
+   "query": "Volkslieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-451480848",
+   "werk": "330242",
+   "title": "Der Lustig- und Moralische Arlechino",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667355287",
+   "werk": "332394",
+   "title": "Lieder zur Feyer des Regierungs-Jubelfestes Sr. Majestät des Königs von Sachsen Friedrich August am 20. Sept. 1818",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-512152217",
+   "werk": "333474",
+   "title": "157 Sacred songs - Mus.Löb.56,2",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-166776859X",
+   "werk": "334638",
+   "title": "Drei Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667769715",
+   "werk": "334639",
+   "title": "Spielmann, wann hast du das Lied erdacht?",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667311565",
+   "werk": "334680",
+   "title": "Rüdiger-Repertoire",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667317970",
+   "werk": "334681",
+   "title": "[ Rüdiger-Repertoire ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-166277012X",
+   "werk": "335207",
+   "title": "Altsächsische Fanfaren- und Armeemärsche, Zapfenstreich und Abtrupp",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1662771541",
+   "werk": "335208",
+   "title": "Altsächsische historische Märsche und Königs-Hymnus",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667750496",
+   "werk": "335229",
+   "title": "Zehn Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667759396",
+   "werk": "335230",
+   "title": "Herberge",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667773216",
+   "werk": "335231",
+   "title": "Wiegenlied",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667749080",
+   "werk": "335236",
+   "title": "Vier Lieder für eine Singstimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667775081",
+   "werk": "335237",
+   "title": "Drei Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667775383",
+   "werk": "335238",
+   "title": "Schützenkönig",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667777297",
+   "werk": "335240",
+   "title": "Drei Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667777580",
+   "werk": "335241",
+   "title": "Fragefritze und die Plapper-Tasche",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667818805",
+   "werk": "335245",
+   "title": "Durch den Wald",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-166788820X",
+   "werk": "335247",
+   "title": "Fünf Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667889885",
+   "werk": "335248",
+   "title": "Ich hatt' einen wunderholden Traum",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667784803",
+   "werk": "335250",
+   "title": "Das kranke Kätzchen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-166782743X",
+   "werk": "335265",
+   "title": "Was Mütterlein wünscht",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-166731260X",
+   "werk": "335366",
+   "title": "[ Rüdiger-Repertoire ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1667314769",
+   "werk": "335368",
+   "title": "[ Rüdiger-Repertoire ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-518501906",
+   "werk": "339626",
+   "title": "Fünf Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-518502023",
+   "werk": "339627",
+   "title": "Das mitleidige Mädel",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-518501213",
+   "werk": "339628",
+   "title": "Kleine Lieder auf alte Kinderreime",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-518506894",
+   "werk": "339629",
+   "title": "Tanzlied: Es ist ein Reihen geschlungen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1668041294",
+   "werk": "340025",
+   "title": "Blutrote Rosen",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-514635649",
+   "werk": "342952",
+   "title": "die Scham - Mus.15480-ZZ-528",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-508042089",
+   "werk": "347365",
+   "title": "M. G. andächtiger Seelen vollständiges Gesangbuch",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-518125114",
+   "werk": "349811",
+   "title": "2009-2011",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1675750734",
+   "werk": "352185",
+   "title": "Pugatschow - Mus.15480-ZZ-519",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1675759383",
+   "werk": "352187",
+   "title": "Amor voll Unvernunft - Mus.15480-K-500",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-454516363",
+   "werk": "361844",
+   "title": "23 Instrumental pieces - Becker III.11.62a",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1686552912",
+   "werk": "366886",
+   "title": "Die Liebe der Danae. Scetches - Mus.9099-F-501",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1683529618",
+   "werk": "367031",
+   "title": "2012-2015",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-517880245",
+   "werk": "367042",
+   "title": "Ariadne auf Naxos",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1677581808",
+   "werk": "367197",
+   "title": "Der Bürger als Edelmann",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1685469760",
+   "werk": "367758",
+   "title": "Intermezzo",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-168766398X",
+   "werk": "368034",
+   "title": "Fünf Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1687841071",
+   "werk": "368035",
+   "title": "In's stille Land",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1687842035",
+   "werk": "368036",
+   "title": "Das Leid",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1687851433",
+   "werk": "368037",
+   "title": "Komm, o komm",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1687852839",
+   "werk": "368038",
+   "title": "Eine Melodie singt",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-168766840X",
+   "werk": "368039",
+   "title": "Fünf Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1687854777",
+   "werk": "368040",
+   "title": "Schäumend floß der Bach",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1687856729",
+   "werk": "368041",
+   "title": "Wind, bring mir's wieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1687859353",
+   "werk": "368042",
+   "title": "Sausewind, Brausewind",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-168786828X",
+   "werk": "368043",
+   "title": "Sage nicht ja",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-168787025X",
+   "werk": "368044",
+   "title": "Lust'ge Blättermündchen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1680018000",
+   "werk": "382310",
+   "title": "Nawe schöne außerlesene Geistliche Deudsche Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1669141985",
+   "werk": "382370",
+   "title": "Richard Wagner",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1691310433",
+   "werk": "383601",
+   "title": "XII. Lieder für das Clavier",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1691311456",
+   "werk": "383602",
+   "title": "IIter Theil",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692414720",
+   "werk": "385713",
+   "title": "Fugarum libellus",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692414828",
+   "werk": "386387",
+   "title": "Ein ander new Opus Geistlicher Deutscher Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692414909",
+   "werk": "386388",
+   "title": "Ein ander new Opus Geistlicher Deutscher Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-169241450X",
+   "werk": "387312",
+   "title": "Geistliche deutsche Lieder Mart. Lutheri und anderer frommen Christen, welche durchs gantze Jahr in der christlichen Kirchen zu singen gebreuchlich, mit vier und fünff Stimmen nach gewöhnlicher Choralmelodien",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692415069",
+   "werk": "387507",
+   "title": "Das ander Theil des andern newen Operis Geistlicher Deutscher Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-169976381X",
+   "werk": "391651",
+   "title": "Fünf Lieder von Joseph Freiherrn von Eichendorff, Alex. Fischer, L. Tieck u. J. N. Vogel, op. 2",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1699797757",
+   "werk": "391652",
+   "title": "Sechs Lieder für Männerstimmen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1699798575",
+   "werk": "391653",
+   "title": "[ Sechs Lieder für Männerstimmen ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1699799776",
+   "werk": "391654",
+   "title": "[ Sechs Lieder für Männerstimmen ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1699762104",
+   "werk": "395849",
+   "title": "Der 33ste Psalm. Freut euch des Herrn ihr Gerechten ... Für vierstimmigen Männerchor",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-172669514X",
+   "werk": "403268",
+   "title": "Karten-Sammler-Marsch",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1726684741",
+   "werk": "403271",
+   "title": "Der Nachtschwärmer",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1726690237",
+   "werk": "403276",
+   "title": "Über den Wellen",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1726702243",
+   "werk": "403691",
+   "title": "Süsse Stunden",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-479406286",
+   "werk": "404726",
+   "title": "Lieder nach Elisabeth Kulmann - 441-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1733931686",
+   "werk": "405531",
+   "title": "Josephine von der Heilsarmee",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1703293770",
+   "werk": "405860",
+   "title": "Der Erde reinstes Glück - Ф.954 №239 (F.954 No. №239) - Mus.4888-F-15",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-480781389",
+   "werk": "405951",
+   "title": "Auf dem Rhein - 2003.52,1-A1c/A3",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-480782156",
+   "werk": "405952",
+   "title": "Liebeslied - 2003.52,2-A1c",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1726852792",
+   "werk": "405982",
+   "title": "2016-2019",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1728772362",
+   "werk": "408861",
+   "title": "Oden Und Lieder Mit Melodien",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1728773725",
+   "werk": "408862",
+   "title": "Oden Und Lieder Mit Melodien, Nebst Einer Cantate: Der Podagrist.",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1740245067",
+   "werk": "416342",
+   "title": "Einlagen",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1741840406",
+   "werk": "429797",
+   "title": "Lieder und Gesänge beym Klavier",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1743885911",
+   "werk": "432206",
+   "title": "Sechs leichte Sonatinen fürs Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1750951169",
+   "werk": "441615",
+   "title": "Auserlesenes und vollständiges Gesang-Buch, Worinnen 784. der besten und geistreichsten Lieder, Welche In denen Chur-Sächß. Kirchen pflegen gesungen zu werden, enthalten",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1738635392",
+   "werk": "442328",
+   "title": "Lo sponsalizio di Teti - MT.2561",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1698676573",
+   "werk": "455607",
+   "title": "Marienwürmchen - 2008.322-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-480968594",
+   "werk": "455616",
+   "title": "Liederkreis. Joseph Freyherrn von Eichendorf[f] für eine Singstimme mit Begleitung des Pianoforte von Robert Schumann - 2490-D1/A4",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-482282576",
+   "werk": "455640",
+   "title": "Heine. Nicht schnell - 4473-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-482336196",
+   "werk": "455690",
+   "title": "[Impromptus über eine Romanze von Clara Wieck für Klavier] - 4648-A1",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1690139935",
+   "werk": "458515",
+   "title": "[Notizen über technische Klavier-Übungen mit Zeitangaben] - 4871,IX,5-A3",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-169184098X",
+   "werk": "470097",
+   "title": "[3 Lieder] - 5984-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1691318426",
+   "werk": "470706",
+   "title": "Gesammelte[?] Lieder und Gesänge für eine Singstimme mit Begleitung des Pianoforte - 5427-A3",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1691326313",
+   "werk": "470714",
+   "title": "[Lieder und Gesänge]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1691327751",
+   "werk": "470715",
+   "title": "\"Was soll ich sagen?\" - 5436-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1691328537",
+   "werk": "470718",
+   "title": "Jasminenstrauch - 5437-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1691334022",
+   "werk": "470918",
+   "title": "\"Verzweifle nicht im Schmerzensthal\" von F. Rückert. - 5440-A1",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1691758019",
+   "werk": "470925",
+   "title": "\"Mutter, seit ich ihn liebe\" von Rückert - 5851-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-169226026X",
+   "werk": "475522",
+   "title": "Marsch - 5993-A1",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-169233588X",
+   "werk": "475524",
+   "title": "Marsch à 4/M - 5994-A1",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692442724",
+   "werk": "476748",
+   "title": "\"Rothes Röslein\" von R. Burns. - 7263-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692598937",
+   "werk": "476749",
+   "title": "[Sechs Lieder mit Begleitung des Pianoforte] - 7311-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-169260970X",
+   "werk": "476750",
+   "title": "Schneeglöckchen (F. Rückert) Nicht schnell - 7392-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692650955",
+   "werk": "477565",
+   "title": "[Konzert-Allegro mit Introduktion]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692653806",
+   "werk": "477566",
+   "title": "[Klavierstimme] - 7596,a-A1",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692654926",
+   "werk": "477573",
+   "title": "Concert-Allegro mit Introduction mit Begleitung des Orchesterss - 7596,c-A1",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692665294",
+   "werk": "477604",
+   "title": "[Ball] Masken-Tanz. Acht charakteristische T[änze]onstücke [Kinderball] [Acht Tänze] mit Introduction zu vier Händen für das Pianoforte - 8433-A1",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692666010",
+   "werk": "477608",
+   "title": "VI Gedichte aus dem Liederbuch eines Malers &lt;VI Lieder&gt; von Reinick für eine Sopran o Tenor Singstimme mit Begleitung des Pianoforte - 8783-A3",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-391945319",
+   "werk": "484745",
+   "title": "Zwei Conzertstücke für Clarinette und Bassethorn mit Begleitung des Pianoforte",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-391945696",
+   "werk": "484746",
+   "title": "Ites. Op. 113",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692703285",
+   "werk": "488423",
+   "title": "Lied. Andante. Dolce - 10345-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692703560",
+   "werk": "488427",
+   "title": "Rückert. - 10346-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692906135",
+   "werk": "488447",
+   "title": "\"Abendfeyer in Venedig\" Geibel - 10427-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1693327368",
+   "werk": "488502",
+   "title": "[Lieder und Gesänge] - 10500-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1693327511",
+   "werk": "488526",
+   "title": "Die Lieder der Mignon aus Göthe's Wilhelm Meister für eine Sopranstimme mit Begleitung des Pianoforte. - 10512-A1/A3",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1693330199",
+   "werk": "488595",
+   "title": "No 5. Hochlandbursch von R. Burns. - 10599-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1693328828",
+   "werk": "488596",
+   "title": "Nro 4. Die alte gute Zeit von R. Burns. - 10596-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1693341603",
+   "werk": "488602",
+   "title": "Marsch. Lebendig. - 10824-A1",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1693331578",
+   "werk": "488603",
+   "title": "[Solfeggio] Nr. 4 [für Chor]. - 10611-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1693362724",
+   "werk": "488608",
+   "title": "Walzer. Compose par Clara Wieck, gedichtet von J. Lyser. Allegro non troppo - 10935-A3",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-169334856X",
+   "werk": "488613",
+   "title": "Liebeslied. (Göthe im westöstlichen Divan) - 10923-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-391945912",
+   "werk": "488626",
+   "title": "IItes. Op. 114",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1693392224",
+   "werk": "488647",
+   "title": "Drei zweistimmige Lieder mit Begleitung des Pianoforte. Zweite Stimme. - 11515-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1693392720",
+   "werk": "488935",
+   "title": "Zwei Lieder von Emanuel Geibel für zwei und drei Frauenstimmen [und] mit Begleitung des Pianoforte - 12046-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1691310492",
+   "werk": "494309",
+   "title": "Abschriften verschiedener Gedichte zur Composition - 4871,VIII,4-A3",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1691838527",
+   "werk": "494316",
+   "title": "Erinnerungsbüchelchen für unsere Kinder - 5978-A3",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1691838039",
+   "werk": "494317",
+   "title": "Brautbuch - 5976-A3/A1",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-170213511X",
+   "werk": "498428",
+   "title": "[Notizbuch zur Schumann-Gesamtausgabe] - 13392‑E2/A3",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692683519",
+   "werk": "498684",
+   "title": "Fünf Lieder von Robert Burns für gemischten Chor - 8827-A1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1692654497",
+   "werk": "499004",
+   "title": "Concertallegro mit Introduction für das Pianoforte mit Begleitung des Orchesters - 7596,b-A1",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1777415349",
+   "werk": "504126",
+   "title": "Große Ballettmusik aus der Oper Margarete (Faust)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1777409209",
+   "werk": "505508",
+   "title": "Margarete.",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1777395704",
+   "werk": "505517",
+   "title": "Margarete.",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-177740682X",
+   "werk": "505546",
+   "title": "Margarethe.",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1525634445",
+   "werk": "505787",
+   "title": "Newe vnd zierliche Intraden",
+   "query": "Gesangbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-177631283X",
+   "werk": "505788",
+   "title": "Erster Theil Newer Lieblicher vnd Zierlicher Intraden mit sechs Stimmen",
+   "query": "Gesangbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1771322578",
+   "werk": "506059",
+   "title": "Der Prophet",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1771323698",
+   "werk": "506060",
+   "title": "Der Prophet",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1771687827",
+   "werk": "506103",
+   "title": "Le Prophète. Excerpts",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1777397014",
+   "werk": "507288",
+   "title": "Margarethe.",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1777397707",
+   "werk": "507885",
+   "title": "Margarethe.",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1775724778",
+   "werk": "513819",
+   "title": "Sertum musicale alterum",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1755865600",
+   "werk": "517590",
+   "title": "Sertum musicale alterum",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1755866216",
+   "werk": "518808",
+   "title": "KirchenGesäng: Psalmen und geistliche Lieder, von weiland Herrn Johann Leo Haßler, [Zeichen für etc.] Von Nürnberg",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1786302667",
+   "werk": "526147",
+   "title": "Posthornschule und Posthorn-Taschenliederbuch",
+   "query": "Volkslieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1786124041",
+   "werk": "556814",
+   "title": "Gruss an's Ober-Innthal",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1788795814",
+   "werk": "556878",
+   "title": "Contretanz-Quadrille",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1784466549",
+   "werk": "557613",
+   "title": "18 Dances - Mus.4237-T-507",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1745799931",
+   "werk": "566499",
+   "title": "Karl Friedrich Curschmann",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1801198373",
+   "werk": "593546",
+   "title": "Frisch voran",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800468202",
+   "werk": "617925",
+   "title": "Triptychon - Mus.15445-T-502",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1795242663",
+   "werk": "624762",
+   "title": "Mvsae Sioniae Michaëlis Prætorij C.",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1795243031",
+   "werk": "624763",
+   "title": "[ Mvsae Sioniae Michaëlis Prætorij C. ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1807811387",
+   "werk": "625573",
+   "title": "Der Freischütz",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1807801799",
+   "werk": "627436",
+   "title": "Gesang mit Chor Fröhliche Klänge, Tänze, Gesänge aus der Oper: Euryanthe",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1807893561",
+   "werk": "627446",
+   "title": "Lieder und Gesänge für Pianoforte oder Guitarre",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1807893820",
+   "werk": "627447",
+   "title": "No. 1. [Der arme Minnesänger]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1801215626",
+   "werk": "627467",
+   "title": "[ Six Sonates pour le Clavecin, ou Forté-Piano, et Violon ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1801206716",
+   "werk": "627470",
+   "title": "Trois Sonates pour le Clavecin, ou Piano-Forté, avec Violon obligé",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800997930",
+   "werk": "628753",
+   "title": "Zwischen-Spiele zu den gebräuchlichsten Chorälen nach dem Hillerschen Choralbuche",
+   "query": "Choralbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1799805905",
+   "werk": "633763",
+   "title": "Menuetten fürs Clavier durch alle Töne",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800631944",
+   "werk": "645216",
+   "title": "Nicht nur hinter vorgehaltener Hand - Mus.15445-ZZ-682",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800470398",
+   "werk": "645217",
+   "title": "Momentaufnahmen - Mus.15445-T-507",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800113846",
+   "werk": "645220",
+   "title": "Flüchtige Verbindungen - Mus.15445-Q-505",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800091427",
+   "werk": "651447",
+   "title": "Concertos - Mus.15445-O-501",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800618948",
+   "werk": "651461",
+   "title": "Keimblätter - Mus.15445-ZZ-659",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800712596",
+   "werk": "651535",
+   "title": "Trios - Mus.15445-ZZ-693",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800090595",
+   "werk": "651567",
+   "title": "Konzert für Klavier und Orchester - Mus.15445-O-500",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800701829",
+   "werk": "651577",
+   "title": "Klarinette, Violoncello und Klavier warten auf ein Akkordeon - Mus.15445-ZZ-683",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800617305",
+   "werk": "651581",
+   "title": "Es war. Es ist. Wird es sein? - Mus.15445-ZZ-658",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800711549",
+   "werk": "655454",
+   "title": "Sonatas - Mus.15445-ZZ-692",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800732953",
+   "werk": "656459",
+   "title": "Rhapsodies - Mus.15445-ZZ-710",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800710518",
+   "werk": "656465",
+   "title": "Kurzes Aufleuchten - Mus.15445-ZZ-690",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1818875012",
+   "werk": "656908",
+   "title": "[ Aufführungen und Konzerte ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822844975",
+   "werk": "658895",
+   "title": "Zehn kleine Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-182284648X",
+   "werk": "658896",
+   "title": "[ Zehn kleine Lieder ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822847370",
+   "werk": "658897",
+   "title": "[ Zehn kleine Lieder ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822850827",
+   "werk": "658898",
+   "title": "14 Gottsucher-Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822877261",
+   "werk": "658899",
+   "title": "Aus der Tiefe schrei ich, daß dein Licht",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822876893",
+   "werk": "658900",
+   "title": "Aus der Tiefe schrei ich, daß dein Licht",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822876028",
+   "werk": "658901",
+   "title": "Ostern",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-182287534X",
+   "werk": "658902",
+   "title": "Wer wollte ihn ergründen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822875072",
+   "werk": "658903",
+   "title": "Kennst du das Lied",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822874726",
+   "werk": "658904",
+   "title": "Da die Tage so voll Not",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822873851",
+   "werk": "658905",
+   "title": "Herr, du meine Stärke",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822873304",
+   "werk": "658906",
+   "title": "Wo bist du, Gott?",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822873053",
+   "werk": "658907",
+   "title": "Gebet",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822872588",
+   "werk": "658908",
+   "title": "Nur du und immer du",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822851149",
+   "werk": "658909",
+   "title": "Durch Einsamkeiten",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-182284889X",
+   "werk": "658910",
+   "title": "Zwölf Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822849144",
+   "werk": "658911",
+   "title": "[ Zwölf Lieder ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1818871572",
+   "werk": "659085",
+   "title": "[ Aufführungen und Konzerte ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822850029",
+   "werk": "659248",
+   "title": "[ Zwölf Lieder ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1822842905",
+   "werk": "659250",
+   "title": "Heimliche Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1818875012",
+   "werk": "662579",
+   "title": "[ Aufführungen und Konzerte ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1795833548",
+   "werk": "666121",
+   "title": "Zwey Lieder Von dem Leyden und Tode Jesu",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1785191748",
+   "werk": "675043",
+   "title": "Vollständige Anleitung allen Fingern beider Hände zum Klavier- und Pianofortespielen",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1832873854",
+   "werk": "698165",
+   "title": "Sechs Deutsche Lieder mit Begleitung des Piano-Forte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1802124330",
+   "werk": "702884",
+   "title": "Sind wir Zeit - Mus.15480-ZZ-561",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1805839225",
+   "werk": "715752",
+   "title": "Symphonies - Mus.15480-ZZ-579",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1844859908",
+   "werk": "718160",
+   "title": "Sterben",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1844877019",
+   "werk": "718168",
+   "title": "Drei Lieder für tiefere Stimme",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1844877418",
+   "werk": "718169",
+   "title": "Ave Maria im Gebirge",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1844879119",
+   "werk": "718170",
+   "title": "Todessehnen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-184489813X",
+   "werk": "718171",
+   "title": "Trabe, mein Rösslein, trabe",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1844949559",
+   "werk": "718172",
+   "title": "Lieder für mittlere Stimme",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-184495062X",
+   "werk": "718173",
+   "title": "Am Strande",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1844957977",
+   "werk": "718174",
+   "title": "Am Flusse",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1844960498",
+   "werk": "718175",
+   "title": "Das Haidekind",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1844961966",
+   "werk": "718176",
+   "title": "Gebet",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1844847993",
+   "werk": "718497",
+   "title": "Sieben Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1844856062",
+   "werk": "718498",
+   "title": "[ Sieben Lieder ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1844857859",
+   "werk": "718519",
+   "title": "[ Sieben Lieder ]",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1844840514",
+   "werk": "718543",
+   "title": "Drei Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1841048453",
+   "werk": "718798",
+   "title": "Joh. Seb. Bach's Passions-Musik nach dem Evangelisten Matthäus",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-184411354X",
+   "werk": "722220",
+   "title": "Frédéric Chopin",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1846918162",
+   "werk": "724041",
+   "title": "14 Pieces - i (X) - Mus.1-U-515",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1830482580",
+   "werk": "726401",
+   "title": "Andreas Hammerschmiedts Fest-, Bus- und Danck-Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1848495242",
+   "werk": "733519",
+   "title": "2 Duets - Mus.3981-O-4b",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1831151596",
+   "werk": "741698",
+   "title": "Andreas Hammerschmiedts Fest-, Bus- und Danck-Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1846230926",
+   "werk": "749252",
+   "title": "2020-2022",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1850781826",
+   "werk": "757097",
+   "title": "Valentini Haußmanns Gerbipol. Saxonis MElodien vnter Weltliche Texte, da jeder einen besondern Namen anzeiget, vmb ein guten theil vermehret, vnd von neuem auffgelegt",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1859820573",
+   "werk": "758677",
+   "title": "3 Lieder - Mus.7099-K-505",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1859803210",
+   "werk": "758678",
+   "title": "5 Lieder - Mus.7099-K-504",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1858243882",
+   "werk": "762720",
+   "title": "Grosse Sonate für das Hammer-Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1859929710",
+   "werk": "764514",
+   "title": "Agnes",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1859933408",
+   "werk": "764515",
+   "title": "Denk es, o Seele",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1859927963",
+   "werk": "764516",
+   "title": "Vier Lieder für eine Singstimme mit Begleitung des Pianoforte",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1859928552",
+   "werk": "764518",
+   "title": "Die Schwestern",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1859930905",
+   "werk": "764521",
+   "title": "Ritterliche Werbung",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1859934757",
+   "werk": "764540",
+   "title": "Märzblumen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1870605209",
+   "werk": "779508",
+   "title": "Sechs kleine und leichte Sonaten fürs Klavier oder Fortepiano",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-187871645X",
+   "werk": "780413",
+   "title": "Trio",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1870604350",
+   "werk": "780987",
+   "title": "Vermischte musikalische Aufsätze fürs Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1870517903",
+   "werk": "782737",
+   "title": "432 Dances - Mus.1-N-6",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1880762811",
+   "werk": "782952",
+   "title": "Einsame Blumen",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1877511781",
+   "werk": "784470",
+   "title": "Abschied",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-187751151X",
+   "werk": "784986",
+   "title": "Frühlings-Blüthen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-188894725X",
+   "werk": "810774",
+   "title": "Deutsche Hausmusik aus vier Jahrhunderten",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-188825193X",
+   "werk": "813259",
+   "title": "Hugo Wolf",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1895437806",
+   "werk": "816589",
+   "title": "Stenographen-Marsch",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1895435978",
+   "werk": "817519",
+   "title": "Inkle und Yariko - Mus.5421-F-10",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1902742168",
+   "werk": "828667",
+   "title": "Tanzmusik",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1890725943",
+   "werk": "831968",
+   "title": "Concert H moll für Pianoforte mit Orchester",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1890690554",
+   "werk": "836602",
+   "title": "Concertstück",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1890708402",
+   "werk": "839458",
+   "title": "Fest-Ouverture",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1890702943",
+   "werk": "839471",
+   "title": "Musik zum Märchen von Schneewittchen",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1890696870",
+   "werk": "839482",
+   "title": "Concert No. 3 für Pianoforte mit Begleitung des Orchesters",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1907431829",
+   "werk": "852155",
+   "title": "5 Lieder - Mus.4888-K-521",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1890254150",
+   "werk": "855932",
+   "title": "[ Dur und Moll ]",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1890183733",
+   "werk": "855946",
+   "title": "Concerto elegiaco",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1890593192",
+   "werk": "856485",
+   "title": "Concert Es Dur",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1891567586",
+   "werk": "856553",
+   "title": "Weihnachts-Kantate",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1891547240",
+   "werk": "856563",
+   "title": "Kwiecień",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1891544675",
+   "werk": "856564",
+   "title": "Wybor Pięknych Dzieł Muzycznych i Pieśni Polskich na Rok 1805.",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1891547682",
+   "werk": "856565",
+   "title": "May",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1891548239",
+   "werk": "856566",
+   "title": "Czerwiec",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1795340657",
+   "werk": "856831",
+   "title": "G. Ranisien Zu dem allerheiligsten Lobe und Ehren Gottes In die Music gesetzte Sprüche, Lieder und Psalmen",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1800621272",
+   "werk": "856838",
+   "title": "2. Sonate für Klavier - Mus.15445-ZZ-660",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1858221765",
+   "werk": "856839",
+   "title": "Grosse Sonate für das Hammer-Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1891545000",
+   "werk": "857292",
+   "title": "Styczeń",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-189154599X",
+   "werk": "857294",
+   "title": "Luty",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1891546929",
+   "werk": "857295",
+   "title": "Marzec",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1899507213",
+   "werk": "857670",
+   "title": "Schwäbisches Tanzlied - Mus.4689-G-4",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-191658649X",
+   "werk": "860221",
+   "title": "Immer feste!",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1916587534",
+   "werk": "860222",
+   "title": "Mein erster Gruss!",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1918909210",
+   "werk": "860695",
+   "title": "Frühe - E.Mus.15350-ZZ-629",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1918959331",
+   "werk": "860793",
+   "title": "12 Keyboard pieces - D.Mus.15350-ZZ-771",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1919034587",
+   "werk": "860800",
+   "title": "3 Songs - E.Mus.15350-ZZ-792",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1919314911",
+   "werk": "860935",
+   "title": "Sonatas - D.Mus.15350-ZZ-764",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1920091939",
+   "werk": "862111",
+   "title": "Westfalen-Liederbuch",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-191891012X",
+   "werk": "862238",
+   "title": "Frühe - E.Mus.15350-ZZ-629(Group01)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1918911827",
+   "werk": "862241",
+   "title": "Frühe - E.Mus.15350-ZZ-629(Group02)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1913628493",
+   "werk": "862767",
+   "title": "Hyperions Schicksalslied - D.Mus.15350-ZZ-680",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1914034031",
+   "werk": "862813",
+   "title": "5 Songs - E.Mus.15350-ZZ-703",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1920514880",
+   "werk": "863214",
+   "title": "Trois Sonates Pour le Clavecin ou Piano Forte Accompagnées d'un Violon ad Libitum Oeuvre II.",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1919315772",
+   "werk": "864431",
+   "title": "Sonatas - D.Mus.15350-ZZ-764(Group01)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1914750934",
+   "werk": "864440",
+   "title": "25 Keyboard pieces - D.Mus.15350-ZZ-768",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1918960097",
+   "werk": "864556",
+   "title": "12 Keyboard pieces - D.Mus.15350-ZZ-771(Group01)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1918960658",
+   "werk": "864557",
+   "title": "12 Keyboard pieces - D.Mus.15350-ZZ-771(Group02)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-191476207X",
+   "werk": "864561",
+   "title": "Keyboard pieces - E.Mus.15350-ZZ-777",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1914899199",
+   "werk": "864588",
+   "title": "6 Keyboard pieces - E.Mus.15350-ZZ-795",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-192549490X",
+   "werk": "864722",
+   "title": "Sonate F moll",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1919038078",
+   "werk": "866176",
+   "title": "3 Songs - E.Mus.15350-ZZ-792(Group02)",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1914941845",
+   "werk": "866177",
+   "title": "Marsch der Weihnachtspuppen - D.Mus.15350-ZZ-801",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1914942698",
+   "werk": "866179",
+   "title": "Sprüche - D.Mus.15350-ZZ-802",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1915530237",
+   "werk": "866217",
+   "title": "So wie ein Mensch am trüben Tag - E.Mus.15350-ZZ-826",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-191485618X",
+   "werk": "866318",
+   "title": "Keyboard pieces - E.Mus.15350-ZZ-778",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1924773392",
+   "werk": "866538",
+   "title": "Sonatas. Fragments - D.Mus.15428-ZZ-737",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1924796376",
+   "werk": "866541",
+   "title": "Sonatas. Fragments - E.Mus.15428-ZZ-738",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1919036954",
+   "werk": "866982",
+   "title": "3 Songs - E.Mus.15350-ZZ-792(Group01)",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1919644822",
+   "werk": "867206",
+   "title": "Concertos - D.Mus.15350-ZZ-737(Group01)",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-193025962X",
+   "werk": "867470",
+   "title": "Fantasie-Sonate G-Dur für Violine und Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1930143982",
+   "werk": "867526",
+   "title": "Gedenkblatt - Mus.9315-R-500",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-193360865X",
+   "werk": "869735",
+   "title": "Klingen unsere hellen Lieder durch die Straßen von Wien - D.Mus.15428-ZZ-615",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1935607375",
+   "werk": "870826",
+   "title": "Minuets - D.Mus.15428-ZZ-712",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1936668874",
+   "werk": "873129",
+   "title": "Drei Lieder für eine hohe Singstimme",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1936113287",
+   "werk": "874038",
+   "title": "Vier Lieder für eine Singstimme",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1936114461",
+   "werk": "874058",
+   "title": "Neun Lieder für eine tiefe Stimme mit Pianofortebegleitung",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-193666903X",
+   "werk": "876477",
+   "title": "Unter dem Lindenbaum",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1939503639",
+   "werk": "884807",
+   "title": "Suites - E.Mus.15350-ZZ-774",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1924931648",
+   "werk": "888853",
+   "title": "5 Pieces - E.Mus.15428-ZZ-512",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1933609931",
+   "werk": "906072",
+   "title": "Klingen unsere hellen Lieder durch die Straßen von Wien - D.Mus.15428-ZZ-615(Group02)",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1938658361",
+   "werk": "906099",
+   "title": "3 Keyboard pieces - Mus.1-T-514",
+   "query": "Choralbuch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1938804430",
+   "werk": "906196",
+   "title": "Letztes Opfer in einigen Lieder-Melodien",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1935164880",
+   "werk": "907141",
+   "title": "Kaukasischer Mond - D.Mus.15428-ZZ-667",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1935165844",
+   "werk": "907319",
+   "title": "Lustiger Marsch - D.Mus.15428-ZZ-668",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1935166638",
+   "werk": "907321",
+   "title": "Marches - D.Mus.15428-ZZ-669",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1942017782",
+   "werk": "907474",
+   "title": "Maiglöckchen - Mus.9224-S-501",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1935609548",
+   "werk": "907515",
+   "title": "Minuets - D.Mus.15428-ZZ-712(Group02)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1935610708",
+   "werk": "907517",
+   "title": "Minuets - D.Mus.15428-ZZ-712(Group03)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1923865722",
+   "werk": "907560",
+   "title": "Trios - E.Mus.15428-ZZ-731",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1924777509",
+   "werk": "907566",
+   "title": "Sonatas. Fragments - D.Mus.15428-ZZ-737(Group02)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1924776952",
+   "werk": "907567",
+   "title": "Sonatas. Fragments - D.Mus.15428-ZZ-737(Group01)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1924777851",
+   "werk": "907568",
+   "title": "Sonatas. Fragments - D.Mus.15428-ZZ-737(Group03)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1924797577",
+   "werk": "907570",
+   "title": "Sonatas. Fragments - E.Mus.15428-ZZ-738(Group01)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-192479795X",
+   "werk": "907571",
+   "title": "Sonatas. Fragments - E.Mus.15428-ZZ-738(Group02)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1923111515",
+   "werk": "907580",
+   "title": "16 Keyboard pieces - D.Mus.15428-ZZ-755",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1923196197",
+   "werk": "907581",
+   "title": "Romances - D.Mus.15428-ZZ-758",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1923242806",
+   "werk": "907584",
+   "title": "Passacaglias - D.Mus.15428-ZZ-760",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1923471066",
+   "werk": "907585",
+   "title": "Waltzes - D.Mus.15428-ZZ-761",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1923471813",
+   "werk": "907586",
+   "title": "Waltzes - D.Mus.15428-ZZ-762",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1918891265",
+   "werk": "908025",
+   "title": "Concertos - D.Mus.15350-ZZ-747(Group01)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-193974122X",
+   "werk": "908029",
+   "title": "Suites - E.Mus.15350-ZZ-774(Group01)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1948246899",
+   "werk": "908540",
+   "title": "Metamorphosen für Orgel - E.Mus.15428-ZZ-771",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1948245809",
+   "werk": "909185",
+   "title": "Concertino - D.Mus.15428-ZZ-649",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1948268841",
+   "werk": "909224",
+   "title": "Metamorphosen für Orgel - E.Mus.15428-ZZ-771(Group01)",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1944399356",
+   "werk": "909681",
+   "title": "Gesänge beim Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1950331784",
+   "werk": "910451",
+   "title": "Six Bagatelles Pour le Pianoforte",
+   "query": "Walzer"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1944431306",
+   "werk": "910571",
+   "title": "Elfen",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1944429611",
+   "werk": "910573",
+   "title": "Waldeinsamkeit",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1944430385",
+   "werk": "910583",
+   "title": "Der Schalk",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1948164329",
+   "werk": "912339",
+   "title": "Die lustigen Zillerthaler",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1948238152",
+   "werk": "912344",
+   "title": "Der Gamsenjager",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1948238802",
+   "werk": "912345",
+   "title": "Der Hâhnbâlz",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1948239191",
+   "werk": "912346",
+   "title": "S'Busseln is koa Sünd",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1948240017",
+   "werk": "912347",
+   "title": "Der traurige Bua",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1948244098",
+   "werk": "912348",
+   "title": "Unser Heimathland",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1948245388",
+   "werk": "912349",
+   "title": "Der Alpensohn",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1948246295",
+   "werk": "912350",
+   "title": "Da Rauber",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1965390773",
+   "werk": "912778",
+   "title": "Das Wohltemperirte Klavier",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1965390951",
+   "werk": "913110",
+   "title": "[ Das Wohltemperirte Klavier ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1965391249",
+   "werk": "913113",
+   "title": "[ Das Wohltemperirte Klavier ]",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1966621744",
+   "werk": "913135",
+   "title": "Die Tanzstunde",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1966621744",
+   "werk": "913136",
+   "title": "[ Die Tanzstunde ]",
+   "query": "Tänze"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1968001522",
+   "werk": "913160",
+   "title": "6 Lieder - Mus.5259-K-1",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1967641609",
+   "werk": "914374",
+   "title": "Der Frese kommt!",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1967640491",
+   "werk": "914380",
+   "title": "Gruss an Potsdam",
+   "query": "Marsch"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1972133233",
+   "werk": "924355",
+   "title": "VI Deutsche Lieder für Gesang und Clavier",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1977616720",
+   "werk": "931218",
+   "title": "Fipps der Affe - D.Mus.15428-ZZ-549",
+   "query": "Klavier"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1966640846",
+   "werk": "940311",
+   "title": "2023-2025",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1948237385",
+   "werk": "942933",
+   "title": "Eine Kehl' die nit trinkt",
+   "query": "Männerchor"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1961104881",
+   "werk": "942947",
+   "title": "Drei Lieder",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1985058332",
+   "werk": "944914",
+   "title": "6 Lieder - Mus.4924-K-37",
+   "query": "Lieder"
+  },
+  {
+   "record": "oai:de:slub-dresden:db:id-1986127753",
+   "werk": "947673",
+   "title": "Zwei Lieder",
+   "query": "Lieder"
+  }
+ ]
+}

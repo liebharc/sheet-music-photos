@@ -1,0 +1,29 @@
+{
+  "id": "slub-1895437806-stenographen-marsch-fuer-pianoforte-op-6-p7",
+  "source": {
+    "collection": "SLUB Dresden",
+    "record": "oai:de:slub-dresden:db:id-1895437806",
+    "url": "https://digital.slub-dresden.de/id1895437806",
+    "file": "https://digital.slub-dresden.de/data/kitodo/Sten_1895437806/Sten_1895437806_tif/jpegs/00000007.tif.original.jpg",
+    "file_sha256": "2ef80d8e53da74922cf63e3318a6bf0de8cbdbe109fbb4ca2f46bb7a44fbb1f6",
+    "page": 7,
+    "page_count": 11,
+    "title": "Stenographen-Marsch : für Pianoforte : op. 6",
+    "creator": "Beyer, Victor; Gabelsberger, Franz Xaver",
+    "date": "1866",
+    "publisher": "Verlag und Eigenthum des Componisten",
+    "place": "Mainz",
+    "license": "PDM-1.0",
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "detected_staves": 10,
+  "files": {
+    "page.pdf": "b597322c06f578c88803fa31d94a5ce97ae0ebc39318f1b405d477d04ab0525f",
+    "print.pdf": "6e13dea7b33f14e8700fc847bb7a7790fae1487f48199068efcb48641fd2e5fb"
+  },
+  "reference": {
+    "kind": "homr-unverified",
+    "homr_commit": "b9bbc8137d037aaf7c528bc049ce96b884d2587f",
+    "seconds": 23.5
+  }
+}
