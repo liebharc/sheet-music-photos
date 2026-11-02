@@ -39,6 +39,38 @@
       "conditions": [],
       "license": "CC0-1.0",
       "dedication": "I took these photos myself and dedicate my rights in them to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)."
+    },
+    {
+      "file": "06.jpg",
+      "sha256": "77670b68d8b768dd75dd17129b0e8d58d07a4fd872fa974e19c9bf98a29783d3",
+      "contributor": "Lu Xiaowei",
+      "conditions": [
+        "flat"
+      ],
+      "license": "CC0-1.0",
+      "dedication": "I took these photos myself and dedicate my rights in them to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)."
+    },
+    {
+      "file": "07.jpg",
+      "sha256": "b3a2bc046a70173b6b6135d9de23322355de97cad4243568560738344ca89861",
+      "contributor": "Lu Xiaowei",
+      "conditions": [
+        "curved",
+        "tilted",
+        "background"
+      ],
+      "license": "CC0-1.0",
+      "dedication": "I took these photos myself and dedicate my rights in them to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)."
+    },
+    {
+      "file": "08.jpg",
+      "sha256": "cb30e82d1667dce6c157c547b0a81a3062933ac7ff609e1accd0a76fdf9f3811",
+      "contributor": "Lu Xiaowei",
+      "conditions": [
+        "stand"
+      ],
+      "license": "CC0-1.0",
+      "dedication": "I took these photos myself and dedicate my rights in them to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)."
     }
   ]
 }
