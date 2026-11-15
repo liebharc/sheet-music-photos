@@ -1,0 +1,22 @@
+{
+  "id": "own-mister-gallagher-and-mister-shean-p2",
+  "source": {
+    "collection": "contributed",
+    "title": "Mister Gallagher and Mister Shean",
+    "published": "1922",
+    "source": "Scanned from my copy, Jack Mills Inc., New York, 1922 (Ziegfeld Follies of 1922)",
+    "url": "",
+    "page": 2,
+    "contributor": "e-n-f",
+    "license": "CC0-1.0"
+  },
+  "confirmation": {
+    "by": "e-n-f",
+    "statement": "I confirm that this metadata is correct; that the page is a real scan of a printed edition published in 1929 or earlier, not rendered or generated; that I may share it under the license stated; and that any transcription I add was checked by me against the page and is dedicated under CC0 1.0."
+  },
+  "detected_staves": 0,
+  "files": {
+    "page.pdf": "166cabf01b69b8d12adad4fade7c61aabc7e8246d10c0eaab4c3b14651b832ec",
+    "print.pdf": "2944b8b05be7d4be4aa7ee3e6f7af7049957a29855aaa12f1b13edcd7e235979"
+  }
+}
