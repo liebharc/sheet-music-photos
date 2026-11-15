@@ -1,0 +1,22 @@
+{
+  "id": "own-taint-so-honey-taint-so-p4",
+  "source": {
+    "collection": "contributed",
+    "title": "'Taint So, Honey, 'Taint So",
+    "published": "1928",
+    "source": "Scanned from my copy, Irving Berlin Inc., New York, 1928",
+    "url": "",
+    "page": 4,
+    "contributor": "e-n-f",
+    "license": "CC0-1.0"
+  },
+  "confirmation": {
+    "by": "e-n-f",
+    "statement": "I confirm that this metadata is correct; that the page is a real scan of a printed edition published in 1929 or earlier, not rendered or generated; that I may share it under the license stated; and that any transcription I add was checked by me against the page and is dedicated under CC0 1.0."
+  },
+  "detected_staves": 3,
+  "files": {
+    "page.pdf": "1c5e1b6cf8416618aef9522e0fb6a6f7655cd6955ee80ca86885b3aac088cb07",
+    "print.pdf": "a859bd9b6fec01ab4a9f6fe5955ac3d8633bc694eb63a124ebe83a3857dddbe4"
+  }
+}

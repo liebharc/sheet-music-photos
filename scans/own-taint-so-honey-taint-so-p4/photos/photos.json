@@ -1,0 +1,15 @@
+{
+  "photos": [
+    {
+      "file": "01.jpg",
+      "sha256": "5a93bf562ff969e53a75475b0b7d19e2b12ceeae0e3519a1be30c9be1cf80d47",
+      "contributor": "e-n-f",
+      "conditions": [
+        "background",
+        "other"
+      ],
+      "license": "CC0-1.0",
+      "dedication": "I took these photos myself and dedicate my rights in them to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)."
+    }
+  ]
+}
